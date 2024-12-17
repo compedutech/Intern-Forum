@@ -1,0 +1,909 @@
+lwumb,36,2011-11-01,Aspiring Sysadmin Not Understanding The Windows Hate. Can Anyone Explain?,SpectralCoding,sysadmin,https://www.reddit.com/r/sysadmin/comments/lwumb/aspiring_sysadmin_not_understanding_the_windows/,"I currently have an internship working in a Datacenter with a combination of RHEL/Windows Server boxes. I had always learned that Windows is terrible for server-type uses and that Linux was always the way to go. I run my own VPS running Ubuntu and have been very happy with it. I use it for learning, some hosting, and just random projects. I'm 100% comfortable with the command line.
+
+After I started working at my internship which has probably 60/40 Win/RHEL OS spread I don't understand really the hate for Windows Server. I will still 100% agree that Linux takes the cake for Web-based stuff, but I feel like it can't compete with the offerings of Active Directory and other Windows-specific software. I'm sure there is something similar out there for managing Linux clients in the same way you manage Windows workstations, but I haven't heard of one.
+
+Is the ""hate"" specific to Windows Server reliability? Is it the GUI-driven interface? What about Core Server and Powershell? I guess the bottom line is that I understand Windows is better for certain things, but why the (basically) unanimous hate for Windows networks/infrastructure?
+
+Can anyone help me understand?
+
+Edit: So what I'm gathering from this is that people who STRONGLY DISLIKE using Windows server are either biased, using them for the wrong things, or aren't doing it right. I don't have any sources really but I've seen MANY posts about how much people don't like Windows infrastructural solutions, but hardly any where people say they love them. Personally, I'm very happy with our solution at my company. We also have competent admins so that definitely helps."
+lwfpe,3,2011-11-01,Getting a pay raise. I Need advice /r/webdev!,equalsthrowaway,webdev,https://www.reddit.com/r/webdev/comments/lwfpe/getting_a_pay_raise_i_need_advice_rwebdev/,"I'm a web developer intern at a company in nyc. I'm doing both front-end and back-end work 40hours a week and sometimes more (hours can be weird). My boss recently said I'd be getting a pay raise. Talked to my supervisor, and he said, ""Try to get as much as you can"". Right now I'm getting $18/hour. What should I ask for?  And yes, I'm aware that normally interns don't make alot of money. I got lucky. I'd appreciate all the help I can get. "
+lvy3p,4,2011-10-31,"Not sure if this is the right place to post this, but...",throwaway20653,SuicideWatch,https://www.reddit.com/r/SuicideWatch/comments/lvy3p/not_sure_if_this_is_the_right_place_to_post_this/,"I need to get this out somewhere and this seemed the most fitting place to do so.
+
+I'm not sure if I could technically be called 'suicidal' because the way I feel about death is much more passive: on days that I want to die, I want to get hit by a car or killed by something or someone else, but I don't want to do it myself. But I really do want to die, like I feel like that's the only way it would solve my problems.
+
+I can't really talk to anyone about this IRL because I either feel bad burdening my close friends/relatives or when I do decide to burden them I get the ""stop whining so much"" response because on the surface my life is going fairly well. (Good student, good internship, doing fairly well financially, good family, good relationship, etc.)
+
+But I keep getting weighed down by other things. I'm not sure if I can describe it, but judging from some of the other posts on here, I'm sure some of you have an idea of what I mean--my brain starts going into all of these panicky thoughts and I feel like I'm never going to amount to anything so I should just die and get it over with. Stuff like that. 
+
+I have a (physical) health issue (type 1 diabetes) that I've had since I was really young and it's just depressing having to take care of that and even more depressing knowing that it's never going to go away. I'll spare you the rant on exactly what's so depressing about it but the main points are (a) it's a lot of work, (b) it's a lot of work that none of my peers have to do, (c) everyone else seems to think that ""hurr cake diabeetus"" jokes are hilarious and I'm like okay that's my life you're making really wrong jokes about, and (d) it's expensive to pay for all of the medicine/supplies each month.
+
+I'm seeing a counselor (through my school) and things have been going really well for the past couple of weeks but today this all came slamming back into me and now I just want to curl up into a ball and die rather than deal with everything that I'm anxious and stressed out about. I just feel like such a terrible person and I can't even say why, I just feel terrible. And then I hear things like ""what could you possibly have to complain about"" and read about terrible things happening in the world and feel even worse because it makes me feel like my entire life is firstworldproblems. So then I get guilt on top of my depression.
+
+I guess what I'm looking for is advice. Does anyone have any coping skills that they can recommend? Nothing I already know of/do is helping me out and I hate feeling like I want to just die so that I don't have to deal with everything anymore.
+
+tl;dr I hate my life and sometimes want to run into oncoming traffic and want advice.
+"
+lxy22,3,2011-11-02,Engineering suggestions for internships,dmonahan24,engineering,https://www.reddit.com/r/engineering/comments/lxy22/engineering_suggestions_for_internships/,"Are there any employed engineers out there who know about available internship opportunities at their workplace or have any suggestions about where the best places are to apply for internships from when they were still in school? 
+
+EDIT: I am Mechanical and available in South Florida, Philadelphia area, or potentially the Southern California region, but if you have other opportunities available I'm sure other redditors would find them helpful."
+lxfgv,3,2011-11-02,How can I gracefully decline this job offer?  ,Lovergirl777,AskReddit,https://www.reddit.com/r/AskReddit/comments/lxfgv/how_can_i_gracefully_decline_this_job_offer/,"I'm graduating in December and have been doing on-campus interviews for internships/positions starting in January. I interviewed with two firms last week for internship positions and was offered both positions.  I had skipped a second interview with one of the firms a couple weeks ago, but when they called looking for more candidates, my professor convinced them to interview me again (not because I asked him, but because he knew I was still looking).  
+
+I had two internship offers, and I accepted the offer from the firm my professor had hooked me up with because the pay was significantly higher (though the other firm was my first choice).  When I declined the other firm's internship offer, they offered me a full-time position with a nice salary. I decided that I had to take the full-time position over an internship, although it meant I had to make a rough phone call to the firm whose internship offer I had accepted the day before.  
+
+The professor who had recommended me was very upset that I was going to ""renege"" on my word, as was my boss (another professor).  They said it would make them and my school look bad, but I said it's only common sense and looking out for myself.
+
+Anyway, when I called the firm to rescind my acceptance, they offered me a full time job too.  It is ridiculous, I wish someone would please just accept my rejection so we can get on with our lives.  So now, my professors are leaning hard on me to take the job, but my other offer is better, especially because I didn't need anyone's help to get it.  
+
+I'm sorry this is not more succinct, but if you made it this far, do you have any suggestions as to how I should handle this?  I plan to accept the job offer from my top choice (which I first rejected), and decline the one from the firm to which my professor recommended me (which I first accepted, then rejected).  Do I say something to the professors first?  
+
+  "
+lyjfm,0,2011-11-02,Should I drop out of my school counseling Master's program?,professionalquitter,AskReddit,https://www.reddit.com/r/AskReddit/comments/lyjfm/should_i_drop_out_of_my_school_counseling_masters/,"First time poster here.  This is a very difficult decision to make, because friends and family want the ""best"" for me, which is usually the best as they see it.  Right now, I feel the best thing for me to do is take some time off to recenter myself and decide whether or not this career would be right for me.  At the same time, I've worked extremely hard to get to where I am.  My undergraduate degree was in communications with a specialty in TV/video/film production.  Unfortunately, the state school I attended did not have the best program at the time.  In retrospect, I believe that the program was a test for what would happen in the real world.  Because the media production world is so competitive, only the go-getters (or those with connections) get somewhere.  We had to teach ourselves a lot and, while my motivation was partially there, it was not enough for me to become as engrossed in the process as I should have been as an undergraduate student.  So, I interned on a movie, had a brief corporate script writing job, moved to Hollywood to have more opportunities, found few opportunities with little to no pay, went broke, moved back home, and worked at a retail chain throughout all of that.  After recognizing the retail chain was going under and becoming a dreadful place to work, I decided to look into other career paths.  During this time, I had a friend going through rehab and I thought about becoming an addictions counselor.  I researched the job and talked to some people working in similar fields and it seemed way too tolling for the pay.  My friend who is a teacher recommended school counseling to me, so I did some research, received verbal support from my parents, and ultimately decided that it would be a good move for me.  After going through the application/interview process, I was accepted into a few programs and decided on the one that offered an assistantship with free room and board.  Yep, I became a resident director.  I was worried about it being overwhelming, but soon learned my program would take up 90% of my stressful life.  The program I am is a 62 credit, four semester program with practicum and internship included in those semesters.  I was never the most capable student as I struggle with memorization and OCD, but my drive to succeed in something allowed me to do fairly well my first year.  Then came the qualification exam process.  In my program, we are required to take three three-hour essay exams after the first year to show our competency in counseling.  I passed two of the exams, but one of them almost led to my removal from the program.  After failing the first exam, I was asked to do an oral defense which I also failed.  The final step in this process before dismissal was for me to do another written response to a different question.  At that point, I wanted to quit.  I was sick of the process and felt that if I hadn't been able to pass by then, I wouldn't be able to pass at all.  Somehow, through encouragement from my family and friends, I studied my ass off and passed.  It still left me shattered, though, as I have low confidence in myself in general.  
+
+This semester, I have been slacking.  My motivation has diminished a lot.  I have been depressed because I don't care and because I know that I am on the verge of not being able to do this anymore.  I intern at a school twice a week for my program right now and find it incredibly difficult to motivate myself to want to go.  Once I'm there, I do my best to work on tasks and avoid counseling.  I do this, because I do not feel competent in working with students for a number of reasons.  The big one is that I am depressed right now and feel that my internal feelings are leaking into my work with students.  This feeling became validated when my professor met with me today to discuss his meeting with my supervisor at the school.  He told me that my low self-confidence was apparent while working and that my supervisor felt I might appear unapproachable.  I work very hard to be outgoing and friendly at the school to everyone, but I do not come off as someone who is comfortable.  This professor always tells me to fake it til I make it, but when we sat down today, he took a counselor approach and tried to work out some behavioral interventions to help me feel better about myself.  We planned out a few things, but the core issue, which I feel he's on to, is that I don't want to do this.  I don't want to do the class part or the internship part.  I just want to stay in bed all day and stop being forced to work so hard to change myself.  Perhaps I've grown lazy and tired, but I feel that everything I have to do involves work on myself.  How am I supposed to be confident in myself when people keep telling me that I need to change?  Anyway, I am sorry to write so much, but I am just really worried that I am giving up just because it sounds easier.  I have given up on many things in the past.  Am I expecting too much?  Will I ever be happy with one career?  Do I have to change?  So many questions are going through my head.  Another big one is systemic in nature...Will I even be able to get a job?  I'm hearing nothing good about the prospects for school counselors and feel that I might be setting myself up for failure.  Please feel free to help me answer any of these questions.  It'd be much appreciated.  Thanks."
+m0unx,1,2011-11-04,Should I list a bad reference in my job application?,nevergoingtogetajob,AskReddit,https://www.reddit.com/r/AskReddit/comments/m0unx/should_i_list_a_bad_reference_in_my_job/,"So here's the deal:
+
+I am 22 years old in my last year of college. I just finished an interview, and the company basically told me that they want to hire me ASAP. However, before that can happen, I need to fill out a formal application.
+
+On this application, they want professional references (example: supervisors). I have worked 3 jobs, two of which I am currently employed and can get glowing reviews, and a summer internship from 3 years ago that I WILL get a HORRIBLE reference from.
+
+What happened: 6 months before that internship, my single mother died from cancer. My father (whom I hadn't seen since I was 8 or 9) ""came back"" into my life, but then abruptly left in the summer of '08 during which I had this internship.
+
+I moved to a relative's home for the summer, but I was extremely distraught and basically stopped showing up to my internship without warning. 
+
+If the company I want to work for now called the company where I interned, I'm sure they would release information about my termination by absence, which would not look favorably on me at all.
+
+I listed the internship because I did end up learning a lot for the time that I was there. And ironically, this internship is the most closely aligned to what I will be doing at this new company.
+
+My life has since settled down, and I have a lot of references (such as coworkers) who can vouch for my work ethic, but I'm afraid to list this one internship.
+
+What should I do?
+
+edit: tl;dr I have a bad reference, should I list it in my application?"
+m0t01,8,2011-11-04,"Engineers of reddit, do you have more free time now or when you were in school.",peoplemonster,engineering,https://www.reddit.com/r/engineering/comments/m0t01/engineers_of_reddit_do_you_have_more_free_time/,"I keep reading that I will never have as much free time as I did in college, so I need to enjoy it while I can. 
+
+I always thought that this was odd because as a senior ECE student I have 3-4 hours of class Monday through Friday with another 4 hours of homework each night, I spend 12 hours a week doing research with a lab on campus, and another 12 hours a week working on a project team and I feel like I never have as much free time during school as I did when I worked full time at internships over the summer. 
+
+It seems to me like I will have more time when I get out of school than I do now, but I a haven't really experienced a full time job for more than two months. So I turn to you, O wise masters of engineering, do you have more free time now that you have careers than you did in college, or is college life the easiest it is going to be for me from here on out.
+
+PS: I realize that everything goes out the window once you have a family, so I suppose my question could be specified as, ""Did you have more free time in a career before you had kids than you did in college?""
+"
+lzvs3,3,2011-11-03,College Redditors:  Where are you in your degree path and what have you done to ensure that upon graduation you'd be a viable candidate for the position you're prepping for?,fcukbear,AskReddit,https://www.reddit.com/r/AskReddit/comments/lzvs3/college_redditors_where_are_you_in_your_degree/,"In high school (late 90's), my friend and I would get excited anytime we saw someone with an Intel badge or proof they worked at some tech company that we dreamed of being qualified for one day.  I took that naivety into college and remember thinking that upon simply graduating my CIS program, I'd jump into a 6 figure job as a VP and my gf and I would live happily ever after.  Maybe someday I'd fulfill my dream of being on the cover of Wired magazine (again, this was around 98-99)!
+
+[This post](http://www.reddit.com/r/funny/comments/lydb8/value_of_a_college_degree/c2wlwd8) reminded me of that glorious innocence.  I got lucky and a month or so before the end of my first year, my dad suggested putting my html hacking skills to work and looking through the want ads.  I ended up finding a part-time internship for $10/hr at a .com where I'd be working with real life web developers and programmers.
+
+That put a wet finger over my newly lit flame and I realized where the money was (those java guys were making close to 100k!) and how difficult it was to become a VP and get into that kind of money.
+
+Point being, I hadn't done ANYTHING other than drink the kook-aid in college and if it wasn't for my dad's off-hand comment, I would have neck-deep in a Stafford loan with nothing but a couple of intro programming classes under my belt.
+
+The path to becoming a web developer or programmer is pretty straight-forward and I know some of you have more complicated paths to get to where the money is.  What work have you done so far?  What were your findings?  Met anyone else like me who was sorely in over their head as far as expectations went?"
+m2scy,4,2011-11-06,Help. I love to code and design (as a dev) but an opportunity came up as a QA. Should I take it?,sq7red,cscareerquestions,https://www.reddit.com/r/cscareerquestions/comments/m2scy/help_i_love_to_code_and_design_as_a_dev_but_an/,"Hi reddit,
+This is my first post on reddit pardon if I break a rule. Anyway here's the deal.
+
+I've been looking for a software developer role for a few months. I would love to work either as a developer or systems analyst. Just recently I got an offer to be an intern (then permanent) as a QA.
+
+I've heard some of the roles and tasks on QA. With due respect, its fine but I think that I would prefer a developer role. Everything else sounds good (the training, company, etc). I've heard that it's hard to transition to another role after your first one as you become grounded/labeled by your previous role.
+
+I'm having doubts on taking it as (cliche or cheesy as it maybe) my passion is not in it. I am getting desperate for a job (but the intern role period is unpaid).
+
+Advice would be greatly appreciated."
+m3xri,3,2011-11-07,Needing a free online resource for logic design,Hazmatters,engineering,https://www.reddit.com/r/engineering/comments/m3xri/needing_a_free_online_resource_for_logic_design/,"I have an interview for an internship in semiconductor verification/design coming up, and I'd like to learn more about the topic. I only have my intro to computing textbook and that only goes as far as a very basic computer architecture. Any ideas?"
+m3oq0,1,2011-11-07,Reddit - I am alone at work...,Brokenheartedidiot,AskReddit,https://www.reddit.com/r/AskReddit/comments/m3oq0/reddit_i_am_alone_at_work/,"Reddit - I am alone. I'm in my early 30s, just moved to a new city, have a developer IT job, and am totally, utterly isolated at my 9-5 job. My specific job has me isolated in weird division due to political feuds between the head of the Departments. There's no other fellow techies here where I'm at. The other division with the developers are full of guys in their late 40s, wives and children, commutes and family time. None of them are into happy hours, bars, or even group lunches. Every single last one of them are extreme introverts and can always be found eating alone in their cars or hidden away in their cubes. I've lost count of how many times I've tried to reach out to go hang with them or organize a get together that ended up nowhere.
+
+I've also tried going outside my division for human interaction but I'm either too old for the younger early 20s interns or too technical for the others. It's hard enough meeting people in a new city but not even having reliable coworkers you can hang with for a simple lunch is terrifying. I like the work that I do and don't want to quit, but spending each day zoned out with my headphones on and having no human interaction for 8 hours (other than with my boss) is utterly depressing the holy fuck out of me. What do?"
+m3ntw,5,2011-11-07,[HIRING] Application Support Analyst &amp; Research Support Analyst - NYC,Prospect33,forhire,https://www.reddit.com/r/forhire/comments/m3ntw/hiring_application_support_analyst_research/,"I work as a recruiter for a global consultancy based out of New York and London. Our client a major investment bank is looking to hire for two IT positions : Application Support Analyst at the AVP level (3-7) years experience, with a strong support background and experience with UNIX and AUTOSYS.
+
+Research Support Analyst, no experience is required but related internships are a strong plus, Canidates should have a degree in computer science or related, with knowledge basic of Unix, Linux, and SQL.
+
+If you are interested in any of these positions you can email me your resume at matthew.taylor@prospect33.com and I will send you a job description with more information about the position.
+"
+m3n8s,4,2011-11-07,"Help, I have never Written a Resume before and Don't know how to get started?
+",[deleted],resumes,https://www.reddit.com/r/resumes/comments/m3n8s/help_i_have_never_written_a_resume_before_and/,"I'm a College student and I need to Start applying for Internships very soon except I have a problem, I've never been taught how to Create an honest to God Resume. Whenever I ask someone they just say ""that sucks"" or ""look it up"" and most things I've found online are completely unhelpful. So if anyone could help me with this I'd be very glad.
+
+BTW I'm a computer Science Major so any Computer Science Specific help would be greatly appreciated"
+m3mtq,1,2011-11-07,How do you create a Resume?,[deleted],AskReddit,https://www.reddit.com/r/AskReddit/comments/m3mtq/how_do_you_create_a_resume/,"I'm a College student and I need to Start applying for Internships very soon except I have a problem, I've never been taught how to Create an honest to God Resume. Whenever I ask someone they just say ""that sucks"" or ""look it up"" and most things I've found online are completely unhelpful. So if anyone could help me with this I'd be very glad.
+
+Edit: BTW I'm a computer Science Major so any Computer Science Specific help would be greatly appreciated"
+m3m92,1,2011-11-07,"[hiring] Application Support Analyst and Research Support Analyst, NYC area",[deleted],forhire,https://www.reddit.com/r/forhire/comments/m3m92/hiring_application_support_analyst_and_research/,"I work as a recruiter for a  global consultancy based out of New York and London. Our client a major investment bank is looking to hire for two IT positions : 
+Application Support Analyst at the AVP level (3-7) years experience, with a strong support background and experience with UNIX and AUTOSYS. 
+
+Research Support Analyst, no experience is required but related internships are a strong plus, Canidates should have a degree in computer science or related, with knowledge basic of Unix, Linux, and SQL. 
+
+If you are interested in any of these positions you can email me your resume at matthew.taylor@prospect33.com and I will send you a job description with more information about the position.    
+"
+m3iyu,6,2011-11-07,"[For Hire] Seeking Internship in UX, Design, IT, Web Development, SAP, Advertising, or Marketing",NJITBrian,forhire,https://www.reddit.com/r/forhire/comments/m3iyu/for_hire_seeking_internship_in_ux_design_it_web/,"My name is Brian, I currently work at** Colgate-Palmolive** as a Buisness Process Analyst Intern.  I work with Business Objects(BOBJ) and SAP a lot!  I am a **Human-Computer Interaction** major at **NJIT**.  My major is all about User Experience(UX) think of it as Human Factors towards computers.  I am very flexible, I know a lot about **UX** and **Programming/Development.**  If you're interested shoot me a message and I will send you my contact information.
+
+I'm always into trying new stuff so if your company does **marketing**, **development**, **user experience**, **human factors** or anything else you think a **social geek** would be good at I will consider **trying it**
+
+ [**Click here for my resume**](http://www.deminyx.com/BrianEvans_RESUME.doc)"
+m3ij8,1,2011-11-07,"[For Hire] Seeking Internship, In UX, IT, Web, DRUPAL, and SAP",NJITBrian,NYCjobs,https://www.reddit.com/r/NYCjobs/comments/m3ij8/for_hire_seeking_internship_in_ux_it_web_drupal/,"My name is Brian, I currently work at** Colgate-Palmolive** as a Buisness Process Analyst Intern.  I work with Business Objects(BOBJ) and SAP a lot!  I am a **Human-Computer Interaction** major at **NJIT**.  My major is all about User Experience(UX) think of it as Human Factors towards computers.  I am very flexible, I know a lot about **UX** and **Programming/Development.**  If you're interested shoot me a message and I will send you my contact information.
+
+I'm always into trying new stuff so if your company does **marketing**, **development**, **user experience**, **human factors** or anything else you think a **social geek** would be good at I will consider **trying it**!"
+m3dnm,1,2011-11-07,Apartment in Montreal,Canpaddy,AskReddit,https://www.reddit.com/r/AskReddit/comments/m3dnm/apartment_in_montreal/,"Hey guys, I'll stay in Montreal from the 10th of February till the 30th of June (2012) for a internship at CANMET. Therefore I'm searching for a small apartment (a cheap one if possible). Is there anyone out there, who can give me further advice? Whats the best way to go for me?
+
+"
+m5d02,40,2011-11-08,Need some practical advice on becoming a real world programmer.,doeswayneexist,learnprogramming,https://www.reddit.com/r/learnprogramming/comments/m5d02/need_some_practical_advice_on_becoming_a_real/,"A little background:
+
+I am a philosophy student at UCLA and I just recently got into programming. I cannot express how much I enjoy coding. It is an amazing practical outlet for the analytical and explanatory skills I have picked up in philosophy. The intellectual high I get when I compile a challenging C++ program and it runs is addicting, to say the least. I am currently taking an introduction to programming class, which uses C++ as the example language, and I am teaching myself JavaScript on the side. Through this, I am learning the fundamentals of programming. In addition to programming, I spend pretty much all of my free time on educational websites learning as much as I can about computer science in general (I love recursive algorithms, and logic gates). It goes without saying, I feel as if I have found my calling. 
+
+TL;DR: I LOVE PROGRAMMING!
+
+Basically, what I would like to know is what are some real world skills that I should begin to develop that would benefit me when I try to get an internship or a job. For example, I remember reading a topic the other day where someone was discussing the importance of revision control, and using git. This is the type of stuff I am talking about. 
+
+A small list or a single suggestion would be greatly appreciated. 
+
+
+
+
+
+
+
+"
+m5bnv,2,2011-11-08,"hey r/webdev need advice for a computer programmer with no experience in HTML5,Javascript, and CSS.",yamato57,webdev,https://www.reddit.com/r/webdev/comments/m5bnv/hey_rwebdev_need_advice_for_a_computer_programmer/,"Hi I am currently an intern at a web based company. They want me to start learning HTML5,Javascript, and CSS to help create a web based games. I graduated with a programming degree and I know C++,C#,JAVA,UNIX,PERL,and SQL. Does anyone know what good websites help teach me and books I can read.
+
+ I am currently reading The Essential Guide to HTML5 : Using Games to learn HTML5 and JavaScript By Jeanine Meyer. Any tips?"
+m5biu,6,2011-11-08,A question regarding CS internship resumes,BinofBread,cscareerquestions,https://www.reddit.com/r/cscareerquestions/comments/m5biu/a_question_regarding_cs_internship_resumes/,"Hey Reddit,
+
+I've been looking around at some of the other resumes floating around this subreddit and found that they mostly belong to people who have been in the industry for a while so when I'm having a hard time getting my resume in order.  I'm currently a junior in CS trying to apply for some summer internships and am really struggling with how to classify my programming experiences (ie which languages I've worked with on which OS's and on which IDE's).
+
+So here is the relevant chunk as it stands now:
+
+
+
+Special Skills
+	Programming Languages
+	Experience with: Java, C, C++, VB.Net, and ASP.Net
+	
+	Programming Environments
+	Experience with: Eclipse, Visual Studio 2010 and Emacs 
+	
+	Operating Systems
+	Experience with: Linux/Unix, Android and Windows Mobile 
+
+
+I understand that the operating systems bullet may be sort of trivial but I wanted to convey that I've been doing things outside of class like trying some android apps and such.
+
+Anyway, any tips on wording or formatting would be greatly appreciated. One final question though, should I be putting relevant courses on my resume as well?  For example I've taken Intro to Data Structures, Intro to AI, Intro to OS, and a number of other courses that could potentially look good on a resume so let me know what you think!
+
+Again, thanks for reading / comments.
+"
+m4x7e,0,2011-11-08,What is one actually relevant thing that you would never admit to in an interview? I'll start.,AwayFromLife,AskReddit,https://www.reddit.com/r/AskReddit/comments/m4x7e/what_is_one_actually_relevant_thing_that_you/,"I'm a Computer Science major, and I've held 2 relevant internships and am now holding a full time job. I would never tell a prospective employer this:
+
+While I do my work at my job, I don't put forth effort, I don't work hard, and I often slack on Reddit (lolz). The reason being, I don't really want to be here. In the future, I hope to have a job I enjoy doing, but right now I don't have it.
+
+Both of my internships, I slacked every day because I knew that I was only going to be there until the end of summer, and this job I kind of dislike and am currently looking for work elsewhere. I don't see the reasoning behind putting forth a lot of effort at a place that I don't want to be and I know I won't be staying for very long.
+
+However, I would never tell a prospective employer that. What is your truth that would actually be relevant to say in an interview, but you wouldn't in a million years?"
+m4uy6,1,2011-11-08,Exchange 2003 on a W2k3 box Problem,digitaljdr,sysadmin,https://www.reddit.com/r/sysadmin/comments/m4uy6/exchange_2003_on_a_w2k3_box_problem/,"**Back story:**
+We are a medium sized business of about 110 people in two locations. We keep our servers current with patches and updates. 
+
+Last year we started to have problems with our Exchange server at work and one of my projects as an Intern at my current job before I was hired as a temp was to upgrade our SMSME (Symantec Mail Security for Microsoft Exchange). 
+
+Which went off without a hitch but 2 months after the upgrade we got a call from the United Nations Network Security saying they where getting DDOS'd from an IP on our network, turned out it was our second network card in our exchange box. We disabled the card and did a security audit on the server and found nothing suspicious on it but I still had a feeling something was wrong with it. It was back up and running, and my boss issued me a new task to work on. 
+
+Fast forward to 2 weeks ago, we move one of our warehouses back to the main production facility and over that weekend of setting up the computers and re-joining them to the domain the banwidth of our T1 takes off like a rocket maxing it out completely. We worked with our ISP and did some tests on our circuit to find that it was our system and nothing from the ISP we thought it was the load of the systems and servers from the warehouse. 
+
+Nope we tracked it to our exchange box once again using TCPview found that it had multiple connections to an internal computer, and this morning when I logged in the local backup account we had created was logged in through a remote connection, at the time I thought it was my boss (who is on vacation at the moment) doing info store backup or something. A quick text to him and I found out that it wasn't him. 
+
+So I locked down all but the local administrator account, and disabled the rest. 
+
+**tl;dr** *Believe our exchange server was hacked and I'm asking what can I do to fix it while my boss is out of the country.*
+
+So my questions are one, do/did we have a breach of security? (seems pretty obvious we did). Two what steps should we take to insure this doesn't happen again? Three what software do you run on your exchange boxes to prevent stuff like this from happening? Is the TCPview image below normal? The only things that run on this server is mail, exchange security and our blackberry enterprise. I realize that multiple connections to the store may be necessary but that many?
+
+**Images: **
+
+[Network utilzation over a 24 hour period of the weekend the warehouse move occurred.](http://i.imgur.com/LSgmX.png)
+
+[Network utilization for the month of October.](http://i.imgur.com/UA8NZ.png) 
+
+[Exchange TCPView screen cap.](http://i.imgur.com/JxD4S.png) "
+m4muh,1125,2011-11-08,Severely disabled young intern starting at our office - what do I need to know?,shinjirarehen,AskReddit,https://www.reddit.com/r/AskReddit/comments/m4muh/severely_disabled_young_intern_starting_at_our/,"Last month a 16 year old came into our office a few days a week for work experience. He is severely physically disabled, though mentally just fine. He basically can only move his face and his hand a tiny bit, which he uses to operate his computer. It seemed to go pretty well - some of our staff taught him about programming and I had some short chats with him. He's nice but very shy. During that time he had a pro caregiver with him all the time.
+
+Now he's coming back for a longer internship, but without the caregiver so he can try gaining some independence. He's told us that as long as people are around to help him out if he needs something (such as scratching his head or moving his leg) that he can go without the caregiver (this is also a plus for his family financially). 
+
+Everyone in the office is happy to help. But we have no experience with this kind of thing. Personally, I think it will be as good for us as it will be for him and we're happy to have him. But I want to know what I can do to make his time with us as good as possible for everyone (I'm kind of the office manager). I mean, obviously I am going to talk to him and try to make him feel welcome, but not sure what else I need to be thinking of. All the really basic stuff like getting in the building and setting his computer up is already taken care of.
+
+One thing I'm worried about is people tend to get really absorbed in their own work and wear headphones. I don't wear headphones but I can't be there every minute. It's a totally open plan office where we sit around big tables, so if he spoke up someone would probably take notice, but he can't even wave at us so I'm worried he'll need something and no one will notice him. Also, he's very quiet and shy so he's going to have to be a bit louder... I think it will be good for him to gain a little confidence speaking out as well. Should I just ask him to, like, email us if we're being oblivious?? Seems silly to email someone sitting right near you....
+
+Any advice appreciated!
+
+EDIT: Wow! I have never had a post blow up like this (I know, I know, obligatory front page edit hahah). Thank you to everyone who took the time to comment! 
+
+Just to clear a couple things up: We are not located in the US, so many of the legal issues or help organizations mentioned don't really apply. There is a disability charity involved in getting money for his transport and supporting his work experience in various ways. The representative from there was present at the meeting where we discussed if he needed a full time caregive, and they seemed to support his independence. I will be looking into our insurance and liability, etc, but I just don't think the whole suing issue will come up as like I said we're not in the US.
+
+His major needs like food and the bathroom will be taken care of by his family. The plan is for him to come in a couple hours in the morning, then have his dad come in and feed him lunch and take care of anything he needs, then he'll stay a couple more hours in the afternoon. So not full days. This is why I think what he's asking us to do is just little things like moving his leg.
+
+Of course I asked him about these questions first and made sure he knew we're happy to help but it's up to him to communicate clearly with us. He can use a computer fairly well, and his voice works normally. He's just a young shy 16 year old kid trying his first job, so I think we'll need to ease his transition as much as possible.
+
+The most common suggestion here is setting up IM/Skype for him in case he's not able to get our attention. We'll definitely do that. We have an open plan office with no wall or cubicles so I think he'll be able to reach us one way or another.
+
+Lastly, no one will be forced to help him. People are saying it's not right to be obligated to help him int he workplace. We're a small forward thinking company with no hierarchy, bosses, set working hours or days - no one is forced to do anything here. So it's totally optional. However, luckily everyone at my work is very keen to help and no one is there to just do a job and go home.
+
+Thanks again everyone! Sorry I couldn't reply to every comment... never expected so many. Hope I answered all your questions."
+m6g6m,2,2011-11-09,I am meeting with a faculty member about a secondary education certification program. What types of questions should I be asking?,rza22,AskReddit,https://www.reddit.com/r/AskReddit/comments/m6g6m/i_am_meeting_with_a_faculty_member_about_a/,"So far I have:
+
+1. Will I be able to apply to the Graduate Intern Program this summer if I am accepted in the spring?
+
+2. Do you know if I would be eligible for work study?
+
+3. If I plan to work in another state after becoming certified, will other states recognize the certification?
+
+4. Are there opportunities to work with a professor on research?
+
+5. Do you know the percentage of students that get hired within the year of certification?"
+m664e,1,2011-11-09,I'm not going to be able to stay in college,mythrowawayusername,AskReddit,https://www.reddit.com/r/AskReddit/comments/m664e/im_not_going_to_be_able_to_stay_in_college/,"I just got told by my professor that I am getting a zero on a project that is a huge portion of my grade.  As I had just landed on Academic probation, I'm now sure that I'm going to be flunked out of college, and I don't know what to do moving forward.
+
+The reason I failed: the professor won't give me more time to fix the project as it was assigned a month ago.  I had to put off the project to an absurd degree because of other classes and procrastination. I fucked up, and it is my fault, I realize this.  I am not looking for any sympathy,  I just need to know how to move forward.
+
+I was on my 4th year of college at Virginia Tech as a computer science major.  I consider myself smart and a talented programmer (for a student I admit).  I have 3 summers of work experience with the same company as an intern.
+
+EDIT:  To the comments that I just couldn't be bothered to do my work, I have not gotten 8 hours of sleep more than twice a week in the past month and have simply not slept on average at least one night a week.  I have been working very hard taking cryptography (not the class that is going to fail me) and trying to recover from missing some class periods."
+m62uv,1,2011-11-09,[Fore Hire] Junior in University majoring in Mechanical Engineering,Asian_Persuasion,forhire,https://www.reddit.com/r/forhire/comments/m62uv/fore_hire_junior_in_university_majoring_in/,"I am currently a Junior in Rutgers University majoring in Mechanical Engineering that is looking for an internship near the central NJ region (in America). 
+
+GPA: 3.15
+Technical Experience: Solidworks, Matlab, Maple, Java
+
+Feel free to message me to see my full resume."
+m5tx0,3,2011-11-09,I Hate it here. [Rant],TheStupidKid,SuicideWatch,https://www.reddit.com/r/SuicideWatch/comments/m5tx0/i_hate_it_here_rant/,"I just want to off myself. I just had this impulse just now on wanting to down a bunch of sleeping pills but the stash I had is gone now...Don't know what happened to them.
+
+
+I'm a recent college grad and it's been really hard for me to get a job in my field of engineering. Almost 6 months now and despite my constant applying and showing 'assertiveness' by calling back, I've only gotten one interview which did not land me any kind of offer. 
+
+
+Future plan fail: My parents constantly nag me about my future plans which I have been constantly working on. I'm still applying for jobs and I've applied to graduate schools (to ones that by some fluke I'll have a chance to get in due to low GPA and GRE scores). Though they KNOW this, they keep asking me if I've been applying, heard back from schools yet, etc...things to remind me of my failures and how useless I am. They add salt to the wound by asking about my schoolmates (same major); what they have been up to or if they have jobs. They all have good jobs, and some are in grad school as well. It constantly reminds me of how we all put in the same effort; we all applied for internships, studied together to get high grades, everything it took to be successful post-graduation. They got what they aimed for, I did not. Even a schoolmate that did worse than me in school got a good job (I'm genuinely happy for him but I'm just baffled that after all this time, I can't get a job. I had the mentality of 'if he can do it then I can,' I guess I'm just unlucky).
+
+
+Social life fail: I've never had a girlfriend, and when I was young my parents never let me out, so I grew up having in-school friends. Things did get a bit better in college but my parents would always yell at me to put my time into studying if I ever went out more than once every two weeks.  I would argue with them to let me out, but whenever we got in a confrontation, they yell and say ""Just leave, I don't care about you anymore."" It makes me guilt-ridden because I know how much they've sacrificed to get to where we as a family are now, and how they want me to be safe from any danger...but it pisses me off that they won't give me any freedom to learn about it for myself and how to deal with it. I end up with the attitude of 'ok fine you don't want me to go anywhere I won't ever leave the house' (my mom has this stubborn personality) and spend the rest of the day/week not talking to them. I guess it also led to me not being very social...I end up very quiet no matter how well I know a person.
+
+Makes me hate myself: My parents always point out my flaws--how overweight and inactive I am or how I don't know how to think for myself when I'm told to do a task. I believe that it's their fault- They always told me what to do and never let me out to do anything in worries that I'd hurt myself. I never thought about rebelling because of the respect I have for them. My dad came to US making a living for himself from scratch; dirt poor. I felt that I should obey my parents to make them happy, to let them know that throughout their troubles, it all paid off in the end to have such a close and loving family (which is very important to them). 
+
+All of this has taken a big toll on me. I feel so moronic. I don't know anything outside of my family's routine...inexperienced about the world outside. I can't do shit and am completely useless; no friends, no job to help my family out, no ambitions, no real-world experience...nothing to look forward to in life no matter how hard I try...no hope. 
+I tried to get out of this suicidal depression through help from some 'friends' but in the end they don't give a shit. I've spoken to a counselor about this at my university when I tried to seek help, but I just broke down and I hate that feeling so no therapist or anything for me...plus I can't afford it.
+
+I just want to die...I mean, the only people that would care is my family, and honestly...as close as I am to them, just writing all this makes me realize how I'm so sick of it all. I'd happily switch the life of my own for a person that actually wants to live a life but cannot (cancer or something) but sadly I can't. So I'll finally be happy if I die not by my own hands but by some unlucky event, so my family will never know of how depressed I am. G'night to you all for now.
+
+**TL;DR** Hoping to die soon."
+m802n,3,2011-11-10,Question about internships,misdirecT,cscareerquestions,https://www.reddit.com/r/cscareerquestions/comments/m802n/question_about_internships/,"Do companies expect you to be an excellent programmer when they hire you (as an intern)? Or do they take into account that you are still young and have the potential to learn a lot and become a good programmer.Specifically, what are you experiences with internships? Did you learn a lot? Did you have somebody ""mentor"" you during your time there? 
+
+Thanks in advance!"
+m7tuq,3,2011-11-10,Graduating CS guy in need of critique!,Drache,resumes,https://www.reddit.com/r/resumes/comments/m7tuq/graduating_cs_guy_in_need_of_critique/,"Need some advice on my resume! I'm graduating in the spring, and looking for a position in IT infrastructure/solutions consulting/network engineer or something of the sort.
+I had a full-time software-related internship that was part of our program, but not much else in the way of experience or certifications (besides a degree soon, optimistically),
+Thanks in advance!
+
+[Here it is!](http://dl.dropbox.com/u/34375/resume-redacted.pdf)"
+m7lwp,6,2011-11-10,[For Hire] UT Austin graduate with lots of Corporate IT experience. Little bit of basic programming. Willing to work HARD and learn FAST!!,worksmartplayhard,forhire,https://www.reddit.com/r/forhire/comments/m7lwp/for_hire_ut_austin_graduate_with_lots_of/,"I am a smart, talented, and hard working graduate of UT Austin. I moved out here to Northern California to work for a software company only to be faced with layoffs from a mediocre job I only took after maneuvering through the bleak economy and encountering only alternative prospects unfitting for my education and experience. (I've had a paid internship in Silicon Valley and a few unpaid internships under my belt at the point of graduation)
+
+I've gotten offers to work, but none of them have been in field that I am remotely interested in. (Mostly call centers, sales, or customer service positions with high turnover rates) 
+
+I went to my state's Employment Development Department (EDD) center A program offered in California that gets people back in school to give them more access to ""hard skills"", but they said that my resume was too privileged and turned me away from benefits that they normally extend to their ""average"" patron. Which I assume at this point to be high school dropouts or delinquents who have barely acquired a GED and want to get into cosmetology or truck driving school. 
+
+I can't help but feel like I've fallen through the cracks with my potential and willingness to work hard but no real job prospects coming along my way. 
+
+Rest assured, that during this time I haven't been letting myself get comfortable sitting on my hands while waiting for an oppurtinity to hit me on the head. I am actually proactive in either learning a programming languages or doing freelance work in my areas of interest which are IT, web and graphic design. I do this to build up my portfolio and also to hedge my bets on what future work prospects might require me to do.
+
+If any recruiter is interested in inquiring more about me with a **legitimate** offer to work in a mid-entry level position, I will send you a link to my LinkedIn profile. However you must tell me about your company and the position requirement first so that I know you're not just blowing smoke. 
+
+I am ALWAYS willing to put everything I have into my work, BUT I am not a paper pusher or coffee making intern. I have entirely too much creativity and talent to be wasting it on a low skilled OR underpaid position. 
+
+I hope this is clear on what I am looking for. That being said, I am looking forward to being faced with many great new opportunities. Thank you for reading, I hope to hear from you soon!! "
+m6sn8,1,2011-11-09,What to do to develop from a undergrad in Computer Science to a CS professional. ,[deleted],AskReddit,https://www.reddit.com/r/AskReddit/comments/m6sn8/what_to_do_to_develop_from_a_undergrad_in/,"I am a second year at University of California Riverside. My CS classes are all in C++ and all I have gotten down so far is basic data structures and some linux programming but I know the language really well. The linux programming experience I had was just a shell program that needed to fork and thats it. I started programming last year, did not have any experience prior. I am pretty good at C++ if I know what it is I am programming.
+
+I do not want to graduate and not get a job right away. What are some things I can do, other than learn another language, that I can do to be a better C++ programmer?
+
+I have been doing a lot of research, I was looking into SDL, QT, GTK+, and the Boost and STL libraries. I was also reading up on a tutorial I found on this website about sockets, think it was called Beej's guide to sockets. And on top of that, I was getting some of my friends together to implement a pokemon game using SDL in C++.
+
+Anyways, I made a github account and began to browse some C++ programs source code, looked at the bitcoin one and a mmorpg game server engine and I realized I do not have the skill to construct programs like those. I honestly would not know where to begin.
+
+So I ask, when you were starting out what did you do? What would you recommend I do now? What is something every C++ programmer should know and be able to do?
+
+Also, I tried searching for this but could not find anything on it, what book, if any, should I read to teach me the process of developing software like the bitcoin one? For example, how to lay everything out (source code wise), how it should be distributed etc.
+
+So far, I have been reading effective c++ by Scott Meyers., and I have been networking, I talk to my professors all the time, know some on a personal basis but no luck with internships or whatever an I am a great public speaker from what I have heard and I'm super social. I guess you guys are all right, I should get started on my project were we emulate a Pokemon game. Thing is we don't know where to start. Especially if it was to emulate google docs or something. Because again software construction, especially with multiple developers, could use a crash course in that."
+m6rvu,2,2011-11-09,Remote installations,HowdyBob,sysadmin,https://www.reddit.com/r/sysadmin/comments/m6rvu/remote_installations/,"So I recently started as the IT intern at a small company and lately the only projects I've been given is to make sure everyone's computer can run, keeping them up to date, installing necessary software, etc.. 
+
+Lately I've ran out of things to do, and my boss just wants me come and show the other employees that I am here and they have my assistance whenever needed. But I've been trying to figure out more ways that I can be of assistance as opposed to just basic maintenance. 
+
+ I was wondering, is it possible to check somewhere to see what users are logged into what computers as well as performing single or mass installations on computers from behind the scenes? I find it silly to be calling people and asking them to tell me their computer name and IP address by having them manually click Start --&gt; Right click Computer etc.. Also when new users join the network with a new computer or something is it possible to remotely connect to their computer with my administrative account and perform the necessary installations? 
+
+A bit long winded but I am open to any suggestions.
+"
+m6ra0,1,2011-11-09,Clever/ Insightful Questions to ask an Intern for first round Interview?,keracliM,AskReddit,https://www.reddit.com/r/AskReddit/comments/m6ra0/clever_insightful_questions_to_ask_an_intern_for/,"I am doing the first round of interviews for interns in various areas at my job. My boss is out of town so this first round is on me. I am looking to put them on the spot, learn more about them, and see some quick critical thinking. Any suggestions? 
+
+Some that I have been asked while being interviewed:
+
+If you could have coffee with anyone from any time who would it be and why?
+What form of tomato would you take and why? (not kidding, i was asked this) "
+m8yes,1,2011-11-11,I got my dream job and I just want to encourage everyone here!,[deleted],jobs,https://www.reddit.com/r/jobs/comments/m8yes/i_got_my_dream_job_and_i_just_want_to_encourage/,"I am Major League Gaming's latest hire. Currently I am only a contractor but I am hoping that my dedication and skill will lead to an employee position with full benefits. I used to lurk this subreddit obsessively last year so I want to give back.
+
+When I first saw the posting that MLG was looking for interns, I sent in my resume with a bold cover letter because, to be perfectly honest, I didn't expect to hear back at all. I have sent nearly half a hundred resumes just for internships and did not hear a word back from any of them.
+
+Well, they called me back. I was barely able to speak, but even if I was it wouldn't have helped since I was shopping at the time and surrounded by noise. They said they'd call me back on Monday.
+
+I heard nothing back on Monday. My anxiety eventually turned into anger and frustration. Yet another pipe dream flushed down the toilet. My girlfriend suggested that I follow up with another e-mail or try to call the office.
+
+""I know what it's like on Mondays,"" she said, ""It's nothing personal. Sometimes it's just hard to keep track of everything and you forget.""
+
+By the Tuesday of the following week, I got the internship. At the end of my internship, I got an interview with the editorial team. I was supposed to hear something back by next Thursday.
+
+Again, Thursday came and went. Again my girlfriend pushed me to keep trying, to hound the editorial team and the Editor in Chief. After nearly a month of back and forth contact, I am starting my first day as a full-time contractor this coming Monday. It is not exactly what I wanted but I am extremely grateful, and if this process has taught me anything, it's to not give up.
+
+Guys, it's really, really, really hard out there. I am so incredibly grateful to be given this opportunity to work in an industry I am extremely passionate about. I look back on my long period of working dead-end part-time jobs and being unemployed as a blessing now. There is an overwhelming desire in my heart to give intelligent, driven people good jobs. It has taught me how important it is to invest in people, not profit margins.
+
+I know what it's like. I've been there, but please don't ever give up. Don't think things are hopeless. Good things will happen, I promise you. In a few months, I hope to be transitioned into the Content Editor position. If I do and our editorial team is hiring, I promise I will be checking this subreddit for candidates. I promise to be quick, professional and honest with my replies and follow-ups.
+
+I urge all of you to keep that mindset. You know what it's to agonize over when you're getting a call back or fear if you're being led on. In the future when you are employed, it means you will be that much more understanding and loving to those who will be in your position now.
+
+Don't give up. You can make it."
+m8ung,0,2011-11-11,What do Microsoft/Google/Facebook/Apple/Intel etc. pay their CE/CS interns? ,eecsstudent,AskReddit,https://www.reddit.com/r/AskReddit/comments/m8ung/what_do_microsoftgooglefacebookappleintel_etc_pay/,"I'm a junior (senior credit standing) majoring in computer engineering at a top ten university. I have been in contact with recruiters at Twitter, Facebook, Intel, Microsoft, Google, Los Alamos National Lab, and some smaller local companies regarding internships. I've gotten a couple of offers so far but I am wondering what I should expect in terms of pay. My current internship doing university research pays $18/hour, but I am anticipating a higher wage for the summer and possibly housing/other perks. A friend with similar qualifications who is in CE with me had an internship at Qualcomm as a sophomore and was paid $25/hour + housing.
+
+So, Reddit, did you intern at one of these places or a similar tech company? Do you work at a tech company? How much were/are you paid? Were housing and other expenses covered? Did you enjoy your internship?
+
+Tl;dr
+How much were you paid at various tech companies as interns (or as ""real"" employees)?"
+m8efy,1,2011-11-11,Finishing my the last year of my degree and will be doing an internship this summer looking for some direction.,parkerz123,sysadmin,https://www.reddit.com/r/sysadmin/comments/m8efy/finishing_my_the_last_year_of_my_degree_and_will/,I know any business is situational depending on what platform the run on but what would you expect an intern to know/be capable of. Keep in mind my degree isn't finished yet. Also what tasks would you have your intern do to start getting him/her acquainted with your company's network.
+ma7y9,3,2011-11-12,Any tips for answering technical questions on a job interview?,rainingdx,engineering,https://www.reddit.com/r/engineering/comments/ma7y9/any_tips_for_answering_technical_questions_on_a/,"EE in particular. Internship position. I've been in a few interviews and I do well on the behavioral questions but not so well on the technical questions. My heart rate jumps up and I begin to get nervous. Does anyone have any tips for me? My main problem is when the interviewer ask you something and you really do not know how to solve it. Also, about timing, how long am I expected to solve the problem they give? I get hesitant when there's a long awkward silence when I'm thinking about what to do. Recently I had a phone interview where they started asking me graduate (I'm an undergrad student) level technical questions. Needless to say I didn't get that position. But I have an interview coming up with a company that is known for asking difficult questions that put you on the spot. Any advice would be appreciated.
+"
+m9sny,1,2011-11-12,"Purdue Reddit, desperate help for an ME that needs a spot held in ME200 for registration.",[deleted],Purdue,https://www.reddit.com/r/Purdue/comments/m9sny/purdue_reddit_desperate_help_for_an_me_that_needs/,"I hate sounding desperate, and especially looking for stuff like this... almost seems like I'm asking for charity and I don't mind being downvoted.
+
+CRN 21441, there is only one spot of this time slot open and I don't register till the 14th.
+
+I'm on an internship this semester so I can't ask my class friends to do this for me. Unfortunately the people I have asked have too many credits already or aren't able to register for ME classes.
+
+I'll remove this post once the spot is filled as to not clog our beautiful subreddit.
+
+Thanks."
+may0y,9,2011-11-13,github or any other ways to improve my programming?,donttakecrack,learnprogramming,https://www.reddit.com/r/learnprogramming/comments/may0y/github_or_any_other_ways_to_improve_my_programming/,"I'm pretty much almost done graduating from college and I had a short internship which was fun to learn some stuff and create something that seemed somewhat useful but then I realized my programming skills actually kind of suck. I've checked out books for OOP design, tried to do android apps, and checked out a few other books but feel like I can't really improve as much doing those unless I have more experience. Is looking at people's source code at github a good practice? Or should I just randomly try to google any source code to improve.
+
+I have a job coming up regarding some java apps and ASP.NET but i dont really know the details. Just hoping to improve before that lol.  
+
+If anyone thinks I could help them in opensource at all, I could try too. I don't even have school right now for another 2 months cuz of brain injury but pretty much most of thinking or needs for programming have returned lol. "
+mcbyp,5,2011-11-14,Seeking Information about freelancing,ParentheticalComment,cscareerquestions,https://www.reddit.com/r/cscareerquestions/comments/mcbyp/seeking_information_about_freelancing/,"I am currently a web programmer (pretty much an intern) and was curious about freelance programming. How to go about it what skills do I need. etc. If you have any insight please leave a comment.
+
+Thanks guys!"
+mc3b3,171,2011-11-14,Quitting my job: Update Three - Update Harder,newbieadmin,sysadmin,https://www.reddit.com/r/sysadmin/comments/mc3b3/quitting_my_job_update_three_update_harder/,"Sorry it's taken so long to write an update, I've been really busy, and being ill hasn't helped.
+
+The data centre work I was doing last I mentioned somehow worked flawlessly without a hitch - needless to say, it's going to be used to pad my CV.
+
+Four new unpaid ""interns"" have started, their job is to cold-call potential customers and badger them into meetings with our glorious sales team.
+
+I had another meeting on Friday where I was told that ""the needs of the company outweigh everything else"" AKA ""You have to work seven days a week and no holidays for you"" Needless to say I've spent the weekend job hunting.
+
+To try to guilt me into working the weekend my boss has given out my personal cell phone number to customers so they can phone me 24/7 to tell me when something goes wrong. For instance, yesterday I was meant to drive two hours to a customer site, install satellite broadband for them then drive for another hour to another client to do a server installation. All of this unpaid as it'd be a ""learning experience"" for me so that I can ""try to improve my mediocre skills"".
+
+Finally, my boss has cleared out his office, all the company paperwork is gone and he's working from a laptop on the reception desk.
+
+To counter this whirling storm of bullshit I called in sick today, turned the phone off, job hunted and am playing Skyrim with a bottle of Laphroaig.
+
+Only had 73 new faults today, the company is running around shitting itself over the fact I'm not there. Oh well, back to Skyrim.
+"
+mbqme,1,2011-11-14,Looking for monitoring solution,mistawac,sysadmin,https://www.reddit.com/r/sysadmin/comments/mbqme/looking_for_monitoring_solution/,"Hey all,
+
+I'm trying to find a free solution to server monitoring.  I need something to centrally monitor system statistics and manage services over multiple servers.
+
+You'd think Microsoft would include something like this in their server package.
+
+Any ideas?
+
+Edit:
+
+Things I probably should have specified before:
+
+* At first, my supervisor wanted no linux anything in the environment.  He doesn't trust it and doesn't know how to troubleshoot it.  I'm really the only one and we're not sure on how long I'll be there, right now it's indefinite.  I did, however, convince him to allow one or two on there strictly for these monitoring purposes.
+* That brings me to my next point, I'm just an intern.  Right now I'm going to stay with them upon completion of the internship if they ask me to.  I'm learning quite a bit about being a system admin, which makes me a little more dangerous down the road.  I work from anywhere an active internet connection exists, so it's convenient, and I get paid.  My major is actually in Computer Information Systems to be a network engineer, but doubling as a systems admin makes me look better.
+* While I do know quite a bit about computers, that knowledge extends primarily into home use or networking (Cisco), not far into anything else.  I'm learning quite a bit here and hope to learn more.
+
+I also want to thank you immensely for all the help.  We've been trying to find a monitoring solution as cheap as possible (not a huge company) and these are all great suggestions.  I just need time to sit down and try a few out on our networks."
+mbipu,2,2011-11-14,"Have some skills and money, need help picking a country in Europe or Canada",PrairieFrog,IWantOut,https://www.reddit.com/r/IWantOut/comments/mbipu/have_some_skills_and_money_need_help_picking_a/,"Hey guys, some background about myself. I'm from Canada and my girlfriend is from Europe. We're currently in a long distance relationship and hoping to bring that distance together next year after she finishes her studies. I work in IT and will have around 3 years experience as a software developer by then, including my internships. She will have a Masters degree in Economics, and as of yet no relevant work experience.
+
+My main concern right now is jobs - everything else (weather, culture, language) we can filter down after we have a list of practical possibilities. Like most LDR couples, we're quite different in skills, citizenship, and experience.
+
+Myself, my options look like: Canada, US, UK, Ireland. Reading some of the posts here, it sounds like I may have a shot in the Netherlands or Germany. Is that true? How about the Scandinavian countries?
+
+My girlfriend has EU citizenship, so at least her options in terms of being able to live in any EU country is much greater than mine. The question would be finding a decent job and career path, while speaking only English. Note, we excluded her country from possible options because it would be extremely difficult for me to get a decent job without speaking the language there. I think the best options for her are the same as mine.
+
+Other options we ruled out were Canada (feeling in a European mood, but this is not 100% out), US (various reasons, nothing political or anything like that), Australia (too far), New Zealand (too far and no jobs), and Asia (hard to find jobs that don't involve teaching English, as it's just not for us).
+
+We'll have at least 20k saved up in total, not including a healthily sized emergency fund if needed. We're planning to use this for a couple months of travel, airfare, and general ""start up"" costs which is a bit of an X factor. I think this should last us at least six months for this travel/start up kind of lifestyle. Is that reasonable?
+    
+    
+
+
+
+
+
+EDIT: Wow, that came out much longer than expected.
+
+**TLDR** What countries have jobs for two people who speak English, one in IT and a Canadian citizen, and one EU citizen who will be a recent graduate of a Master's in Economics?"
+mdhrx,1,2011-11-15,I'm a college student who thinks a website stole his idea.,[deleted],AskReddit,https://www.reddit.com/r/AskReddit/comments/mdhrx/im_a_college_student_who_thinks_a_website_stole/,"Note: I'm going to keep this vague as to try not to reveal any of the parties involved.
+Also, this is my first post, so please forgive me if I am not following protocol.
+
+
+So here's my story:
+
+
+I'm a computer science major (love web dev) going to a public school. For the first year and a half of college, I went to a private school. My first semester after the transfer, I thought of a great idea. I wrote a prototype using my old school's information since the data was easier to capture than the school I am at now. After thinking about it and realizing there is no way I could compete with other sites that have many school's data in their database and offer other features, I figured I would email one of the popular websites I fell in love with and see if we could work together somehow. Here are the summarized emails conversed between me and the 
+website:
+
+Me: I have an idea that'll make the website better. I have a prototype and would love to talk to a webmaster about teaming up.
+
+Site: Can you be more specific about your website?
+
+Me: [Explains what the site does].
+
+Site: Says they have already been working on and it gave reason as to why the release was delayed. Also asks if I want to be part of a beta crew to help with features, etc.
+
+Me: I'd love to be on the crew. Also asked if they had any internships available.
+
+Site: Can I see your resume? 
+
+Me: I become a welcome email to the crew.
+
+
+That's the last I've heard of them since.
+
+
+Now my questions is, while I know it's a very long shot: Do you think they actually just stole the idea and made it up that they had been working on it? The email received about it leads me to believe they might have been working on it, but that may have been their goal.
+
+
+Thanks for reading,
+collegeboy34"
+mde5i,0,2011-11-15,Could anyone help me out with a project I have been assigned on my internship?,streetpete,AskReddit,https://www.reddit.com/r/AskReddit/comments/mde5i/could_anyone_help_me_out_with_a_project_i_have/,"Hey guys, 
+
+I have been assigned a project for my internship. I am an intern on a political campaign. My candidate has spent the past 8 years travelling my state in an elected position and she is now running for a higher position. 
+
+My task is to go through her schedule over the past 8 years and track where she has been (locations within the state), and who she met with when she was there.
+
+I currently have a spreadsheet with each of her meetings (several a day) divided into the following categories:
+
+date, time, meeting with?, location, attendees from?, description, organizer phone, organizer email. 
+
+does anyone have any suggestions on software I can use to make this excel spreadsheet more presentable? I'm imagining a map of the state that shows the info when you scan it or run your cursor over it?
+
+all constructive suggestions highly appreciated."
+md4n7,2,2011-11-15,How long to receive a response from an online application?,georgeavazzy,jobs,https://www.reddit.com/r/jobs/comments/md4n7/how_long_to_receive_a_response_from_an_online/,"I've applied to 65 internships the last 6 days. How long should I wait before expecting a response? (engineering, 3.45 gpa, first internship)
+
+Should I just keep applying?
+
+edit: I was kinda wondering what amount of time you typically wait before receiving a response. I'm busy with work, school, and lab stuff so i have a significant opportunity cost to applying to jobs.
+
+"
+mcubb,1,2011-11-15,Summer Internship,xfire42,compsci,https://www.reddit.com/r/compsci/comments/mcubb/summer_internship/,"I'm currently in high school. I have Comp Sci as a subject at school (But I'm  little ahead of that as in I've learned a bit of Data Structures/Graph Algorithms etc) My final exams (pretty big deal) end in about May 2012. I was wondering if i could then do an internship or something somewhere. I know a bit of C, good C++, and willing to learn. Any help?"
+mevjs,1,2011-11-16,Journalism majors: Is it just me or is it crazy...,My_Password_is_Penis,rutgers,https://www.reddit.com/r/rutgers/comments/mevjs/journalism_majors_is_it_just_me_or_is_it_crazy/,"that I have to wait until JUNIOR YEAR to take Writing for Print Media or Broadcast News Writing because I got closed out of all 8 sections for the Spring? (I'm a Sophomore)
+
+Because either course is a prereq for the majority of the Journalism courses I almost feel like I'm behind and won't graduate on time because I've had to wait so damn long.
+
+I've emailed professors and talked to an advisor about special permission numbers. None of the professors emailed me back and the advisor said that there's no waiting list and I'd just have to wait and see if someone will drop one of the sections.. **WHO'S GOING TO DROP IT THOUGH?!** It's a core requirement!
+
+It makes sense that they all closed out; there's 8 sections in total and 20 kids per each class because they're in computer labs. That's 160 students. I tend to believe there are a lot more students trying to get a spot in the course than 160. 
+
+Are any of you guys in the same situation as me? I'm just really frustrated and wish the department would get their shit together. I'm interested to hear your thoughts.
+
+EDIT: I should add that I had a similar situation with News Reporting and Writing last year. I ended up taking it over the summer because I got closed out. I don't want to take a summer course though -- I need to get a job and do internships.
+
+Also I apologize if I come across as incredibly whiny. I don't mean to be."
+met30,16,2011-11-16,"I have 2-3 hours to teach a schoolkid that programming is fun, how would you go about and do that",Jixar,learnprogramming,https://www.reddit.com/r/learnprogramming/comments/met30/i_have_23_hours_to_teach_a_schoolkid_that/,"Hi guys. I need some advice on how to teach something new to a youngster.
+
+It's a bit of a tradition, that my company has interns from different schools this time of the year. Normally my department don't really deal with those, but one of them has asked if he could spend friday morning by the programmers. I volounteered because everybody else seemed to skip out on having to teach a youngster to program, and I really wanted the challenge.
+
+Now, I haven't exactly laid a plan yet, but I assume that he doesn't know anything about programming. I know that he spend most of last week setting up servers and poking around in a rack, setting up a few VM's for the programmers and changing dead disks. He's around 13-15 years old, I think (Just saw him once).
+
+We normally do Java and PHP in our shop, and that's the tools I know well enough to teach. Although Javascript could do, but my ideas mainly focus on our primary tools of the trade. 
+
+* My original thought was to put him down and make some simple HelloWorld scripts in Java, added with some Employee objects and different ways of making them print lines. Maybe, just maybe I'll make some socket-programming, but I'll probably help him out and make the server-side.
+
+* My next thought was probably to let him play around with PHP and a WAMP server. Again, simple HelloWorld scripts and maybe spice it up with a MySQL insertion/extraction.
+
+* Lastly, one of my coworkers suggested that I used Jetty and Eclipse to make some simple Java website, so he could learn a bit of both worlds. It seems like a bit more of a hassle to get going, but maybe I should just prepare a project for him. He doesn't have much time with us that day, so a bit of speed is essential.
+
+But I'm not sure if it should be one of those routes, or if I should go a different way all in all. 
+
+I've asked him to bring his own labtop, so we could keep him going when he comes home. Although he has a perfectly fine company supplied computer. 
+
+What do you guys think?
+
+(I'm a trained Software Engineer and I work as a Sysadmin as a developer in the sysadmin team). "
+mek3g,1,2011-11-16,Help I can't find a new job because my ex boss is giving me bad report. What can I do?,[deleted],AskReddit,https://www.reddit.com/r/AskReddit/comments/mek3g/help_i_cant_find_a_new_job_because_my_ex_boss_is/,"I'm a trained programmer and I've been unemployed for close to four months now. I have applied at over 60 companies, was invited to interviews and even trial-worked at most of them and they seemed to like me. I never got the job in the end though, despite how well it went in the beginning. I'm puzzled and worried that my money will runt out soon.
+ 
+Today an ex co-worker messaged me and told me that a company where I applied called to get report. He then overheard said boss spreading lies about me.
+ 
+This guy is running a small company he inherited from his father at age 27. He was basically a drug addict and a bum before that. Never worked a day in his entire life and never got any training for a job - and much less for a management position. **Every private problem he has had in those four years that I've worked there he dragged to work. He screamed at people, promised them exceptionally well paid overtime (but never paid in the end), scrapped their planned holidays at will and in general just tried to emotionally harass people**. I've seen three trainees quit a programming internship which is extremely sought after and hard to find where I live, solely because of how they were treated by this guy. I have no proof of anything for which I could drag him to court. All I have is a written report by him which portrays me as a good worker.
+ 
+I'm at my wit's end. I am good at what I do but I don't have any other references.
+ 
+As soon as a company calls my old job I'm done for. What now, reddit?"
+me5vy,1,2011-11-16,Any advice? Third year computer science undergrad,[deleted],resumes,https://www.reddit.com/r/resumes/comments/me5vy/any_advice_third_year_computer_science_undergrad/,"https://docs.google.com/open?id=0B_0CWieIRUuEOGM4YzgzYTYtNGQwYS00Y2I1LWI1MGYtOTdiOTNlNTkyYmJj
+
+I've been updating my resume this semester, looking for a summer internship at a relatively large web/software company.
+
+Specifically I'll be applying for web design, web development, or software engineering internships.
+
+Any tips? criticism? insults?
+
+thanks"
+mfoco,8,2011-11-17,New Sysadmin - Upgrading virtual infrastructure,TurboGFF,sysadmin,https://www.reddit.com/r/sysadmin/comments/mfoco/new_sysadmin_upgrading_virtual_infrastructure/,"Edit #3: So guys.. Sunday came and went, and I can't really report a success. 
+
+I installed Vcenter on VM, relocated both of the hosts, and everything appeared to be working... Only the hosts had the virtual switch information set up on the previous database, and.. it wasn't configured on the new Vcenter. 5 hours later, everything was back the way it was, and it's time to plan another method :P
+------------------------------------------------------------------------------------------------------
+After lurking on reddit for a few months, my first post ends up being here.
+
+Hello all!
+
+Alright, so.  Little brief introduction before I get to the meat of the post.  
+
+Did a 12 month Network Admin course with a 3 month internship.   Got A+, CCNA, MCTS in AD and aiming for the server admin certs.  
+
+I just recently got past the 3 month hump at my current place of work, flexing my fingers and such. My current project is to upgrade our virtual infrastructure. 2 Esxi hosts going to version 5, vcenter being taken off physical and a new one (version 5) being created virtually, and the database associated. 
+
+I spent a good while researching and documenting the steps and procedures I need to follow to make this as smooth of an upgrade as possible. All the back-end stuff has been done, (Creation of the VM, Database on separate SQL server)  and I'm coming in on Sunday to complete it. 
+
+This isn't really a question post, more of a... I'm pretty nervous, I don't want to fuck stuff up. This is all new territory for me and I hope I can pull it off.  
+
+Edit: I'm home now - I'll get the information for you guys tomorrow. Keep an eye out then :D 
+
+
+Edit #2.  Alrighty, back at work. Time to go over these various options, experiment, document, and prepare myself for sunday.   
+
+"
+mfee3,6,2011-11-17,Technical Interviews?,[deleted],EngineeringStudents,https://www.reddit.com/r/EngineeringStudents/comments/mfee3/technical_interviews/,Have my first technical interview coming up for an EE internship. Any advice? Not sure if I should study material or just be confident in my knowledge of EE. HR rep said I should expect to spend 15 min with someone from HR and 2 hours with engineers. 
+mf1ly,8,2011-11-16,NSA Co-op?,[deleted],cscareerquestions,https://www.reddit.com/r/cscareerquestions/comments/mf1ly/nsa_coop/,"Hi all, I am currently a sophomore pursuing a CS degree and am looking into internships for this summer, but I am also open to doing a co-op. NSA has given me a conditional offer assuming I pass the background checks and all that for their CS co-op program which is 52 weeks long, although broken up into multiple segments of various lengths. Now my question is that I am much more interested in writing software that is used outside of the organization I write it for and open source software. Government work is all classified and I'm not sure how much software I would work on would be used outside of the NSA.
+
+I am also told that 95% of co-op's stay on to become full time employees and I'm really not sure if I'm ready for such a big commitment. Does anyone have an experience with the NSA (that they can talk about), or know if they sound like a place I would fit in given my interest in open source software? Anything I'm being naive about? Thanks!"
+mgxim,12,2011-11-18,Please help with powershell scripting!,SamiJo,sysadmin,https://www.reddit.com/r/sysadmin/comments/mgxim/please_help_with_powershell_scripting/,"I'm a very new intern first off. I was asked to find a sample PowerShell script that would search every folder, subfolder, file and user, copy each permission individually. Then it needs to be able to ""paste"" each permission as needed to any fold, subfolder, file or user at will...anything would be helpful. Thanks Reddit!
+
+EDIT; Found out some more information about what it needs to do. 
+Search all shared servers for a user
+Copy that users permissions
+Search for another user and give them the same permissions"
+mgjv2,6,2011-11-17,"I just landed my first programming job.  I am extremely nervous, I need advice",[deleted],cscareerquestions,https://www.reddit.com/r/cscareerquestions/comments/mgjv2/i_just_landed_my_first_programming_job_i_am/,"I just got a programming job.  To make a long story short, I have been battling depression an anxiety my entire college career which means that I basically have had a very hard time with school, socializing, and working. Despite having decent grades (for the most part), and a few months of internship experience, i basically have no work experience.   This is the first job I have been offered.  I haven't had a job in 4 years.  I am 22 years old. I also have a degree from a 4 year major university that is ranked in the top ten for computer science for undergrad.
+
+
+The biggest thing is that I have really bad anxiety related to working in an office because I can't trust people.  I am seeing a profession for therpay, but I am not taking drugs for anxiety because fuck. that. shit.  I have started performing, singing, playing piano for people as a way to learn how to manage anxiety and it has been helping some but I have not fucking clue how to trust people or make friends.  I also can't afford therapy anymore because I have no money.  I really don't have anything in my life figure figured out and I am still dealing with mental health issues from sexual abuse as a child.  I am truly the forever alone type, I have no friends, have never dated, ect, but I am trying to get my shit together because I am going to get evicted if i don't make money. 
+
+
+I am not really proud of this but part of the reason my grades were decent is that I have cheated in a number of classes.  Not on tests, just homework assignments.  The other thing is that many of my senior level classes had group projects.  Because of the depression and anxiety I was usually the one who slacks in a group project setting.  I hate being that guy because before I was super depressed I was able to work in groups and tried my best to contribute.  Because of this I can't really say I have learned all that much in those classes that required group work because I let the other group members do the work.  I feel like a terrible person for this, i really do and it has ended up fucking me over because I feel like I don't have programming skills.  I am only now just starting to work on some open source projects in my free time.
+
+
+I am at a point though were if i don't make money I can't afford to pay rent.  So i applied for a job and while I don't think i was dishonest on my resume, exaggerated my abilities a little.  I did have two interviews and I was able to make a good impression i guess because they asked me a lot of questions and I did my best to explain myself and ask questions.  I feel like a worthless lying piece of shit for exaggerating some things though.  I just don't know what to do anymore.   I have like 3 weeks before the job starts so I am gonna work hard to get my skills up to par.  I don't like CS all that much but that is what my degree is in.  At this point i have no choice but to get a job in CS until i figure out what i really want to do
+
+
+
+
+tl;dr
+Sorry for the rant.  I am just looking for advice from anyone who dealt with a similar situation.  Because of the abuse i suffered, among other difficult things in my life, I am broken in a way but I have no choice but do get a job because I can't live of my savings anymore."
+mhub7,0,2011-11-19,Does anyone know of any unique/awesome internships?,[deleted],AskReddit,https://www.reddit.com/r/AskReddit/comments/mhub7/does_anyone_know_of_any_uniqueawesome_internships/,"I am a sophomore in college.. starting to think about internships for Summer 2012. Double major in Marketing and Information Systems. I don't really care if the internship is paid/unpaid as long as I would gain some first hand experience. I don't want to hate my life and waste my summer at a shitty company.. Any suggestions?
+"
+mhkcm,2,2011-11-18,"Recommendations for weekend material for an internship interview on Monday? re: AJAX, SQL, .NET",[deleted],learnprogramming,https://www.reddit.com/r/learnprogramming/comments/mhkcm/recommendations_for_weekend_material_for_an/,"Hi all.  I am technically a junior, but actually someone returning to school to get their CS degree.  I was fortunate enough to get an interview for the first (!) resume I sent out, scheduled for Monday.
+
+Their product is a web application for medical establishments (think document management systems) based in the languages/frameworks listed in the title.  I'm not the most skilled programmer yet, and was wondering if anyone had recommendations for quick-and-dirty tutorials and/or miniature projects I'd be able to complete over the weekend.  They are fully aware of my programming capacities but I always want to be prepared.  The internship itself wouldn't involve a lot of coding at first but it can grow into that.  Thanks!
+
+As an aside, could you list some of the first things/small-projects you did when learning a database management language such as SQL?  I have access to web space from a friend to play around with but really have no clue on where to start when it comes to something like that."
+miwv1,6,2011-11-20,Am I planning it okay?,marshmallowsOnFire,AskAcademia,https://www.reddit.com/r/AskAcademia/comments/miwv1/am_i_planning_it_okay/,"I am a Master's student in EE from a pretty decent school, specializing in Image Processing and Machine Learning. I want to do a PhD in the long run, but I want to be fully prepared, armed with a solid knowledge of the basics and good experience in the field before taking my 5-year plunge. Basically, when I start my PhD, I want to hit the ground running, doing research, and not waste the first year just studying the basics.
+
+Toward this end, my plan after my Master's is to do a research internship in some lab for a year and hope to get a/some publications out. 
+
+I just want to ask you guys, will this really help my PhD applications? I want to get into a really good PhD program. 
+
+A stint in the industry wouldn't do any good at all, right? And what about working in a ML startup? I know there are a LOT of companies out there with TONS of data, will it boost my resume if I worked in some such core ML company (even if only a small startup), gained good knowledge, but got no publications? 
+
+Thanks a lot!"
+mitxz,6,2011-11-20,ME Student (3rd year) looking for advice about finding an Engineering Job,HaggardAvatar,engineering,https://www.reddit.com/r/engineering/comments/mitxz/me_student_3rd_year_looking_for_advice_about/,"Hey guys,
+Long time reader of the subject matter here but this is my first post.
+A little back story before I get to my request.
+
+I am a hard worker, I progress anywhere I am put as far as work goes because I like to take a sense of pride in what I do. A quick glance at my resume and you will notice that not only have I been working (though school) since the age of 15, but I have mainly acquired jobs in the food industry (Cook, Griller, line, Expo, and other odd jobs around restaurants). The amount of work hours per week does not present a problem because I have done full time and over time while taking classes and still maintaining at least a 3.0 GPA. I'm currently out of work due to relocation back to this side of my town. I'm not in major need of a job because I have managed my money wisely and have some put away for times like this. My problem is not finding a job, I have a few places that have told me they would be more then happy to put me back to work for them. My problem is finding a job that I can apply my working knowledge in my ME degree to, or at least finding a job that would actually look good on a resume for another job that deals with ME type work. Because I am out of a job at the moment I figured today is just as good as any other day to get a start on my career. So I ask you (anyone who feels like they might have some good advice), where does someone like me go to obtain skills that are attractive for future employers and skills that I will need when applying for that ""real job"" when I'm done with my degree. All of the places that I have attempted to aply at have all responded with around the same answer of, ""We need someone with experience in this area"" and the jobs were for student part time positions or student internships. So how can I get experience is I have none and I can't  get hired to gain experience because I have no experience...
+
+TL;DR Have plenty of work experience but no engineering type work experience, where do I look for my first engr type job at?
+
+Any advice is helpful, thanks in advanced guys.
+
+So,"
+mkkd5,8,2011-11-21,"I am 23, currently working in IT/writing SQL and have a bachelor's in CS. I want to change my career and need help.",nomalas,cscareerquestions,https://www.reddit.com/r/cscareerquestions/comments/mkkd5/i_am_23_currently_working_in_itwriting_sql_and/,"I wanted to do programming but couldn't find a job (lack of experience or internship) so I took this ITish job. How do I change career paths? I am interested in either Python or C++ (any advice on which would be better would be awesome) and have no idea how to get a job using either with no experience. 
+
+I know this is sort of long and rather obfuscated, but any help would be appreciated."
+mkhn5,0,2011-11-21,What is the one life lesson you wish that you didn't have to learn the hard way?,[deleted],AskReddit,https://www.reddit.com/r/AskReddit/comments/mkhn5/what_is_the_one_life_lesson_you_wish_that_you/,"For me it was how to not get friendzoned.
+
+When I was 19 I was head over heels for this girl that I had met in college. She was pretty much everything that I could ever want in a girl. She was smart, pretty, good kisser, we loved hooking up with each other, the works. Kinda tomboyish, shared my political/religious views, etc. The only problem was that I met her early on in college and she still had some partying to do. No biggie, I figured that I could wait it out and hook up with other girls in the meantime. I just asked that she didn't hook up with anyone who I lived with or at my house, which I thought was fair.
+
+Caught her blowing some guy in the bathroom the same night I asked her to make that promise. It hurt WAY more than I thought it was going to. I wasn't able to trust her completely after that, but I was still *really* into her. I tried way too hard to force myself to get over it because I was convinced that she was perfect for me (stupid, I know). We would spend tons of time together, and we'd hook up, but then she'd tell me after every single time that she wanted to just be friends. I eventually got frustrated and asked her, ""Who are you trying to convince here?!"" Anyway, we argued back and forth about it and I said that I couldn't trust her even though I cared so much about her.
+
+A couple years passed and we didn't speak once. I had dated other girls, traveled Europe, visited Japan, made money, got really good at boxing/MMA, learned how to play the piano and guitar, campaigned for Obama, got into a really good law school, etc. We then ran into each other on campus and made some small talk. It wasn't bad. We met up for coffee a few weeks later and we had a nice conversation. She had a new boyfriend, which thrilled me (surprisingly enough) because he seemed to really honestly care about her.
+
+She left for Argentina to study abroad for a year. We kept up correspondence via skype and it was always bland pleasantries, but it was always nice. When she returned she broke up with her boyfriend and we hit it off like old times and we ended up sleeping with each other. I went into my stupid place again and wanted a relationship. She was at a point in her life where she just wanted to hook up with random guys (her idol is Kim Cattrall). 
+
+I couldn't stand this. I found myself wishing she'd go out with me or at least go out with her old boyfriend because he kind of guys she'd sleep with were always bullshit artists who attracted girls because they had that tribal tattoo thing going or they owned some motorcycle they could barely ride. I guess that part of it bothered me because I've worked *really* hard my entire life to be a man of substance with skills and experiences that were geared toward being meaningful and I felt like I was competing with guys who were all flash and no substance. On top of that I hated the way I would hear that they would talk about her. They'd never say it to me because I was friends with her, but while she thought she was being a ""sexually empowered woman"" I had never seen someone looked down upon so much in my life. Ate me up inside to see her viewed that way because I knew she deserved to be treated better no matter her sexual history.
+
+I guess that's why I'd never outright shame a girl for sleeping with a bunch of guys since it's not really my business, but I just cannot stand when a girl acts like she accomplished something for it because I see it as lazy claim to feminism that seems to get you nowhere.
+
+My bitterness over the issue began to fester really quickly in a bad way. We tried to hang out but we knew that there was a huge rift between us. It made me really unpleasant to be around and we stopped hanging out again. I didn't know what to do with myself besides move on, or at the very least make a valiant effort to. 
+
+I started honing my skills again, started kicking ass at work, and ended up getting a couple of really kick ass internships in the entertainment industry. Suffice it to say I could be on track to make nearly seven figures by the time I am 35 years old (25 now). I started hanging out with new friends and cultivating really great relationships with girls. Most importantly I developed really good relationships with lots of good looking girls without falling in love with every single one of them. I still hang out with them all of the time, and weirdly enough it's helped me build confidence to date girls I would have never given myself a chance to before. The more I honed my skills, worked at my job, maintained my health, and kept good friendships around me, the happier I became. I am far happier than I was when I stopped hanging out with the girl mentioned before. All this time spent on myself and devoted to being a good friend attributed to that.
+
+Before this gets too tangential, I wanted to point out that I learned the lesson the second time she and I stopped seeing each other. You can't bring emotional bitterness into a relationship with a girl you're trying to go out with. You'll get empathy, maybe, but you won't be anyone's boyfriend anytime soon. I'm not bitter anymore, and I still think that she's an exceptional person who was unfortunate to run into me when I was going through a lower point in my life. I'm really happy now, and even though I have my sports, music, and money, I am 100% certain that my most attractive feature to girls is that I'm a happy person to be around. My only regret is that I can't really share how happy I am now with the girl from before, but them's the breaks, and it's a price of learning things the hard way.
+
+tl;dr: Fell in love with a promiscuous girl, I couldn't handle it and got all bitter and unpleasant to hang out with. Learned how to be happy by developing myself and learning to cultivate healthier relationships with women.
+
+Still, kudos to anyone who actually read the whole thing."
+mkelj,6,2011-11-21,[For Hire] Recent Graduate with M.A. in industrial-organizational psychology,Greg6711,forhire,https://www.reddit.com/r/forhire/comments/mkelj/for_hire_recent_graduate_with_ma_in/,"Hello,
+My name is Greg and I am looking for work in the Chicagoland area.
+I have significant internship experience in market research, tutoring, and work at a management consulting firm.
+I worked recently for a healthcare technology company in the northern suburbs of Chicago.
+I have strong computer skills - Microsoft Office, SPSS, SQL (trained in), data manipulation (sorting, examining raw files)
+I'm a hard-worker. I'm looking for experience and learning new skills.
+I'm very open to potential jobs. Please feel free to get in touch.
+
+Greg"
+mke62,0,2011-11-21,Recent Graduate: M.A. Industrial-Organizational Psychologist,[deleted],forhire,https://www.reddit.com/r/forhire/comments/mke62/recent_graduate_ma_industrialorganizational/,"Hello,
+
+My name is Greg and I am looking for work in the Chicagoland area.
+
+I have significant internship experience in market research, tutoring, and work at a management consulting firm.
+
+I worked recently for a healthcare technology company in the northern suburbs of Chicago.
+
+I have strong computer skills - Microsoft Office, SPSS, SQL (trained in), data manipulation (sorting, examining raw files)
+
+I'm a hard-worker. I'm looking for experience and learning new skills.
+
+I'm very open to potential jobs. Please feel free to get in touch.
+
+Greg"
+mkdl9,0,2011-11-21,[for hire] Recent M.A. in Industrial-Organizational Psychology Graduate,Greg6711,jobs,https://www.reddit.com/r/jobs/comments/mkdl9/for_hire_recent_ma_in_industrialorganizational/,"Hello,
+
+My name is Greg and I am looking for work in the Chicagoland area.
+
+I have significant internship experience in market research, tutoring, and work at a management consulting firm.
+
+I worked recently for a healthcare technology company in the northern suburbs of Chicago.
+
+I have strong computer skills - Microsoft Office, SPSS, SQL (trained in), data manipulation (sorting, examining raw files)
+
+I'm a hard-worker. I'm looking for experience and learning new skills.
+
+I'm very open to potential jobs. Please feel free to get in touch.
+
+Greg"
+mkc9h,8,2011-11-21,Where to learn the big things,[deleted],sysadmin,https://www.reddit.com/r/sysadmin/comments/mkc9h/where_to_learn_the_big_things/,"So, I actually have an offer on the table for my first (Jr.) Sysadmin position.  I actually have a decent amount of experience, but most of it is in co-op (glorified intern) positions.  I also have my Bachelor's in Information Systems.  I've done a little bit of a lot - QA (non-automated), Linux admin (workstations only), AD (user accounts, ACLs), etc.  Since I haven't actually worked in a straight sysadmin position, I have limited experience working with the Big Stuff (tm).  SANs, clusters, real network hardware - I understand a whole lot conceptually, but I don't have the practical experience.  I can tell you how to help mitigate a DDoS, but I don't know how to add the IP Tables entry.  I am also a bash scripting newb.  
+
+The problem I have is that in all of these jobs, even when I volunteered my expertise, most of these things fell in the realm of ""not my responsibility"" and so I never got to learn anything.  Will I feasibly be able to learn and gain experience in this working professionally, or am I essentially dead in the water until I supplement this degree I've worked years to get and years of experience with various boot camps and certs?  
+
+I am a bit biased, because where I live, all the tech jobs are government contracts.  Due to that, there really are few Jr. Sysadmins.  If a company wants a Jr. Sysadmin, what they really want is a Sr that they can pay less.  Can I practically expect to be able to learn and grow with support, or do I basically have to ""fake it 'till I make it, and just do my best to learn on the fly?""  I did not inflate my resume at all.  I have all the experience I put on there, but there are a lot of critical sysadmin type areas where I could improve.  One is networking in general.  The others I outlined.  As the elite, how much do y'all expect a Junior to know coming in the door?
+
+
+Thanks!"
+mlwgn,1,2011-11-22,College application essays,[deleted],AskReddit,https://www.reddit.com/r/AskReddit/comments/mlwgn/college_application_essays/,"Drawing a blank on my essay, the question asks: 
+&gt;What is your intended major? Discuss how your interest in the subject developed and describe any experience you have had in the field — such as volunteer work, internships and employment, participation in student organizations and activities — and what you have gained from your involvement.
+
+I'm majoring in Computer Science and personally don't know anyone who did any volunteer work, internships, employment, etc. regarding computer science in high school. Something tells me writing ""I'm good at math and kick ass at video games/puzzles"" won't do much for my application.
+"
+mlk35,4,2011-11-22,"I'm a high schooler, and all my friends are doing Chem/Bio research over the summer. Are there any similar summer opportunities for Computer Science?",[deleted],learnprogramming,https://www.reddit.com/r/learnprogramming/comments/mlk35/im_a_high_schooler_and_all_my_friends_are_doing/,"I looked around and I couldn't seem to find any good internship opportunities, and all of Google's scholarship awards seem to be aimed at minority groups or college students.   
+
+Most of my friends are just going to do biology or chemistry research. I'm really not quite sure what to do, since I'd be very interested in doing some cool stuff with CS over the summer."
+mkwea,2,2011-11-21,"Questions about working in Computer Science
+for a Paper in a Writing Class",MLein97,cscareerquestions,https://www.reddit.com/r/cscareerquestions/comments/mkwea/questions_about_working_in_computer_science_for_a/,"Thank you for everyone that helped, I no longer need answers to these questions and the paper is a success. 
+
+
+For an essay that I'm writing on Computer Science in a Freshman Writing Course at Michigan State University I need to have some questions answered by someone working in a Computer Science (my intended major) related career. The person that I was set up to interview fell through due to something coming up in the family, so now I turn to Reddit in last minute desperation.
+
+For the sake of citing and setting up your answer in my paper I will need know your full name and the company where you work and I'd assume that you don't want to put those freely floating around on the internet so you can PM them to me (You can just include your linked In or similar page if you have one assuming it's updated). 
+
+I also don't care if you use short sound bite style answers to the questions in order to move through the questions more quickly and you can just answer a few if you want to.
+ 
+The answers to the stared questions are more important to me in the sake of my paper than the others.
+1. How long have you been working in Computer Science?
+
+2. What made you want to go into a Computer Science?
+
+3. Where did you attend school at?
+
+4. *What is your Job Title now?
+-What was your title in past jobs if you've had any past jobs? 
+
+5. What do still find most interesting about your current job?
+-Past jobs?
+-How about working in the field in general?
+
+6. *How often do you travel for your job? 
+-*How long at a time do you travel if you do? 
+-. How much did you travel in some of your past titles?
+
+7. How did you come to acquire your current job? How about a few of your other jobs if you've had any?
+
+8. *What sort of perks have you had at your various jobs? Work at Home? Benefits?
+
+9. *Did you get your masters degree? If so how has it benefited you in your career? Do you recommended recommend other people getting one if you have one?
+-*If you don't have yours do you still recommend people entering the field to get one, why or why not?
+-Was there a point in your career in which your education didn't matter due to it being outweighed by experience? If so what point and why?
+
+10. *Did you do any internships prior to entering the field? Were they beneficial to you, if so why? 
+
+11. *What technical skills (ex: programming languages) would you call the most universal and essential in the pathway for computer science?
+-*What about career related skills?
+
+12. Why do you think certain types of people are drawn into Computer Science?
+-What qualities would you say that this person holds? (You can be stereo-typical)
+
+13. *What are some personal qualities that you would say are the most beneficial for someone wanting to enter the computer science field? 
+-*How about the least beneficial? 
+
+14. How much has Computer Science changed since you entered?
+-What do you think the future of Computer Science will be like for entering students like me on the technological side? 
+-What have you done to keep up with these changes?
+
+15. Do you like what you do? Why?
+-What part of your job do you wish you could change if any?
+
+16. On the path to your current job is there anything that you wish you could have done differently?
+
+17. *How do you communicate with other people in the field?
+
+18. *What are some varying approaches to Computer Science?
+-*Is there any conflicts caused from these varying approaches?
+
+19. Are there shortcuts that would help me or a similar student excel forward more quickly in Computer Science?
+
+20. Any lasting things that a person entering computer science should know about the field or about your path?
+
+Edit: *21. What does a does an average day at your job consist of (other than redditing)?"
+mmvse,2,2011-11-23,Resume Critique for Accounting Student/Grad,[deleted],resumes,https://www.reddit.com/r/resumes/comments/mmvse/resume_critique_for_accounting_studentgrad/,"Hello fellow redditors!
+
+I was hoping to get a few pointers from the community on my resume which I will be submitting for summer internships. My intention and objective is to get something in the accounting/finance/banking department of an investment bank or tech firm (as this is where I would like to work after public accounting).
+
+Thanks in advance to not only those that help me, but to the entire community for helping all the others here! Thanks!
+
+I have attached it as a .png as there were formatting issues with GoogleDocs.  
+
+**Linky**:[here](http://i.imgur.com/g3n9H.png)"
+mmsae,3,2011-11-23,Which field in I.T. has most scope for a Student in California like myself?,whatdobro,sysadmin,https://www.reddit.com/r/sysadmin/comments/mmsae/which_field_in_it_has_most_scope_for_a_student_in/,"I am interviewing for an Internship near Sacramento, and the interviewer emailed me asking me to decide which I.T. related field I would like to pursue once I graduate. The field I chose will be the topic of discussion; I assume they plan to select me primarily based on that discussion.
+
+I had earlier studied for both CCNA and MCSA, but I haven't had a chance to take them due to a busy schedule with classes and part-time work. I am equally familiar with Routers/Switches and Windows or Linux, but I am more interested in the Server Admin side. A few questions:
+
+- Which other field besides Server Administration is a good option for me?
+- What could I read or work on to prepare myself for the discussion? Any websites or articles that I should follow?
+- What are some relevant skills (hardware/software) that I should poses to be a skilled Server Admin?
+
+Here's my Resume if anyone is curious: https://viewer.zoho.com/docs/wBzccc"
+mminz,1,2011-11-23,Senior Undergrad + job search = frustration,[deleted],AskReddit,https://www.reddit.com/r/AskReddit/comments/mminz/senior_undergrad_job_search_frustration/,"Hey Reddit, I am a senior now and have one semester left in college. I have an internship now but it's most likely not going to produce a job after I graduate because it is a university job (programming intern) position and they usually just keep students around. My story is I am very enthusiastic about learning anything I can when it comes to web and mobile development and I feel I could pick these skills up easily in a professional environment but I have some gaps missing when it comes to 'real world' experience and I feel as though any job I apply for, there are 100 others applying that are more qualified than I am because of their experience with internships and such. I have been working on an iphone app (game), that is very unique and many people I have shown really enjoy it. The reason I mention this is it may help me get a job somehow but I really need advice as to what to do next. Has anyone found themselves in a similar situation and discovered the solution to get a decent job? I would love to get into mobile game development or mobile app development, but honestly right now I'd take just about anything that leads me in the right direction towards my goals."
+mmh1a,1,2011-11-23,"Senior Undergrad looking for job and frustrated, any advice?",[deleted],AskReddit,https://www.reddit.com/r/AskReddit/comments/mmh1a/senior_undergrad_looking_for_job_and_frustrated/,"Hey Reddit, 
+
+I am a senior now and have one semester left in college. I have an internship now but it's most likely not going to produce a job after I graduate because it is a university job (programming intern) position and they usually just keep students around. My story is I am very enthusiastic about learning anything I can when it comes to web and mobile development and I feel I could pick these skills up easily in a professional environment but I have some gaps missing when it comes to 'real world' experience and I feel as though any job I apply for, there are 100 others applying that are more qualified than I am because of their experience with internships and such. I have been working on an iphone app (game), that is very unique and many people I have shown really enjoy it. The reason I mention this is it may help me get a job somehow but I really need advice as to what to do next. Has anyone found themselves in a similar situation and discovered the solution to get a decent job?
+
+I would love to get into mobile game development or mobile app development, but honestly right now I'd take just about anything that leads me in the right direction towards my goals.
+
+edit: spelling"
+ms2o8,0,2011-11-28,"I am a Wisconsin EE student, and I'm looking for work. More inside.",BrujahRage,AskEngineers,https://www.reddit.com/r/AskEngineers/comments/ms2o8/i_am_a_wisconsin_ee_student_and_im_looking_for/,"First, I'm not entirely sure this is the correct sub-reddit to post this, if I am in the wrong place, I apologize. That said, I am trying various approaches, because what I have available right now isn't working. I'm an IEEE student member, but my branch is more Illinois oriented, and their meeting almost always fall on evenings when I have classes. In the 2 years I've been a member, I've been able to attend two meetings (They also don't meet in the summer). I've also been to a job fair hosted by my school, but those positions are aimed primarily at students who are about to graduate and/or are able to take a semester off from their studies. I landed a co-op through my engineering department, but that ends in May. That's the bad news. If you've read this far, you might be asking who I am and what I'm after.  i am a distance student in the University of Wisconsin system, going for my BS in EE, with an emphasis on controls and computers. My GPA is ~3.2, and I'll be graduating in 2014. I'm currently working in a plastics blow-molding facility, where I've taken on a variety of electrical themed projects. I've also picked up a little PLC programming, in particular Allen Bradley products, and RSLogix 500. I work with some very cool people, put it's fairly obvious that a permanent position isn't in the cards, at least not here in Wisconsin. I've discussed this dilemma with the engineer I am working for and he has informed me that he got an extension to keep me on for another 6 months, but he can't keep me past May. I'm looking for a position near Janesville, WI. Call it a co-op, internship, or simply part-time work, my school doesn't need any paperwork as far as credits go. I have a pretty flexible schedule, and can work 25-35 hours a week, I am also available weekends. I'm also a US citizen, so there's no worries as far as visa sponsorship or anything of that nature. I'm hard working, dependable, and eager for new opportunities. If you think you can point me in the right direction, I'd really appreciate your input."
+ms1ak,16,2011-11-28,[For Hire] Some folks looking to build custom PCs for you on the cheap. We're based in Minneapolis,Herculean_Discharge,forhire,https://www.reddit.com/r/forhire/comments/ms1ak/for_hire_some_folks_looking_to_build_custom_pcs/,"If you need a gaming rig or just an affordable office PC we can build it for you.  We provide you with a PC significantly cheaper than retail price, and all you have to do is tell us the functionality you desire out of the machine and a price range.  Email herculeancustompcs@gmail.com for anymore information.
+
+**EDIT: Sorry for the late responses.  Monday is my busy day with work, class and an internship.  I'll have proper responses later in the evening, but right now night class beckons.**"
+mtztb,3,2011-11-29,Having a Website – Important or Not?,lhankbhl,cscareerquestions,https://www.reddit.com/r/cscareerquestions/comments/mtztb/having_a_website_important_or_not/,"How important is it to have a personal website?
+
+They never really covered this much in my courses on career development. I know in things like Digital Design, it is extremely important since it reflects directly a combination of the creator's technical prowess (to a small degree) and design style (to a larger degree), but since Computer Science is a much more technical field it is unlikely that a website would really showcase much in and of itself.
+
+Of course, I realize that it can act as an online portfolio of projects or code and it can show off that way, but do people really look for these kinds of things or do they just care about job experience? It almost doesn't seem reasonable to expect that a recruiter would take the time to comb the code the of every applicant if they had a lot of things posted. Another part of the problem here is that some of my most technical work has been on internships and I can't post any of the code from that since it is all owned by the company I was working with.
+
+Also, what does a 'good' CS website look like?
+
+*tl;dr:* Do graduating CS majors really benefit from having an online portfolio and, if so, what does a good one look like?"
+mtnxp,1,2011-11-29,"Please look my resume over, Having trouble finding a job.",[deleted],resumes,https://www.reddit.com/r/resumes/comments/mtnxp/please_look_my_resume_over_having_trouble_finding/,"Here it is:
+
+
+Profile
+
+I have a unique, experienced background for a ‘soon to be graduating’ student.  I have worked on the New York Mercantile Exchange (NYMEX) floor as both an intern and full time employee, served as a strategy analyst and executing trader for a private commodity futures and options investment fund, and served as a litigation analyst in support prominent testifying experts in a number of high profile market manipulation cases, and other trading related matters.  I pride myself on my work ethic, and the ability and desire to be part of a successful team.  I have a relatively deep practical knowledge of derivative markets; in particular options and the associated strategies and management of the multiple derivative risks therein.  I possess very good computer skills across both PC and MAC operating environments with the ability to perform some limited programming.
+
+Objectives
+I am open to numerous disciplines and opportunities in the financial sector.  Portfolio management and trading is a keen interest.
+
+Experience
+Energy Trading Advisory (ETA) – Houston, Texas	October 2010-November 2011
+
+n	Litigation Analyst
+
+DY Capital Management – Houston , Texas 					
+
+October 2010-November 2011
+
+	Trading Strategy Support Analyst
+
+	Executing Trader
+
+SCS Commodities Corp. – New York, New York	June 2009-September 2010
+	Started as an intern on the trading floor, running trades to and from computer clearing station. Promoted from Runner to full time Clerk in less than 6 months.
+
+	Analyzing markets to ensure that all numbers were correct on trade. 
+
+	Promoted to Market Analyst gathering, processing, &amp; analyzing data on global liquefied natural gas (LNG) shipments and market movements
+
+Education
+
+Lake Forest High School, Lake Forest, IL	2004-2007
+
+Portland Community College                                                                                                                                  2007-2009
+
+University Of Houston	2010-2012
+BA Economics with Sociology Minor (Graduating January 2012)
+Current GPA- 3.6
+"
+mth3f,2,2011-11-29,Question about a Network Administrator position.,pcsupport86,cscareerquestions,https://www.reddit.com/r/cscareerquestions/comments/mth3f/question_about_a_network_administrator_position/,"I was hoping there might be someone out there that can tell me what to expect in terms of questions for a Senior Network Administrator position. I've always stumbled when it comes to interviews and am trying my best to prepare myself well for this one.
+
+I went to school for Network Administration and have had a couple of internships that very closely followed my degree. However once school was complete I took a PC support position as there are not many people willing to hire a network admin right from college. I'm happy with my current job and intended on staying here a few years well working on my master. However a couple of weeks ago I received a email out of the blue from a former boss stating that they have a Senior Network Administrator position available and he really thinks I should apply. Now even though I'm happy with my current job I can't just ignore a opportunity like this.
+
+I've unfortunately been doing PC support for a year and a half now. I'm not saying I've forgotten everything I've learned but I know I'm rusty. I know they are a strictly CISCO shop, mostly windows servers, they run VMWare, and client base is about 50% mac 50% PC.
+
+I've been going back and trying my best to brush up on things I expect  them to ask, but if anyone has and advice on basic principals I should make sure I go back over or even questions you might ask interviewing someone for this position I would love to hear from you."
+mt9rc,1,2011-11-29,Delete DNS settings permanently,Dorest0rm,sysadmin,https://www.reddit.com/r/sysadmin/comments/mt9rc/delete_dns_settings_permanently/,"Hi there,
+
+I believe i messed something up whilst configuring a DNS server for the lab we have in school. I've done various things to try and resolve it, removing/adding the role, deleting the server and creating it again, but for some reason it still pulls back some old settings. And i believe this is the cause of my DNS failing. Is there any way to delete all the DNS settings permanantly, or do i have to reinstall for this?
+
+Edit: Server 2003, clients are XP on Virtualbox.
+
+Edit1: I configured Server 2008 half a year ago for my internship, i went to fast with 2003 which kinda messed a few things up, so fresh start tommorow and fingers crossed that everything works out."
+msx7n,3,2011-11-28,How can I resolve this silly conflict between my GF and my parents over Christmas?,Vengeful_Squid,AskReddit,https://www.reddit.com/r/AskReddit/comments/msx7n/how_can_i_resolve_this_silly_conflict_between_my/,"Hello, 
+
+I feel a bit silly turning to Reddit for help for what I think is an extremely silly problem, but I have nowhere else to turn. 
+
+OK, first, my girlfriend is from Europe and I met her studying abroad about a year and a half ago. We've been doing pretty well doing a long distance thing and have seen each other every few months or so. 
+
+So she's in New York for an internship and I am in NC living with my parents (I graduated and am still looking for a job). So I've interviewed in NYC and seen her and she was recently here for Thanksgiving. She wanted to spend Christmas with me and had assumed that she could be with my parents and my brothers here. 
+
+My parents don't mind her but they are hesitant to have her over for Christmas. My dad likes Xmas as a really private thing for our close family and since he doesn't really know her that well and he would like to be reunited with his sons (my other brothers don't live in state). 
+
+She is staying with a family that she has known for awhile and she is super offended that my parents don't want her over. So she thinks that my parents hate her (which I don't think is true) and she has taken it very personally and now wants me to leave my family and see her in NYC. I don't get what everyone's deal is (why do my parents insist on not having her over &amp; why does she make this some sort of ultimatum on our relationship?). 
+
+As for me, I don't really have any personal cash to go and visit her. My parents wouldn't mind if I went to see her for New Years but she insists that she needs me ON Christmas Day because she will be away from her real family and will be lonely. 
+
+So Reddit, what should I do? How do I save my relationship but also not hurt my parents?
+
+TL;DR: My parents don't want my foreign girlfriend over for Christmas and my gf wants me to ditch my family for her. 
+
+EDIT: Thanks for the responses everyone, I greatly appreciate it. Now I'm going to try and work it so maybe she can stay with my grandparents who live like an hour away and try to divide my time. I don't know. I'll keep you all posted. "
+mv81c,2,2011-11-30,Any advice on internships?,[deleted],gamedev,https://www.reddit.com/r/gamedev/comments/mv81c/any_advice_on_internships/,"Hey guys, I'm submitting this same question to [/r/learnprogramming](/r/learnprogramming) and [/r/webdev](/r/webdev) to broaden my likelihood of getting some good answers. Right now I'm in college going for a Computer Engineering degree so that I can write software for a living (specifically I want to be a programmer for a video game company as a career), and I'm wondering if any of you have any advice on getting a good internship. Where should I look? What should I do/say to set myself apart? What kinds of things are companies looking for in a person when they offer internships?
+
+So far I've sent in an application to [Blizzard](http://us.blizzard.com/en-us/company/careers/posting.html?id=110009V), and I'm currently thinking about sending one in to Google as well, but any advice or tips would be awesome!
+
+The reason I'm also asking for advice in [/r/webdev](/r/webdev) is because I have some very amateur experience working with html/CSS/JavaScript and I've touched on PHP once or twice, so if there is an internship that offers work related to those topics then I'd be interested in them as well.
+
+Thanks in advance guys!
+
+Oh and I'm at my college now, and my landlord hasn't paid his internet bill so I'm not sure if I will have internet when I get home tonight. If I don't answer anyone's questions about this question (or if I don't respond to some awesome advice with ""OMG THANKS!"" and an upvote) tonight, then I'll be checking this tomorrow morning."
+mv7iz,3,2011-11-30,Any advice on internships?,[deleted],learnprogramming,https://www.reddit.com/r/learnprogramming/comments/mv7iz/any_advice_on_internships/,"Hey guys, I'm submitting this same question to [/r/gamedev](/r/gamedev) and [/r/webdev](/r/webdev) to broaden my likelihood of getting some good answers. Right now I'm in college going for a Computer Engineering degree so that I can write software for a living (specifically I want to be a programmer for a video game company as a career), and I'm wondering if any of you have any advice on getting a good internship. Where should I look? What should I do/say to set myself apart? What kinds of things are companies looking for in a person when they offer internships?
+
+So far I've sent in an application to [Blizzard](http://us.blizzard.com/en-us/company/careers/posting.html?id=110009V), and I'm currently thinking about sending one in to Google as well, but any advice or tips would be awesome!
+
+The reason I'm also asking for advice in [/r/webdev](/r/webdev) is because I have some very amateur experience working with html/CSS/JavaScript and I've touched on PHP once or twice, so if there is an internship that offers work related to those topics then I'd be interested in them as well.
+
+Thanks in advance guys!
+
+Oh and I'm at my college now, and my landlord hasn't paid his internet bill so I'm not sure if I will have internet when I get home tonight. If I don't answer anyone's questions about this question (or if I don't respond to some awesome advice with ""OMG THANKS!"" and an upvote) tonight, then I'll be checking this tomorrow morning."
+mv6tf,2,2011-11-30,Any advice on internships?,[deleted],webdev,https://www.reddit.com/r/webdev/comments/mv6tf/any_advice_on_internships/,"Hey guys, I'm submitting this same question to [/r/gamedev](/r/gamedev) and [/r/learnprogramming](/r/learnprogramming) to broaden my likelihood of getting some good answers. Right now I'm in college going for a Computer Engineering degree so that I can write software for a living (specifically I want to be a programmer for a video game company as a career), and I'm wondering if any of you have any advice on getting a good internship. Where should I look? What should I do/say to set myself apart? What kinds of things are companies looking for in a person when they offer internships?
+
+So far I've sent in an application to [Blizzard](http://us.blizzard.com/en-us/company/careers/posting.html?id=110009V), and I'm currently thinking about sending one in to Google as well, but any advice or tips would be awesome!
+
+The reason I'm also asking for advice in [/r/webdev](/r/webdev) is because I have some very amateur experience working with html/CSS/JavaScript and I've touched on PHP once or twice, so if there is an internship that offers work related to those topics then I'd be interested in them as well.
+
+Thanks in advance guys!
+
+Oh and I'm at my college now, and my landlord hasn't paid his internet bill so I'm not sure if I will have internet when I get home tonight. If I don't answer anyone's questions about this question (or if I don't respond to some awesome advice with ""OMG THANKS!"" and an upvote) tonight, then I'll be checking this tomorrow morning."
+mu3yt,2,2011-11-29,Any Redditors graduated from ITT Tech? Do you feel like the whole thing is a scam?,[deleted],AskReddit,https://www.reddit.com/r/AskReddit/comments/mu3yt/any_redditors_graduated_from_itt_tech_do_you_feel/,"I graduated from ITT Tech.. I paid $42,000 for an Associates Degree that holds little or no weight in this society (owe $33,000 now). The way ITT advertises, they seem to promise their students a life changing future with jobs in the IT field and such. 
+
+ITT considers itself a college, and even does THE LEAST IT POSSIBLY CAN to make sure their program is viable enough to give college degrees. They don't hire quality instructors; I've seen many come and go because at the end of a course, students would give terrible feedback about these instructors and they'd get fired only for more terrible instructors to replace them (they are exceptional at reading power point slides however). 
+
+After graduation, I wanted to continue for a Bachelor's in IT, but learned that NO COLLEGE EVER will accept anything I've done at ITT, and I'd have to start over as if I have no college credits at all. If I won't be accepted in at colleges (especially not-so-prestigious schools) why would any companies hire me at all? ITT has really no job placement system, while I could have paid WAY less at other colleges and gotten an internship.
+
+Lately, I've been meeting/hearing about people who graduated from ITT Tech.. and absolutely HATE the choice that they have made and wish that they had NEVER done it. And I'm just starting to wonder if the entire organization is just full of crap. 
+
+Basically I just want to know how many people are out there in the same position as me as far as graduating from ITT Tech. I must admit, I wasn't the best student for my first year (I was still in High School mode) but I really made a change at the end for the better when I realized what I really want to do. I sort of feel like I should try to tell as many people as possible to NOT go to ITT Tech. 
+
+Sorry for the huge wall of text. Didn't even intend to go that far. Something has to be done about that place though, either they need to change or need to be brought down!
+
+"
+mu2dr,2,2011-11-29,"Why do people try so hard to convince others that life 
+only gets worse?",[deleted],AskReddit,https://www.reddit.com/r/AskReddit/comments/mu2dr/why_do_people_try_so_hard_to_convince_others_that/,"All my life people have pushed variations on this basic theme to me, and at this point I just flat out don't believe them.  
+
+Every single year in elementary/middle/high school they told us that the next year was going to tear us up unless we seriously overhauled our work ethic and attitudes.  Not so.
+
+In high school I sat in my counselor's office in tears over a heavy workload, but she told me not to drop a class because I should just learn to deal; life after high school only gets harder.  Not so!
+
+People tell me to enjoy college because after this you get almost no vacation time and have to work eight hours a day, but last summer I did an internship (my first 'real' job in my career field) and felt lighter than I have since I was a child.  I was honestly astounded at how much less stress and frustration were involved in working longer hours but being able to leave work at work.  
+
+I have disliked most of my life so far, but I've stuck with this path because I am working for future happiness, and I can tell that it's constantly getting better.  If I truly believed that life stays the same or gets worse from here on out, I would frankly end it.  So why does it seem like everyone is so hell-bent on convincing me otherwise?  "

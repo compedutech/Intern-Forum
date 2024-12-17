@@ -1,0 +1,341 @@
+eetzn,6,2010-12-01,"Trying to land an EE job, need some ideas on preparation.",n00bEE,engineering,https://www.reddit.com/r/engineering/comments/eetzn/trying_to_land_an_ee_job_need_some_ideas_on/,"Reddit engineers, I'm really excited that I've been given the opportunity to interview in a couple of days for what I hope is my first electrical engineering position.  At the same time I feel woefully unprepared and a little nervous about asking for help.  You guys, I'm ready to be an engineer.  My professional experience thus far has been four years of mind numbing IT related work, I'm (surprise) very good at it.  I'm very rarely challenged when tasked with finding a solution to what my employers feel are ""big issues"", and I feel like my mind is rotting from the core.  I want to contribute my technical and problem solving abilities to the world.  I feel like this is my last chance to be an electrical engineer as I've had absolutely no luck with landing a position over the past 3 years since graduating with my BSEE.  I don't know what I'll do with myself if I fail to get into this field.
+
+Here are a few things that I'm not quite sure how to explain to a would be employer.  I really could use some help with phrasing my responses to questions that prod at what I'm about to mention.  I have absolutely no professional engineering experience.  A few extra curricular projects is it.  I never managed to land an internship, and couldn't stay in the city during summers since I had to move back to a remote rural town.  I have a low GPA.  While I had tremendous work ethic towards practical things such as my labs, or my extra extracurriculars or even my self-taught knowledge of web-programming, I found it very difficult to achieve in a structured learning environment.  Still I am stubborn and I refuse to quit.  I redid any courses that I had to and did what it took to complete my education.  On top of all that, it's been nearly 3 years since I graduated and I feel as if my retained knowledge of analog and digital electronics is fading pretty badly.  I have my books though, and I try to keep my mind exercised with a couple of fairly simple hobby projects (i.e. most recently restored and old radio).  I feel though that the combination of the lack of experience, poor gpa and time out of school are things that produce a mountain of complication larger than Everest for me.  I'm not quite sure what I can do to prove myself. 
+
+I think after explaining all of that, it's important for me to mention that I still I feel that I have confidence in myself as a worthy candidate.  What I lack in experience, I make up for with my skills in critical thinking and problem solving.  I'm an engineer, I organize a problem that I don't understand and am interested in and science it until I come to a conclusion.  I'm never satisfied with letting others figure out or fix my electronics, my computer or whatever (excepting my car, it's too essential for me to test inaccurate conclusions on).
+
+The next thing I want to do is study up a little bit on a few things that pertain to this position.  I have a little insider information on the position (an awesome friend graciously gave my resume to their boss, prompting this interview).  The hiring manager apparently has an interest in my skills with web based programming, HTML, PHP, CSS, mySQL, etc.  On top of that, I'm told they tend to have applicants analyze a couple of circuit diagrams and either look at or produce some programming in C.  For the circuitry, I'm told that the company is fairly serious about intrinsic safety.  Understandable as the company specializes in machines that deposit coatings, adhesives and lubricants (and ketchup at McDonalds).  These are coatings, or components of which, that could be explosive (hopefully excluding the ketchup) in the presence of a spark or heat from competent failure I'd imagine.  My first guess is that this involves circuitry with diodes or fuses, but can anyone give me any insight into what I should really be familiarizing myself with regarding this?  What do I do if they show me a circuit, and I can't off-hand tell them or calculate what it does?  Does anyone have any ideas on what people tend to ask when it comes to jotting down a simple C program?  I don't program in C, I program in PHP (similar), I have no idea what little ""gotchas"" or simple nuggets/tricks a budding C programmer tends to know.  Something like programming the actions of a physical digital component seems reasonable.  For instance, a D-flip-flop doesn't sound difficult to do quickly on paper, and honestly I just put a rudimentary program together in my head while writing this, but that's just a shot in the dark.  And again, I don't really know what to do if I'm stumped on the spot.  I certainly can't go back home, converse with friends, read a book and google it until I can resolve the problem like I might normally do.
+
+I don't expect the holy grail of answers out of this, but I value any input that folks might have.  I've seen other people that've been given a tremendous amount of help on here, many times with positive results.  If nothing else, I hope that I can leave my interview feeling confident that I fully explained who I am and what I can do for them.
+
+Thanks everyone.
+
+(for those who want short details):  I have an EE interview.  I have no experience, had a low GPA and graduated 3 years ago.  I feel like it's my last chance to get an EE job.  What can I familiarize myself with regarding circuitry that's intrinsically safe?  What kinds of things to people like to ask to test knowledge of C programming?"
+effy6,12,2010-12-03,Need advice on landing my first software job/internship (in C++/Java) [switching careers],goblgobl,learnprogramming,https://www.reddit.com/r/learnprogramming/comments/effy6/need_advice_on_landing_my_first_software/,"I'm hoping to learn about the most pragmatic way to go about getting my first programming gig. Here's my situation  - I'd greatly appreciate any input. 
+
+I'm in my early 20's, and after graduating college a year ago (with a design degree), I stumbled upon programming, and particularly its intersection with math, and statistics. I found some really cool careers I'd like to work in that are at the intersection, but when I approach people in the industry, I keep getting the same response: 
+
+""you're math/quant background is great, but come back when you get some real-world programming experience under your belt""
+
+Understandable. My programming ""experience"" is as follows: I've taken a single Java course recently. And I took C++ courses in high school. I have (IMHO) a moderate understanding of basic principles of OOP, encapsulation, inheritance, polymorphism, etc. And I'm currently reading things like deitel c++ and carlH programming to brush up. So admittedly, I'm a novice, and don't have any significant personal projects, or work experience to speak of. 
+
+My dilemma: I'm not interested in pursuing a second degree, nor do I have the resources (financially) or patience for it. I'm pretty autodidactic and can spend the next few years teaching myself the foundations of CS. But my biggest priority right now, and cause of anxiety, is trying to get a job/internship. I need to start earning an income ASAP. 
+
+My 1-3yr goal is to ultimately get really good at high performance computing - the type of skill set that gets recruited for at places like Google, Amazon, and most automated trading firms. I know I won't be able to start out at places like these, but thats what I'm aiming for down the road. 
+
+Since I'm not pursuing another degree, my questions are: 
+
+1. What do you suggest is the best way to get my foot in the door? 
+
+2. What types of companies should I be looking at, that a) deal with high performance issues and b) are willing to hire someone with my background/lack of experience? (big vs. small, telecom vs internet, etc) (I'm in NY if that helps)
+
+3. What level of skill/competence is expected for a typical internship position? 
+
+4. Where should I be looking specifically, to get my first job? 
+
+Basically, I have a hodgepodge of skills due to a recent shift in career focus, believe myself to be able to pickup technical things very quickly, find programming enjoyable and intuitive, good at math, and have strong work ethic. I'm in New York, don't mind starting at the bottom, and I will take unpaid positions (if I have to) as long as I can learn a great deal, and it opens doors. What can I do to maximize the chance of getting a job within a relatively short amount of time? 
+
+I appreciate the help!
+
+**Just to clarify:** I'm not looking for advice on preparing for interviews - I've found a ton of useful posts here and elsewhere for how to do that. My problem is I'm pretty sure I wouldn't even get a callback at most places (given I'm not in a CS or related degree program, and don't have extensive coursework). I'm asking how can I get a shot at interviewing (anywhere really), with my background."
+efrr3,2,2010-12-03,Have an software development internship interview with Amazon. Need advice.,xMrAx,AskReddit,https://www.reddit.com/r/AskReddit/comments/efrr3/have_an_software_development_internship_interview/,I am going to be having a technical phone interview with amazon for a software development internship. Just wondering if anyone here has had an interview with them and has any advice. I've heard they really like asking questions about trees. Is this true?
+egcs7,28,2010-12-04,"Can't find an internship/first job, am I screwed?",MoonrakerElite,engineering,https://www.reddit.com/r/engineering/comments/egcs7/cant_find_an_internshipfirst_job_am_i_screwed/,"A little background, I graduated with a BS in Mech.E from the University of Minnesota Twin Cities this past May.  My GPA was not very good (2.7-2.8) and I wasnt able to find any internships while in school.  I also did not do any extra-curricular research/lab work which I now deeply regret.
+
+I have been trying to find a job for the last year and have had exactly zero interviews/replies from applying online with a resume/cover letter.  Since I am no longer a student and have no experience whatsoever it seems that nobody wants to hire me, even for 10$/hr.
+
+Am I ever going to be able to find an engineering job with a background like this?"
+egfc3,1,2010-12-05,Do jobs look at your overall GPA or what you received in your Major GPA?,bewareoftraps,AskReddit,https://www.reddit.com/r/AskReddit/comments/egfc3/do_jobs_look_at_your_overall_gpa_or_what_you/,"So here’s a little something about me. First off, got into a decent university and was accepted into their Aerospace Engineering Major. Started to do bad in physics, got Academic Probation because having mediocre grades (B-C) and an F (or 2, yeah Physics…) can really hurt. Dropped into Undeclared Engineering because of my belief that I wasn’t all that bad (big mistake) and could still make it. 
+
+Come summer, my grades were still relatively shit (GPA at 2.25, average for engineer student: 2.75). Took some time and asked my friends what they would do in my shoes (which was extremely hard, as they are all smart and I didn’t want to be looked down upon…stupid pride), and finally decided, enough is enough. Switched out to Business Economics and now my Major GPA is relatively high but my overall is still a lovely 2.2 (Only my single variable calculus class was counted into my Major GPA)
+
+My question is this, to all you people who look at resumes, if I were to send my Major GPA, would you then ask to see my overall GPA? Or is there not even an option to show your Major GPA and you automatically have to send in what your overall is? 
+
+Also, I know that for the most part a lot of people have been telling me to not worry as much, because if I get an internship then for some strange reason, I’ll magically be fine. But then my question is, a lot of internships ask for your GPA, what do you do in that case? (Submit overall or major?)
+
+TL;DR I did bad in engineering, moved to Business Econ, will my old and bad grades from Engineering affect me for applying to a job?"
+eggnc,0,2010-12-05,"Help Reddit, I don't know what to do with my life (so many options, but if I do nothing, I'll lose my wife)",innercontemplation,AskReddit,https://www.reddit.com/r/AskReddit/comments/eggnc/help_reddit_i_dont_know_what_to_do_with_my_life/,"(25 years old) The background to this story is that I met my wife 6 years ago, both crazy anime nerds in college. Time went on, we became best friends, and then much more. We married the summer before she graduated. She started working at Walgreens as an assistant manager. Her plan was to go to Japan and teach English after building up capital.
+
+As for me, I went to school to get a BBA in computer science/programming/business analysis (main language was Java). I got good grades and consider myself to be very amiable compared to most of the people in my program. I became trilingual (English, Japanese, Spanish). I also had many leadership positions in clubs that I learned a wealth of knowledge about leading and teaching. I also had an programming/business analysis internship with a fortune 500 company.
+
+Problem is, I graduated a year ago and everything went to crap. I pursued quite a few companies, but a lack of experience seemingly killed all my chances (even for entry level ones). Not only that, my training in Java and MySQL didn't seem to take me very far. I searched for months and was never hired (I'm very good in interviews, usually anything that gets to that point, my success rate improves dramatically).
+
+At this point, I start to work for a buddy of mine at his establishment as a business consultant/web developer/programmer for a sum far below what I need to pay for my loans, let alone living expenses so I can get something. This means I have to start dipping in to what my wife is making to pay for my most of my expenses.
+
+It is at this point that my wife feels we should prepare to go to Japan. We start doing an online course for teaching English in a foreign country for a hefty sum of money. Problem is that I'm working a lot of hours to get things done for my friends shop and don't have time for this course. During this time, my wife reminds me that she is only staying in this country because she is waiting for me.
+
+Finally, I'm forced to stop working for my friend and settle for a job in manufacturing so I can make ends meet. Trouble is, second day on the job, I get injured pretty bad and can't go back to work. At the same time, my bank account is basically empty, bills are piling up, the English teaching online program deadline is closely approaching with me having completed less than 50% of it, and I've got forced time off for injury.
+
+The worst part is that I combat this indecision and extra free time with video games and surfing reddit/kotaku/internets because I'm so confused as to what I should do, leaving completely unproductive.
+
+What the hell do I do? Do I try to make my programming knowledge functional again for me? Do I pursue some other business venture? Do I use my time to finish the English teaching course? Do I just focus on getting better, working manufacturing, and paying bills? Is there some way I can use my skills that I am missing? I AM SICK OF FEELING USELESS AND BEING A BURDEN ON MY WIFE!!! 
+
+I would appreciate any insight offered.
+
+**TL;DR Can't find and/or keep job. Smart and capable, but injured and at a crossroads, going the wrong way could cause my wife to leave me**
+
+Edit: Just wanted to thank everyone for their responses. They were informative and helpful."
+eha9s,1,2010-12-06,Interviewing for an Android Developer position on Wednesday. Any advice?,Robamaton,AskReddit,https://www.reddit.com/r/AskReddit/comments/eha9s/interviewing_for_an_android_developer_position_on/,"The company is a Federally-Funded Research and Development Center. I'm still in school, and I worked with Android at an internship last summer."
+ehepg,6,2010-12-06,Not an emergency. Just a depressed guy who is getting close to his limit.,inhalexhale,SuicideWatch,https://www.reddit.com/r/SuicideWatch/comments/ehepg/not_an_emergency_just_a_depressed_guy_who_is/,"I'd really appreciate anyone who has a few minutes to comment:
+
+
+From the time I was in junior high school I really devoted myself to working hard. Ridiculously hard. I've lost whole groups of friends, potential girlfriends and put myself socially quite far behind my peers just to succeed academically. The thought of future success coupled with the idea of making my parents proud drove me.
+
+For a long time this worked out. I've always been an above average student. I did amazingly well in high school, got into a great university, and currently have a tremendous gpa coupled with extensive research and even a corporate internship. All the while I went out occasionally with friends, managed some hook-ups and participated in a varsity, intercollegiate sport.
+
+Then I met the one. The girl who everything just seems right with - the person who you trust beyond anyone else. Long story short: quite a while after we got together, she cheated on me and left. Right as this was falling apart, my best friend passed away. I fell into quite a depression. I forced myself to keep working out and to keep my grades up. While I was crushed and barely capable of leaving my room, my will to succeed academically (and shit tons of whiskey) helped push me through...
+
+Fast forward a year. This semester I applied to ~100 jobs and received about 15 interviews at extremely well respected companies. All of the positions were high paying with full benefits and lots of room for future promotion. Outcome? Zero offers. This has utterly demolished me.
+
+I feel a lot like Dexter right now. Emotionless. Removed from life. The one driving force in my life - my will to succeed academically - has been lost. What's the point in working anymore if I can't get a job? My whole life I was delusional: If I worked my ass off, got good grades, conducted outside research, joined a sports team and got an internship, I was guaranteed to get an amazing job upon graduation. Coupled with this, every relationship I've attempted since last year just falls apart. I'm more than capable of putting on a poker face to look happy and confident to draw girls in, but I quickly lose interest. No one just seems as perfect as that last gf...
+
+So here I am. A jobless, emotionally vacant college student whose only single friends are named Jack Daniels and Mary Jane. I just feel so empty every day. Nothing I try seems to fill the vacancy...I'm just about at the point where I just want to end it. "
+ehjlc,1,2010-12-07,Have you had an internship?  How did you get it?  Where did you start and how long did it take?,[deleted],AskReddit,https://www.reddit.com/r/AskReddit/comments/ehjlc/have_you_had_an_internship_how_did_you_get_it/,"I'm currently starting a search for a winter/spring/summer internship.  I sent out some cover letters and resumes, but I have this gut feeling that this is going to end with nothing if I don't have some sort of plan.
+
+I have gotten some great advice from reddit before in all different fields, and I have been reading a bunch on /r/jobs, but I felt the need to ask a larger subreddit due to /r/jobs relatively low reader rate and a feeling that many of you have some great stories to share with me.
+"
+ei1x1,2,2010-12-07,Help: any Redditors in the tech industry feel like sharing some resume/ cover letter tips? ,shellyap48,AskReddit,https://www.reddit.com/r/AskReddit/comments/ei1x1/help_any_redditors_in_the_tech_industry_feel_like/,"Okay background: I'm trying to get a business internship at a company that I have wanted to work at for, well since forever. It's my dream. And I've never had to write a resume or a cover letter geared towards the tech industry before, so I was wondering if anyone was willing to share their insights into what they could be looking for. 
+THANK YOU! 
+
+Addtl note: If anyone feels like being constructively and highly critical and is good at editing, they also ask for a 250 word statement. I'm sorry to be asking, but this truly is my biggest dream. 
+
+EDIT: If you're willing to help, please PM me, might be easier than doing it over comments. "
+eiarn,1,2010-12-08,Should I stay with new job OR become Project Manager?,henriski,AskReddit,https://www.reddit.com/r/AskReddit/comments/eiarn/should_i_stay_with_new_job_or_become_project/,"Work for  hospital in I.S. (Information Systems) in the area. Came about as an intern to their software support team 3 years ago. Worked out of the position and currently handling UNIX coding and troubleshooting. (bit of an upgrade in my eyes) Have a go getter of a new boss and he's great. Learning a great deal.    **Old Support team and current Unix team - under same umbrella/software/company**
+
+
+HOWEVER, my manager for my old support team is leaving out of state for a new position.  My current manager told me ""so theres an open position now for project manager on the old support team, what do you think...?"" All I told him was that I am flexible and we could sit down and talk about it later this week.
+
+
+What would you do? Stick with new team learning UNIX OR become Project Manager for the old support team and already know the ropes...? (possible salary increase, but 3 of the workers on that team have a different ""work ethic"")
+
+I have always been told to look for my next job opportunity. My father is a director for a different company and feel he would be stoked. I could also go to him for all advice. I am learning a lot now, but would also have the status and experience of project manager.  Happy Problems
+
+Thanks in advance Reddit!
+"
+eiiqt,2,2010-12-08,Internship dilemma,apatosauruswalrus,needadvice,https://www.reddit.com/r/needadvice/comments/eiiqt/internship_dilemma/,"Hi Reddit,
+
+I need some advice on my very brief, but confusing career. I'm currently on a gap year after having finished college, planning on doing my masters in the coming year. I decided to use this year to gain some professional experience, landing my first real working experience at a big company as a PR intern. Going into this, I wasn't sure exactly how a PR department operated, but knew I wanted to do something media and communications related. During my interview I was told that interns receive a lot of responsibility, and that I would have a role in creating and managing content.
+
+Fast forward a couple of months later, and I've found that my job involves a buttload of menial tasks (i.e: updating contact information and spreadsheets, uploading images, assembling gift bags for conferences, making birthday cards for board members), that offer little in personal or professional development. While I understand the role of an intern, I also feel that in this case the role that was described to me was slightly embellished, and that I would be able to find something more rewarding and in tune with my interests.
+
+After doing a little research I contacted a small weekly publication, focusing on art/music/movies/events etc, which can possibly offer me the chance to write and produce actual content.
+
+The only thing thats preventing me from quitting the PR gig tomorrow is that I signed on for 6 months. Doing the whole 6 months is out of the question, but I figured I could at least do 4. At the same time, dragging out an internship which I feel is a complete waste of my time at a company in which I see no future with no doors opening up for me, seems futile.
+
+Having said that, it is a good name to have on your resume, and I don't want to leave on bad terms, even if it's merely for the sake of a reference. In general, opportunities around here are few and far between due to me being an English speaker living abroad.
+
+
+To put it briefly, I understand that this decision probably won't have any long term impact on my future, but if anyone has any advice on the situation it would be much appreciated.
+
+**tldr; Trying to decide whether to leave a PR internship (without pissing anyone off for quitting early) at a biiig company in favour of writing for a tiny little magazine to attain a sense of fulfillment  **"
+ek3py,26,2010-12-11,I wish someone could actually help me.,ohDontMindMe,SuicideWatch,https://www.reddit.com/r/SuicideWatch/comments/ek3py/i_wish_someone_could_actually_help_me/,"Instead of my trying to obsessively organize all of this to make perfect sense, and therefore never actually post anything, I'm going to just dump all my thoughts out here.  There'll probably be things missing or out of order a bit, but whatever.  I don't expect anyone to even care enough to read this, just as I don't expect anyone to actually help me or anything.  I can't think of the last time in my life that anything worked out for me, so there's no reason that'd change now.  I don't even know if I'm suicidal or not.  I know I wish I was just... just gone, or elsewhere, or I don't know.
+
+I busted my ass for years to get into a great college.  I'm in the US, so of course I took a large chunk of debt (and threw my family another large chunk) so I could attend; my family has never been more than a lower-middle-class type, and some points we've been close to bankruptcy.  Even with that, they helped me go to a college to study what I had wanted to for years prior.  While there, I determined what exactly it was that I want to do, changed degrees within that program, and graduated with good standing.
+
+I graduated in May 2008, and since then, I have never landed a job better than working food service.  I did everything I could during college to find internships, but I'd always get shafted at the last minute, some way or another, and I could never get one.  It didn't help that my focus wasn't something that particular college did a lot of outreach for.  I graduated and spent a year living with my family, building my portfolio and applying for work, with each application bringing a lower standard for job quality and farther distance from home.  After a year, there was still nothing - in the entire time, I got two declining emails from two companies, and a call from a third also declining my application.  Otherwise, I never heard anything.
+
+With almost no money, I moved back to my college town to get away from my family, which had always been miserable - yelling, swearing, and general discomfort.  I met a great girl there, and since have been living in a shitty apartment with her and a few friends.  The apartment is a shithole, and we're under sports jocks who scream and yell and run all day and night, keeping us awake and raining plaster from the ceiling.  The landlord is a deadbeat, so no help there.
+
+Upon first moving here, I found a dishwashing job and worked it for two months of absolute misery - 14-hour shifts with no breaks allowed for bathroom or eating, standing in two inches of dirty water.  I quit after they cut my hours repeatedly and had me earning so little that I could only afford to eat one meal every two or three days.  I found a ""better"" job at another restaurant, and then transitioned to the attached hotel's banquet hall, where I busted ass for 13 months.  They had me working 60+ hours for minimal pay, and no raises allowed.  My longest nonstop shift was 25 hours; I once worked almost 40 hours in two straight days, where I slept in the kitchen to save time.  I was treated like garbage, but I worked hard and saved up a small amount of money.
+
+I quit that job in October due to job stress causing me to have constant breakdowns (which the managers didn't care about despite me crying and once blacking out).  I've lost hair, and my body has permanent stress-caused injuries (for example, I have no sensation in most of my feet/toes, probably from all the months of working 7-day weeks, 10+ hours each day).  But there was a hope!  I found a new college to attend, and was planning to move to Boston with my girlfriend and another friend.  I lined up a new bachelor's at that college, and was ready to turn my life around - the place was just perfect for me.  They loved me, accepted me, and wanted me to attend, and I had it all going smoothly... until I needed a loan co-signer, and my family refused because their finances are too shaky to sign a loan.  I begged them, but they refused.  I tried every person I knew, but not a single person could reliably offer to sign for the loans I needed.  Even with scholarships and grants, the amount I needed was too high, and at the last minute, I turned it down.  This happened just a few weeks ago, and the move was planned for mid-December.
+
+My girlfriend is also attending the college, and will still be.  My friend is still moving there too.  I can't back out, and the lease was already signed anyway, so now I'll be moving to an extremely expensive city with barely over $2k in savings.  With all this in mind, I buckled down hard and got my portfolio website online, and made some new projects to show.  Even with all that, I have been turned down by every job I applied to.  Then I tried data entry places, and no luck.  I've actually been told that having food service on my resume is bad for me, because it makes them question why I spent time doing crap jobs - makes them think I don't have the drive to get or hold a real job.  I basically wasted my time with those jobs, when I was sure they'd make me seem like a solid worker.  
+
+Now I'm stuck looking at food service jobs, but they don't pay enough for my bills and loans, so I'll need two.  The idea of doing even one food job makes me want to die.  I have not have health insurance in years, and before I lost it when I turned 23, I was already diagnosed with multiple severe sleep disorders, bipolar manic depression, and being pre-diabetic.  I need health insurance, but I sure as hell won't get it working food service!  I know how they operate to make sure employees don't get coverage, and besides, on the pay I'd get, I could never afford it.
+
+I'm about to move to a new place, and immediately watch my life sink to bankruptcy.  I have no family to support me, no savings, and my degree is worthless.  Even my resume is too weak, and every day that goes by is a step closer to being a ""lifer"" in the food service industry.  I would honestly rather die painfully than ever go back to that madness.  My options are so limited though - I check job sites every day to no avail, and the stress is driving me to a breaking point.  I'm an emotionless blob that sits at home nearly crying... I lose time, my hair is still falling out, and I can't sleep or eat right.  As it is now, I've been awake for two days and I can barely eat without feeling ill.
+
+I don't even know what I'm typing this for.  I'm a wreck.  I want to just disappear from all this, but I can't.  By the end of January I'll be out of money, and then what?  Jobs are so scarce, and I'm so miserable that I can't even think about looking for them now.  I just wanted to work an honest job and earn some money so I could live like a human.  I have a goddamn degree, for fuck's sake, but apparently I'm just trash.  I wish that someone could help me.  I swear, I just need those loans signed, but it'll never happen.  Good things don't necessarily happen to good people; maybe I'm one of those people who will never get a chance to be more than a slave, serving food to those who are actually successful.
+
+I suppose I can chat to people if they want.  I tried to be vague since I know a lot of friends use reddit, but if you message me, I can maybe talk more detail or chat on AIM or something.  I dunno.  I doubt anyone is still reading by now... why would you?  I'm just a mess, and you probably have better, more important things to be doing.
+
+EDIT: I hope people don't think I'm just here to beg or pester them or whatever.  I felt this was a better place to post for some helpful words than something like /r/Self... the last thing I want is a ton of upvotes turning me into some ridiculous circle-jerk front page charity case, so this seemed to make more sense.  I apologize if I was wrong."
+ekg0k,1,2010-12-12,"Alright Reddit I am just sick of all the stress I have lately, any thoughts?",Mac_Attack18,AskReddit,https://www.reddit.com/r/AskReddit/comments/ekg0k/alright_reddit_i_am_just_sick_of_all_the_stress_i/,"I am studying for finals, trying to find a job(been looking for months), now my car might need work(rear brake lines and battery), I have no income and haven't in months. I have to find a way to pay for books next semester, depending on what my car costs I can probably afford it but it will seriously deplete my bank account. This xmas I was planning on getting computer parts to replace my gaming rig that died 1.5 years ago(i was going to have to put a little money into it, not the smartest idea on a limited budget but i really needed a pick me up), but with my car having issues I can't do that anymore.
+
+My parents have been having their own issues and haven't been able to help me since my freshman year with money(half way through Jr year now). My dad got a new job and they said they should be able to help out next semester. I love my parents to death, but I'm not counting on it.
+
+On top of that I royally screwed myself in a class. i went to the hospital the night before a test. only got 4 hours of sleep and took the test anyway I should NOT have, but I slept through my class and ran to the next class and just made a horrible judgement call. Talked to the Prof he said there is nothing he can do but if I do good on the final he will consider that into my second test score. only problem is his questions are set up so that the smallest is worth 5 out of 100 so i miss one question and thats a 95%. I can get a C if I ace the final but given past tests and quizzes doesn't seem likely.
+
+The amount of stuff I have to know for my other finals is mind boggling and I will be spending all week studying.
+
+I am trying to find an internship this summer with no luck so far school can't help me. I am just so stressed out. Even after finals I have 5 days till I know what my grades/ GPA is and I just want to know now.  What do you do when your stressed?
+
+**I am not asking for money I want everyone to know that**
+
+tl;dr I am very stressed and need to de-stress any ideas? I don't have much free time so yeah....."
+ekg7g,10,2010-12-12,What's the oldest version of software/technology that you are still using?,ems573,AskReddit,https://www.reddit.com/r/AskReddit/comments/ekg7g/whats_the_oldest_version_of_softwaretechnology/,"I was surprised when I was at my summer internship and I saw guys still using CRT monitors and almost everyone still on Windows XP.  A friend of mine is still using Firefox 2.x because he doesn't like the way they started displaying tabs since 3.  I personally have a very hard time using old technology because I'm OCD or something, but it interests me when I see others getting along just fine with whatever they've been using for years.  What are you still using?"
+ekjgu,48,2010-12-12,Ophthalmology,[deleted],nosleep,https://www.reddit.com/r/nosleep/comments/ekjgu/ophthalmology/,"I'll start by saying I have a very skeptical viewpoint of the supernatural. My parents are both fiercely religious as well as superstitious (perhaps you'll say that's redundant, ha) but I'm almost always an agnostic and I don't think I believe in ghosts.
+
+That said, I'd like to tell you about an unsettling experience of mine.
+
+My sophomore year at university I applied and was accepted as an intern in an ophthalmology lab. The position was unpaid, 15 hrs a week, performing cell counts. It was hardly interesting work, but necessary for a premed student to get lab experience.
+
+The lab was in a converted hospital. That sounds ominous I know, but actually the section where I spent my time was a maternity ward, so it should have been filled with happy thoughts, right? The actual work we did, however, was a little creepy. We were testing compounds to try and find a way to decrease cell death and increase cell regeneration after crush of the optic nerve. We did this by surgically crushing the nerve of adult beagles, treating them, then putting them down and harvesting the retinas. My job was to take pictures of the retina, and quite literally count the cells under a microscope.
+
+I had an almost immediate negative predisposition to my coworkers. They were irritable, impatient, and disrespectful even towards each other. They also seemed almost bafflingly incompetent. Equipment and samples were often lost, refrigerators would be left open or unplugged spoiling compounds, even data would occasionally get deleted. In hindsight, considering the frequency of these events, I should have thought it odd that no one had proposed the possibility of a poltergeist in the lab, but that would have required a modicum of humor between us, which I can assure you there was none.
+
+As a result of these tensions, and the fact that my work was solitary, it wasn't long before I started keeping odd hours to avoid my colleagues. I'd come in around 6:00pm and work for 8 hours, twice a week. Since I was alone I'd play a book on tape or a netflix instant movie, and the experience would be largely more pleasurable without the bickering and conflict that defined the lab's daylight hours.
+
+At least it was at first. I can only imagine it was the movies and books that kept me unaware for so long, but a few weeks before the holiday interim I let payment on my netflix account lapse. That night while I worked in silence I experienced a few sensations that I consider to be truly unexplainable.
+
+It started fairly early in the evening. The dogs had already been fed, and I could hear them shuffling about and occasionally yipping from the kennel. It was already dark out, and the wind was whipping like it only really does in the winter, rattling the old glass panes of the windows. I left my desk to refill a water bottle. Upon stepping into the long hallway of the wing I was immediately hit with a nervousness. At first I didn't know to what to attribute it, when it struck me I almost called the lab supervisor. First, there was not a sound in the whole lab. No vibrations of washers, no spinning centrifuges, not even the gentle hum of computers. Secondly, every single door, dozens, was unlocked, and flung wide open on its hinges.
+
+Instead, I quickened my pace. As I walked past room after room I noticed their interiors sickeningly dark, as if they could not be penetrated by the light from the hall. As I neared the fountain even the dogs had fallen silent, the hall's only sounds my footsteps. I began filling my bottle, only to drop it, startled, as I heard from the kennel a single impossibly simultaneous bark, from each dog. Not a bark, or really a growl, it sounded wet and I don't know how else to explain it.
+
+At this point I was scared, and I was alone, so I dropped my bottle where I stood and ran. There's something about running down a hallway, try sometime at night, the hallway stretches and the running makes you afraid.
+
+I spent the rest of the night rigidly at my desk. I don't know if it was in my head, or reality, but I felt at the time quite certain that there was a single shadow in the room that didn't belong, flitting outside my vision. Anyone who's worked in a lab like me, or perhaps a library, knows how you can feel after hours of silence, under a flickering fluorescent light. I stood up only once, to spin around and catch it, and immediately sat back down, knocked back by the screech of the autoclave's steam relief. I swear, I almost died at that moment.
+
+I came into the lab again the next day. No one mentioned the unlocked doors. I can only imagine tests left to run over night were re-prepared, and run again during the day. People were irritable as usual, but there was no mention of things out of the ordinary. We did have one visit, a grad student who worked further down the wing walked by the labroom I was working in, no doubt to speak with my supervising professor. When passing by the room she stopped dead in her tracks, mouth agape, and stared first past me, then looking me straight in the eyes, before continuing.
+
+A half an hour later the fire alarm went off. Grumbling, the lab workers shuffled out, we stood in the cold, then started to funnel back into the staircase to the ophthalmology wing. Thats when I saw her again, the staring grad student. She was standing at the mouth of the stairway, scanning the crowd. Her eyes finally landed on me, and she motioned me into a side hallway. Curious, I followed.
+
+When we had moved a sufficient distance away from the grumpy crowd to talk I gave her a smile and asked how I could help her. She seemed not to hear me, gazing over my right shoulder she asked ""Have you lost an relatives lately? An older man? Or anyone close to you?"" I responded no and she quickly followed up with ""Has anyone you know of passed away that may have a special interest in you?"" I was mostly amused, a little spooked by her questions. ""No, why?""
+
+What she told me next was stated with such matter of fact confidence, and followed by her immediate departure, I was left accepting it on default for moments before my skeptical brain could kick in. ""There's a dead man behind you, he's a ghost. One arm outstretched he's been pointing at you all morning.""
+
+I've never believed in psychics, although I had before this point had one odd encounter. On a elementary school field trip a chaperone had turned to a friend of mine, eyes glassy, and abruptly said ""your dog is dead"". Afterwards she denied saying this, but sure enough... The dog had been struck by a car. When it didn't come to the door when called, even into the night, he was terrified. It was found the next day by the cloud of flies, it had dragged itself under the porch and died.
+
+After returning to the crowd of people unevacuating the building, I purposefully pushed my way in to avoid standing next to the girl I had dubbed crazy. I returned to my lab room, and sat at my computer. Behind me two grad students were fighting. The argument, over another missing sample, grew louder than average. In fact, one girl turned to the other and actually rose her voice to a shout, and at the exact moment a glass cabinet shattered, pouring beakers and cylinders to the floor. Both grads students immediately stood quietly. One whispered ""Fuck this place"" and then walked out without making any attempt at cleaning.
+
+It was that statement that pushed me over the edge. It was as if they knew, they knew there was something completely insane about the lab, and were resigned to it. I never came back to the lab at night. I worked two more weeks, frequently peering over my shoulder, and scampering quickly past the kennel on my trips to the bathroom, and then I left. I've not had any contact with the people I left behind, and for all I know they are continuing their business.
+
+Whether anything I experienced represents a haunting, or a disturbance, or just paranoia and crappy employees, I have no idea. I tell people I quit because my coworkers were lousy. But there's definitely more to it than that, and I wont step in that building again."
+emntt,3,2010-12-16,Looking for a junior/entry-level iphone dev job (UK),[deleted],jobs,https://www.reddit.com/r/jobs/comments/emntt/looking_for_a_juniorentrylevel_iphone_dev_job_uk/,"I'm a PHP guy and cross-training into iphone development. I'm still at a junior/entry-level stage and am working hard to produce my first iphone app (it'll be done in January *crosses fingers*) and I'm wanting to find a junior/entry-level iphone role.  
+
+My preference is to work either in the North West or North East at a creative branding/marketing agency (mainly because I enjoy working in creative agencies), and I'm ideally looking to work on multiple apps (not just one) and get good exposure to different types of apps (games, core data, etc).
+
+I do not want to be working on one app, nor do I feel I would enjoy a role that is primarily aimed at maintenance of existing apps.
+
+I've looked on quite a few forums, websites and Twitter; but a lot of them want commercial experience, or apps in the app store.
+
+I'm open to internships. I notice there is a lot of internships/junior iphone gigs in the US; its something I'm looking at, but I'm conscious of the fact that my lack of commercial experience does hinder me.
+
+With this in mind, I'm hoping by posting on reddit will at least point me in the right direction."
+engis,6,2010-12-17,[Hiring] High Performance Computing : Electrical Engineer and/or CS with FPGA design experience + internship opportunities available.,IrrelevantDictum,forhire,https://www.reddit.com/r/forhire/comments/engis/hiring_high_performance_computing_electrical/,"Stone Ridge Technology works in the High Performance Computing Industry. It is developing proprietary hardware and software that enable the use of multi-core CPUs, GPUs and FPGAs for accelerated computing.
+
+We're a small startup company pursuing some very interesting opportunities in HPC Finance and Bio. The position is in Bel Air, MD, but we're open to some at home / in office arrangements if your a little further away and have a proven track record. 
+
+Our company is seeking candidates with FPGA design experience for full-time and intern positions as an Electrical Engineer. The qualified candidate will have experience in FPGA development for implementation of complex algorithms and network processing. Experience should include FPGA design, simulation, synthesis and implementation with VHDL and/or Verilog for Xilinx and/or Altera devices. Electrical Engineers or Physicists with a BS or MS are desired.
+Skills: FPGA design, VHDL/Verilog, C/C++, network processing, high speed interfaces e.g. PCI-e, device drivers, strong diagnostic skills, excellent interpersonal and team skills and ability to work independently.
+
+Send me a message with your text resume, your experience and/or a public LinkedIn profile. 
+
+Thanks!"
+enmyw,5,2010-12-17,"I'm about to hand over my code to a MAJOR tech company, who hasn't paid me anything  yet or put my name on paper work.... suggestions?",CSinSF,learnprogramming,https://www.reddit.com/r/learnprogramming/comments/enmyw/im_about_to_hand_over_my_code_to_a_major_tech/,"Hello all, 
+I wanted to put this in the programming subreddit, but I don't think that I'm trusted yet for that. 
+
+I'm a Master's student in CS and doing my research with a very big tech company.  My professor got a grant from them for this research, and she hasn't dispersed any of the money to me (I've been working on it since July).  I just recently presented my research to them, and they were happy, and want to box it up and test it. 
+
+It's been great working with this company, but they have only put up one of their researchers for once a week 20 minute phone calls, and my thesis adviser is not an expert in the subject I'm working in.  I've been teaching myself these skills, and worked out the algorithm myself. 
+
+I want to tell them that I wont hand over my code until I get my name on some paper work either guaranteeing me some of the grant money, or perhaps an internship. 
+
+I just feel a bit taken advantage of because I'm paying this school to do a master's thesis and for the chance to do research, and apparently I'm also paying for the opportunity to make this company money. 
+
+Is this normal treatment of students?
+
+Thanks!
+"
+eo5c8,0,2010-12-18,Does anyone work for a small neighborhood insurance agency and can share some insights?,steeping_tea,AskReddit,https://www.reddit.com/r/AskReddit/comments/eo5c8/does_anyone_work_for_a_small_neighborhood/,"Hi everyone,
+
+I've graduated from college recently and my job hunt for an actuarial position is not going too great. So I was thinking of working/volunteering at my neighborhood insurance agency and was wondering if anyone working at one of these places can describe what exactly they do there and if I would get experience  doing any type of actuarial calculations and/or excel work. If I went in and approached them saying I wanted to get an internship would I get laughed out of the place? Thanks a lot for your input"
+eood4,7,2010-12-20,"[For Hire] Recent College Grad in Computer Science, Will Relocate",Maixy,forhire,https://www.reddit.com/r/forhire/comments/eood4/for_hire_recent_college_grad_in_computer_science/,"I haven't seen much desire for entry level CS degrees, but here's to hoping! 
+
+I finished up my Bachelor's in Computer Science (Minor in Interactive Games Development) this December from the University of Nevada, Reno.
+
+I have internship experience with a large scale gaming company (I.G.T.) working on a C++ based OS/engine and related C# applications.
+
+My strongest programming language is C++, w/ C# in a close second.  Currently working with JAVA/Android SDK for mobile app. development
+
+I have programming experience in OpenGL, C++ Networking/Encryption, and Simulation physics
+
+I'm willing to relocate (no assistance required) to pretty much anywhere.
+
+Does this sound like the background for a position than anyone needs filled?
+"
+eosjm,2,2010-12-20,21-year-old college student needs advice on future job/living situation,ellydee,needadvice,https://www.reddit.com/r/needadvice/comments/eosjm/21yearold_college_student_needs_advice_on_future/,"Hey guys I'd really appreciate some advice on my future job/living situation. This is a little complicated so bear with me.
+
+Some background: I am a 21-year-old college student with very little money in the bank. After all the bills I am expected to pay at this time of year I will probably be more in debt than ever. Currently, I work during breaks while I’m home. I just recently found out that my job will be cutting my hours and I will not be able to get full-time hours during the times I am home. Instead, I will only be able to work about 4 days per week. On top of all this, I have not been getting paid what I am “worth” for the past 1-1.5 years. I am in a graduate degree program with intern status and should be making a bit more than I am (2-3 more dollars per hour). For these reasons, I have decided to quit my current job as soon as I’ve secured employment in the city where I’m attending college. Previously I could afford to not work while at college so I could focus on my studies, but that just isn’t cutting it for me anymore. My problem is where to live this summer.
+
+My parents would prefer that I stay home during my breaks so I don’t have to take out more loans to pay for housing. This would be nice, except that I do not have a place to stay in my house anymore. In September, they gave my room away to my 18-year-old brother and now I am sleeping on an air mattress downstairs with no place to put any of my belongings and little to no privacy. I don’t want to seem like a spoiled brat, but this is just not what I am used to. I feel like they no longer have room for me in their house, yet expect me to have no issues staying here for long periods of time. Specifically, they want me to stay here for 4 months over the summer. They have offered to kick my brother out of my old room and have him share a room with my other brother for the summer, so that I can have my room back for 4 months. I don’t think this is fair at all and I really don’t want to take my brother’s new room away from him.
+
+As I see it, my options are:
+
+(a)	Stay at home, suck it up, live rent-free and have my job in college city (assuming I can find employment) transfer me to a store near hometown. Spend the summer living with my family but sleeping on an air mattress.
+
+(b)	Live in college city working at new job, pay rent for the summer, have a room and privacy, not see family as much.
+
+I’m having a hard time deciding how to weigh the pros and cons on this one. I’m wondering if there is a way to do this that I haven’t thought of yet. Any advice is appreciated."
+epgs1,7,2010-12-21,Is exam grading/curving this bad at most Uni's?,CrimsonVim,ECE,https://www.reddit.com/r/ECE/comments/epgs1/is_exam_gradingcurving_this_bad_at_most_unis/,"I just completed my BSE and I just started a good job at a company I've already had 3 internships with, and I feel like I was generally pretty successful throughout college and was very involved in multiple aspects of college life. But the one thing I could never understand was the idea of professors who design [engineering] exams for a 50%(ish) average score. As an example, one of the classes I just finished was an intro VLSI design course and as many of you know, that covers a wide variety of topics throughout the semester and the pace is pretty fast. I felt like I knew the material pretty well and the professor was a guy I knew well and liked his teaching style very much. But I was still very nervous about the exams because I know he likes to design them around the 50% average, so that the top students ""have a chance to show how much they studied/learned"" or something like that. So I took the exam, and as I feared, it was extremely hard - one of the toughest I have taken, with both short answer theory questions and long, multiple-part technical/math/calculation/sketching questions. Walking away from the test I had this nasty feeling in the pit of my stomach because even though I felt I was well prepared for the test, the sheer amount and breadth of material on the exam was out of control, and many questions were ""application"" type questions that I had never seen before and required very high level thinking to understand what the question was asking and how to apply multiple concepts we learned to answer it. The average ended up being 55% for a class of about 25 students, and I got a 64% which was toward the upper end of the scores (I think 70 was the highest in the class). I ended up getting an A in the class and yet I don't feel accomplished at all, knowing that I only answered slightly more than half of the material on the exam correctly. I guess my question is, do most Unis do it this way and does anyone else feel discouraged about this method? I really can't wrap my head around this."
+eptjn,0,2010-12-22,Could you spare a vote? My friend is trying to win an internship competition.,mwc191,AskReddit,https://www.reddit.com/r/AskReddit/comments/eptjn/could_you_spare_a_vote_my_friend_is_trying_to_win/,"[Link](http://www.ef.de/globalintern/contestants/?id=27998&amp;ctr=de)
+
+Please watch the video and if you like it, click on the thumbs up!
+
+Internship in 3 different countries for 3 months in total.
+
+Thank you so much :)"
+er1l1,2,2010-12-24,Information science major. What is the best type of internship to get real experience and connections? Did you guys do any internships? What were your experiences?,[deleted],AskReddit,https://www.reddit.com/r/AskReddit/comments/er1l1/information_science_major_what_is_the_best_type/,"Reddit seems to have many tech people reading so I wanted to take the time to ask about internships and entry-level positions you guys have had and which ones/kinds you think provide the best experience or resume attention.
+
+I'm looking for an internship over the summer and there are many available (I'm in Philadelphia, lots of places around), but some seem artificial. By artificial, I mean that it seems if I interned there I'd be running papers back and forth instead of doing anything related to computers, networks, or anything tech related.
+
+Anyone have some advice for me?"
+eri8z,4,2010-12-25,Interested in a job in Information Security (Location: San Jose - San Francisco)?,orwellian_gangsta,jobs,https://www.reddit.com/r/jobs/comments/eri8z/interested_in_a_job_in_information_security/,"I work for a large consulting firm. I am responsible for running and building a team around our information security services in the West coast.
+
+I have 7 positions open (Staff through Manager).
+
+Location: San Jose, San Francisco (if you are from out of California, relocation may be available).
+
+HR is going to start advertising the positions in January, but as a fellow Redditor, I decided to post here first to see if anyone is interested.
+
+My team provides consulting services for large companies located in the West coast. Based on your background and the clients' needs you can expect to help out in a variety of fields: attack &amp; penetration assessments, network security architecture, threat intelligence and threat modeling, mobile security, platform security, and identity and access management.
+
+In terms of experience, I'm looking for 1. Recent college grads who have a strong enthusiasm in information security and have dabbled with the field as part of their hobby or internship, or taken a specialized course, and 2. Experienced professionals with a consulting background (2-10 years).
+
+Send me a message if you are interested. "
+erokt,1,2010-12-26,So I got my CS degree... now what?,PsYcHoMoNkY3169,AskReddit,https://www.reddit.com/r/AskReddit/comments/erokt/so_i_got_my_cs_degree_now_what/,"So I have finally gotten my degree in Computer Science from Virginia Tech and am looking for a job. I have gone on several interviews but all have said that I don't meet the requirements or they are going with more qualified people. I'm a pretty average student 2.7 gpa and nothing special stands out on my resume, no internships, nothing that puts me above the others.
+  
+
+I was just wondering has anyone else gone through a similar experience? Any words of advice for those entering the job market straight from college with no ""real world"" experience?  
+  
+**EDIT:** PM me your email if you would like to see a copy of my resume"
+erzlp,3,2010-12-27,Dear Redditors: You all seem relatively smart. Help me decide where to work this summer? ,throwoutacnt,AskReddit,https://www.reddit.com/r/AskReddit/comments/erzlp/dear_redditors_you_all_seem_relatively_smart_help/,"This summer I have been offered two internships and circumstances make the decision a toughy. One is located in Silicon Valley, and the other is located in Irvine, CA.
+
+I grew up in Southern California (Coto de Caza area) and was offered the internship in Irvine through mere connections. I'm only a second year Electrical Engineering student so I would be living at home (probably for the last time) if I interned in Irvine... but if I took the Silicon Valley offer, I would probably live in a really beautiful appartment in a great new city, which would be nice, etc etc.
+
+Both pay essentially the same, and would look great on my resume regardless. I'm not quite sure which company I would rather stay with when I graduate, as the ultimate decision factor would be location.
+
+My GF of 2 years lives and works in San Fran, but that's not really a factor because I would only be able to see her on the weekends anyway, and it'd either be an hour drive from San Jose, or an hour flight out of SNA to SFO. 
+
+Maybe I just needed to type this out, but I feel like you are all much wiser than most internet goers so I figured I hear what you had to say etc. Thanks.
+
+tl;dr:
+I can't decide if I want to live at home and work somewhere where I got a job through connections, or move to a nice new appartment in San Jose on my own and intern at a place where I got offered the position based on my abilities. Both pay the same, have the same title, and are for world wide companies.
+"
+et5dm,0,2010-12-29,What type of freelance work can I find with these skills of mine?,[deleted],ECE,https://www.reddit.com/r/ECE/comments/et5dm/what_type_of_freelance_work_can_i_find_with_these/,"Hello All,
+
+I am a new member to ECE subreddit (new account, but have been hanging around and reading stuff for a few months).
+
+I am currently working as an intern in a robotics company, mostly programming Atmegas and LPC2148. I have learned enough to handle small projects as a freelancer. I will be putting up the code I had written for LPC2148 on my github as soon as the internship ends to showcase what I can do.
+
+So, what kind of freelance work can I get with these skills?"
+et5uj,6,2010-12-29,Alright /r/engineering... The new boss laid it out for me. Help me get back on the horse.,LaxBouncer,engineering,https://www.reddit.com/r/engineering/comments/et5uj/alright_rengineering_the_new_boss_laid_it_out_for/,"Here's a little context:
+
+I'm 24 years old, I have 96 credits from 3 different universities (Syracuse University, Hofstra University, and SUNY at Buffalo). I landed an internship at company, and asked them to pick me up full time, which they did. Now, the reason I asked them to pick me up full time was because I was failing out of school, I couldn't dedicate the time to both working at my internship and school. I now work 50-60 a week standard and everything was great. My boss made it clear that I had the potential to move up in the company based on my work quality and ethic, life was good.
+
+And then my boss got a sidemotion and there's a new VP of engineering who's made it quite clear that degrees will be important. As of now, I can sit in my same position as I've been grandfathered in, but I have pretty much lost my growth potential in the company.
+
+I've got to go back and finish my degree. 
+
+There's a couple things holding me back:
+
+1.) I was kicked out of the engineering department at UB right before I decided to go full time. I was in the process of taking the two classes that would get me back in, granted that I got the grades in them, when I dropped them in order to work. 
+
+2.) My GPA at my first two universities was very good, but at UB not so much. I live and work in Buffalo so I feel like I would have to go to UB to finish, where I have a poor track record. 
+
+3.) I can't stop working. I work ten hour days, I need the hours. From what I remember at UB there's very slim to no choices for night classes that I need. 
+
+So I'm looking for some advice on what you folks think the best way to resolve these issues would be? My company will pay for half of my tuition, and I'm still eligible for grants/loans, so hopefully tuition won't be a limiting factor. Would I be able to get back in at UB? Are there any online options for accredited engineering degrees that could work around my schedule? What would you do if you were in my position?
+
+Thanks for the time. "
+etq5b,9,2010-12-30,Why are so many apache cluster projects written in Java?,zaneyhaney54,learnprogramming,https://www.reddit.com/r/learnprogramming/comments/etq5b/why_are_so_many_apache_cluster_projects_written/,"I've been working on a web application and I decided that I'd break from my normal pattern of using relational databases (MySQL primarily) and try something new. I've been interviewing for an internship at facebook and I thought Apache Cassandra might be an interesting choice, when I started reading about it I thought it was strange that it was written in Java, later when I learned that Hadoop was also primarily implemented in Java, aswell as Hive and Derby I started wondering what the reasoning behind this decision was. Most of my studies have been in Scientific computing and the codebases are usually in C (or in some cases Fortran), in a cluster project like Cassandra or Hadoop why would you pick Java (a language that I've always been told is slow) as opposed to C or C++? Is it strictly a portability decision? Any insight here would be helpful."

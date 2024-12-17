@@ -1,0 +1,72 @@
+akuuq,2,2010-01-02,I'm looking for some good IT related books to read while I'm doing an internship,iamkion132,AskReddit,https://www.reddit.com/r/AskReddit/comments/akuuq/im_looking_for_some_good_it_related_books_to_read/,"It's my final semester of school and I was lucky to get an internship so I will have a chance to really explore and expand my knowledge of IT.  While I will be working on practical skills, I want to shore up some of my weak areas even at a theoretical level.  My main weak areas right now are switching/WAN networking and some of the more advanced stuff dealing with servers, mainly Windows Server "
+anwwl,1,2010-01-10,Have anyone found a good engineer job in this economy?,l0nghorny,AskReddit,https://www.reddit.com/r/AskReddit/comments/anwwl/have_anyone_found_a_good_engineer_job_in_this/,I graduated in May from college with BS in computer engineering. I have a hard time finding a good engineering job. I don't have working experience except for one summer internship and it's holding me back. I'm wondering if anyone found a good job in today's economy and from what company. Any suggestion for my job hunt will be much appreciated.
+aotyq,3,2010-01-12,How do you keep contact with old professors and business associates?,PuppiesandUnicorns,AskReddit,https://www.reddit.com/r/AskReddit/comments/aotyq/how_do_you_keep_contact_with_old_professors_and/,"Over the last couple of years I have worked at three different internships, and had a couple of professors who I really liked. I also had a two adjunct professors offer to help hook me up with a job at their company (I had already found a job before they offered.) 
+
+How do you go about keeping in contact with these people? I was not buddy buddy with any of them, but I really want to keep in touch in case I get laid off from my current job, or if I decide I would rather work where they are working. "
+apq64,2,2010-01-14,Should I use LaTeX or a .doc file for my internship résumé?,pingveno,AskReddit,https://www.reddit.com/r/AskReddit/comments/apq64/should_i_use_latex_or_a_doc_file_for_my/,"I'm putting together my résumé for internship hunting for the summer. I have the choice between writing it in LaTeX using a résumé package or using a regular word processor (OpenOffice/Word) instead.
+
+Here are the pros and cons that I already see:
+
+LaTeX pros:
+
+* Works well with text oriented version control systems (e.g. Git, Mercurial).
+* Packages are already available to make a nice layout.
+* Better control over formatting most of the time.
+
+LaTeX cons:
+
+* If I'm getting help from someone who needs to edit the résumé, they will probably want to use a WYSIWYG word processor. Relatively few people know how to write LaTeX.
+* If an employer wants a .doc then I will have to rewrite the whole thing using a word processor. (Bonus question: What file format do most employers want?)
+* I can only build the résumé on a computer with LaTeX somehow available (can be done via USB drive).
+* No WYSIWYG editor (bad when I'm trying to get everything onto one page).
+
+Help me Reddit. You're my only hope.
+
+Edit: I would be using pdflatex to create a PDF document. I'd have to be insane to send in a raw LaTeX document. :P"
+apttq,3,2010-01-14,I'm unhappy even though everyone says I should be happy and grateful for my life.  What can I do?,pythonaut,AskReddit,https://www.reddit.com/r/AskReddit/comments/apttq/im_unhappy_even_though_everyone_says_i_should_be/,"I know there have been other posts similar to this, but I think this is a slightly different case and I was wondering if anyone could give any advice.
+
+I'm a college student studying CS.  I'm a year ahead of where I should be and I've done undergraduate research that should put me graduating with at least a few publications.  I'm currently at an internship to take a short break from school; it's in a slightly different field from my other research (I wanted to diversify) and I really like the people I work with.  I really like my landlord and the people I live with as well.  I even get along with the other interns.
+
+Everything in my life is going how I want it, but I'm not at the stage where I have achieved everything I want to.  I originally thought that my problem was similar to the problem people have when they achieve everything they feel like they are supposed to achieve according to social norms to be successful.  That's not really how I feel though.
+
+I feel unreasonably depressed about my whole situation.  I no longer have any motivation to study or advance.  I feel like people don't like me.  I have had trouble forming romantic relationships and meeting people unlike ever before.  If anyone has any sort of tips or has been in a similar situation let me know, I'm really interested to see any input."
+arqiw,0,2010-01-19,"Hey Reddit, can you give me some advice on getting an undergraduate physics internship?",FiniteSum,AskReddit,https://www.reddit.com/r/AskReddit/comments/arqiw/hey_reddit_can_you_give_me_some_advice_on_getting/,"My last summer prior to graduation is coming up, and I'd really like to nab an internship for numerous reasons. I've tried in the past to get internships in math (I'm getting a dual-degree, physics was a late addition), but ultimately was only successful in getting an internship with a professor I had taken numerous classes with. I suspect that I don't look too stellar on paper, and I'm wondering if ya'll can help me cast myself in the best light.
+
+The pros:
+
+* An excessive number of math courses (even for a math major)
+* Undergraduate research experience in math, with a paper on the arxiv, though it's not published
+* A really excellent recommendation from the math department
+* A lot of experience with coding (and MatLab)
+
+The cons:
+
+* Many of those math courses are not physics-relevant
+* 3.24 GPA, with numerous B's in upper-division math and physics
+* I'm not very familiar with the physics faculty, so I doubt I'll get a really good recommendation from them
+"
+auhi3,0,2010-01-26,Does a GPA reduce chances of getting an internship?,foreza,AskReddit,https://www.reddit.com/r/AskReddit/comments/auhi3/does_a_gpa_reduce_chances_of_getting_an_internship/,"As a CS major needing an internship, I've applied to at least 50 places.  I have been contacted by some places, but they have refused me due to my GPA being low.  It's at a 2.8, but it seems like most places are now requiring a 3.0.  Does anybody feel like this is happening?"
+auvxt,15,2010-01-27,What kind of salary should upcoming mech. engineering college graduates expect to get realistically?,Ogi010,engineering,https://www.reddit.com/r/engineering/comments/auvxt/what_kind_of_salary_should_upcoming_mech/,"Saw a post on a similar topic like this in /r/programming, but figured the information could be useful for /r/engineering.
+
+I've been hearing wide array of salaries out there that mechanical engineering students get when they graduate.  One of my professors was talking about how we would get job offers for upwards of 80k/yr once we graduate.  I do have some work experience in various tech positions,  but salaries like that really sound exaggerated for someone coming straight out of college; and that's not even taking into effect the current state of the economy.
+
+Then again, what do I know, I am only in my junior year and I'm grinding away on my dynamics homework.  Let's hope I get at least one of the internships I'm applying for this summer.
+
+edit1:
+I should note that I attend UCSD, so it's a respected engineering program in an area with a high cost of living.  "
+avlob,21,2010-01-29,The tears on my cheeks is the warmest feeling i have had for a while.  Hoping for an instant death.,whatisdestiny,SuicideWatch,https://www.reddit.com/r/SuicideWatch/comments/avlob/the_tears_on_my_cheeks_is_the_warmest_feeling_i/,"If you are emotinall sensitive please leave. English is not my first language and my fingers are pretty close to being frozen so please bare with me. Call me chicken for not sliicing my wrist but I feel incredibly selfish for posting this because i do have have a loving family but I feel very I would be placing a huuuge burden on them with this. I know its selfish to do this to my family but the emptiness i feel is just unbearable at this point. I have detered this as long as possible by reading websites about parents who lost their children to suicide but I am done now. My dad works like a dog from the time he gets up to the time he gets to sleep and my mom works a shit job just to put me through school. My parents have very little saved for retirement which I think is my fault of me not being able to pay for uni. 
+
+Academically i'm doing fine, recently got an internship in the IT field but I still feel empty.I feel incredibly selfish for posting this here but as many previous redditors i have no other option. 
+
+I simply cannot find the source of my emptiness. I try to keep a positive perspective on everything but I simply cannot find happiness anymore. My smiles, my caring attitude, and my forgiving nature all go unnoticed, if anything, I am constantly 'used'. I try to remember that more than half the worlds population doesn't have the luxury of feeling like this but that can only deter my thought process for so long. 
+
+I have been treating my body as a temple for a while but recently just gave up and started smoking, drinking, picking fights for no reason, and been planning my way into meth / heroin. I walked home on the wrong side of the highway hoping I would die instantly yesterday but no luck. My car just recently died and now my family has 1 car between the 4 of us. My best friend is moving away and i recently got dumped by a girl i would give the world for. I am more afraid of being alone for the rest of my life after my parents are gone than anything. It seems respect for women or anyone else for that matter is no longer a requirement in the western world. As a last act of good faith I helped a passed out student get home from the bar to ease my conscious about this.
+
+If destiny has it, I will make it home and read any words of comfort you anonymous redditors can offer. If not, this song ""In the music 2010"" has provided me with an attitude to not fear what may come of my last attempt on the highway to find peace.
+
+Thank You.
+
+
+
+
+"

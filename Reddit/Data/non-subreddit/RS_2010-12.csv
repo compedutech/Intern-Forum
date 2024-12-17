@@ -1,0 +1,693 @@
+ee7aa,5,2010-11-30,[Hiring] Looking for programming interns in North Dallas.  Crosspost from r/texasfavors,frostbite7217,Dallas,https://www.reddit.com/r/Dallas/comments/ee7aa/hiring_looking_for_programming_interns_in_north/,"I work for a mobile development company in Plano and we are looking for paid Java interns to work on android, blackberry, and various other small tasks. Objective-C would be a bonus as well."
+eedj2,1,2010-12-01,Spring semester housing,karmanaut,duke,https://www.reddit.com/r/duke/comments/eedj2/spring_semester_housing/,"I *desperately* need to find someone to sublet my place for the spring. I'm going to DC to do an internship. It's a really nice place but I am having trouble finding anyone looking for a place. Does anyone know a student looking for a place? Thanks!
+"
+eedod,7,2010-12-01,Anyone looking for a place to live?,karmanaut,triangle,https://www.reddit.com/r/triangle/comments/eedod/anyone_looking_for_a_place_to_live/,"I am trying hard to sublet my room in my house. It's really a perfect living arrangement, but I am going to DC for an internship, and that won't be possible unless i find someone to take my place. Thanks!
+
+"
+eeppd,2,2010-12-01,Some help with measurement uncertainties required,Madmonkey91,statistics,https://www.reddit.com/r/statistics/comments/eeppd/some_help_with_measurement_uncertainties_required/,"I am a 2nd year mechanical engineering student doing an internship at an aircraft maintenance firm. Currently I am tasked with calculating uncertainty values derived from calibration tests, so that they can be recorded on the test certificates. 
+
+I am doing this by first using the calibration certificates provided by labs using reference standards, reading the standard uncertainty value off it, and then combining that with standard uncertainties derived from in house testing. The in house testing procedure is as follows: 
+
+1) Take 3 measurements
+
+2) Derive mean and standard deviation values
+
+3) Using student's t-distribution with 2 DoF, k=4.3 
+
+http://en.wikipedia.org/wiki/Student%27s_t-distribution
+
+I have an excel spreadsheet to calculate the combined expanded uncertainty with inputs for the standard uncertainty from the reference standards, in house testing as well as for the k value/DoF, with sheets for each individual instrument being calibrated.
+
+Unfortunately I have not had much experience in this field in the past and as such am running into several problems with my understanding of the subject matter and thus getting stuck. For example, the calibration takes place over a range of values. Is it necessary to calculate the uncertainty at every test point? Because that seems way too time consuming for the person carrying out the calibration ( even with the use of my excel spreadsheet). Is there some way of calculating a total uncertainty for a device?
+
+EDIT: Just realised hadn't specified formulae used for calculating combined expanded undertainty. Total degreres of freedom are calculated using the Welch-Satterthwaite formula and the total combined standard uncertainty is calculated by adding all the input standard uncertainties in quadrature. Then the coverage factor is derived and multiplied to the combined standard uncertainty give the combined expanded uncertainty"
+ef3ui,1,2010-12-02,"Can we talk about what you mean by ""unlucky""?",[deleted],WTF,https://www.reddit.com/r/WTF/comments/ef3ui/can_we_talk_about_what_you_mean_by_unlucky/,"[Can we talk about what you mean by ""unlucky""?](http://www.reddit.com/r/politics/comments/eekrs/while_rpolitics_stays_obsessed_with_wikileaks_i/c17lzvr)
+
+I mean my dad was certainly “unlucky”. My father was born with no arms or legs in one of the most mountainous states in the country, with the poorest transportation system. He was a 16th generation carnie, and in addition his father started his own interpretive dance studio and hot dog parlor to produce things like interpretive dancers, hot dogs and hot dogs made from interpretive dancers. Then one day the Union demanded that he stop making his special hot dogs and then shut the place down...
+
+“You bastards!” He yelled as he looked away with his bad eye and stared them boys down with his good eye. Grandpappy would have defeated those Union boys had it not been for the poorly placed industrial cotton candy machine right behind him. To this day folks talk about how he was back flipping away from a group of Union soldiers and just never noticed and jumped into that vat of cotton candy. Though some folk like to think that grandpappy just dern gave up on living that day when his dance studio/hot dog factory was shut down. My father's mother died shortly there after, she said “If'n my brother ain't here by my side I reckon there ain't no reason to go on livin'” Then she too followed my grandpappy into the fluffy pink beyond. Now some people will tell you that those wasn't no Union boys and instead were health inspectors, well that may be true; but I ain't gonna hear no talk about. Now some people may tell you that my grandpappy called his puppy mill an interpretive dance studio, but he did have a hot dog factory! 
+
+So my father was there with no arms or legs. He had to travel to school up hill both ways, and he ain't got no legs. So my father invented a way to travel to school, and that is how a popular dance called the worm was invented. In fact it was Teddy Roosevelt who was traveling through town that day and noticed my father making his daily trek to school, and then with a wink and laugh announced that he was gonna patent the dance. Oh my father tried to get it back from President Roosevelt, and he did managed to chase him for a quarter mile; but Teddy's greater mobility combined with that dang gravel road proved to be my father's undoing. So defeated by President Roosevelt my father made it to school, where he had to shovel coal all day long. This was on account that the only school that would admit my father was a school devoted completely to the study of shoveling coal which weren't easy on my father on account of the no arms or legs.  
+
+Upon graduation from Coal Men's Academy, my father wrote something of 3,000 letters to businessmen asking them to help pay for his education. This was hard for my father on account of his not having any hands, and suffering from that thar illiteracy. You know what happened to my father? Do you wanna know? All 3,000 of those businessmen showed up and beat my father with Nerf bats. For 5 days they all took turns beating my father with Nerf bats...they took vacation time for this. After the five days was ended each of those businessmen tossed my father a nickle which he went down to the corner store with. There he bought seven loaves of bread, 18 gallons of milk, 50 pounds of sugar and 19 dozen eggs. He then used those to create a rather drastic pastry treat, and that is how cup cakes were invented. The remaining money my father used to buy the corner store, and then finance his first three college degrees; which was amazing on account of the no arms and legs and the fact that my father was completely illiterate! All while working at the corner store as an unpaid intern putting in 185 hours a week on account of inventing a time distortion field that allowed him to work, sleep and study more hours than actually existed in a standard Earth week. That was was over 95 years ago, and my father has since earned 17 masters all while putting insurance, clothes and etc on our table...
+I wasn't even born with a body, but that ain't stop me from earning some of that thar book learning. Earning me a Ph.d in Nuclear Physics, which is amazing on account of being a disembodied spirit who suffers from the illiteracy.
+
+Just because you are ""unlucky"" doesn't mean that your life has to suck long term. All it means is you have to work harder to get where you want. Suck it up, realize that ""shit sucking"" is a temporary condition as long as you are willing to work hard enough to pull yourself out, and stop feeling sorry for yourselves. Cause ain't nothin' bad ain't never happened to no one who ain't deserved it. "
+efg8c,5,2010-12-03,Need advice on landing my first software job/internship (in C++/Java) [switching careers] Crosspost from LearnProgramming,goblgobl,cpp,https://www.reddit.com/r/cpp/comments/efg8c/need_advice_on_landing_my_first_software/,"
+I'm hoping to learn about the most pragmatic way to go about getting my first programming gig. Here's my situation  - I'd greatly appreciate any input. 
+
+I'm in my early 20's, and after graduating college a year ago (with a design degree), I stumbled upon programming, and particularly its intersection with math, and statistics. I found some really cool careers I'd like to work in that are at the intersection, but when I approach people in the industry, I keep getting the same response: 
+
+""you're math/quant background is great, but come back when you get some real-world programming experience under your belt""
+
+Understandable. My programming ""experience"" is as follows: I've taken a single Java course recently. And I took C++ courses in high school. I have (IMHO) a moderate understanding of basic principles of OOP, encapsulation, inheritance, polymorphism, etc. And I'm currently reading things like deitel c++ and carlH programming to brush up. So admittedly, I'm a novice, and don't have any significant personal projects, or work experience to speak of. 
+
+My dilemma: I'm not interested in pursuing a second degree, nor do I have the resources (financially) or patience for it. I'm pretty autodidactic and can spend the next few years teaching myself the foundations of CS. But my biggest priority right now, and cause of anxiety, is trying to get a job/internship. I need to start earning an income ASAP. 
+
+My 1-3yr goal is to ultimately get really good at high performance computing - the type of skill set that gets recruited for at places like Google, Amazon, and most automated trading firms. I know I won't be able to start out at places like these, but thats what I'm aiming for down the road. 
+
+Since I'm not pursuing another degree, my questions are: 
+
+1. What do you suggest is the best way to get my foot in the door? 
+
+2. What types of companies should I be looking at, that a) deal with high performance issues and b) are willing to hire someone with my background/lack of experience? (big vs. small, telecom vs internet, etc) (I'm in NY if that helps)
+
+3. What level of skill/competence is expected for a typical internship position? 
+
+4. Where should I be looking specifically, to get my first job? 
+
+Basically, I have a hodgepodge of skills due to a recent shift in career focus, believe myself to be able to pickup technical things very quickly, find programming enjoyable and intuitive, good at math, and have strong work ethic. I'm in New York, don't mind starting at the bottom, and I will take unpaid positions (if I have to) as long as I can learn a great deal, and it opens doors. What can I do to maximize the chance of getting a job within a relatively short amount of time? 
+
+I appreciate the help!
+
+**Just to clarify:** I'm not looking for advice on preparing for interviews - I've found a ton of useful posts here and elsewhere for how to do that. My problem is I'm pretty sure I wouldn't even get a callback at most places (given I'm not in a CS or related degree program, and don't have extensive coursework). I'm asking how can I get a shot at interviewing (anywhere really), with my background.
+"
+eg4y7,3,2010-12-04,Frugal Canadians: Bankruptcy Options.,brokeinjapan,Frugal,https://www.reddit.com/r/Frugal/comments/eg4y7/frugal_canadians_bankruptcy_options/,"OK guys, throwaway account here.
+
+In the last 5 years, since finishing University, I've gone through some ups and downs with regards to my debts. I want to start with some history. Don't take it as excuses for my debt. Feel free to skip to the tl;dr.
+
+* 2005-2006: Finished school with about $15,000 in student loans. Stupidly, I paid these off quickly (2 years) and simultaneously used my credit card to start two project cars, leaving me with $15,000 debt. Basically I traded my student loans for credit card debt. At the time, I had a job where I was banking hours but not able to take the time off. Eventually I needed both the time off and a change.
+* 2007: I quit my job. The banked hours were worth $7,000, but I didn't use it to pay off my debt. Instead, I went on vacation and moved to another city, where it took me 7 months to find a job. I regret it now, but at the time I didn't worry about anything until the money in the bank ran out. I also assumed that my future job would be high-paying. At the end of this period, I had about $20,000 in debt. I sold one project car and bought a cheaper-to-run car.
+* 2008: Bad relationship. I ended up supporting someone else for close to a year, and at the end of the year I had about $40,000 in debt. At this point I knew I had to change my lifestyle and I sold my car and moved again, to Vancouver. This time I got my new job first.
+* 2009: Unfortunately I had to buy a new (old) car for work once in Vancouver with a line of credit. But, for the whole year I was able to put over $1,000 a month to my debts. I felt great about it. Last summer my car broke in a very expensive way but I kept chipping away at my debts.
+* 2010: Really did well at my debts until June but I also got a a half-scholarship for a summer university program in France. It still cost me a lot of money. I borrowed $10,000 from my parents and sold my car and anything else I could. This led to an unpaid internship in Japan. It's an opportunity I couldn't afford to miss. I'm in Japan now, until May. I'm living very cheaply here.
+* Current situation: $10,000 in debt to parents, $7,000 secured debt, $20,000 unsecured debt.
+
+I have enough saved to survive here until May and also make my minimum payments. My plan was to work after and continue paying down about $1,500 per month.
+
+But now, I have the option of staying here on a full scholarship for three years to get a Master's degree. It's something that I really want to do but it's a time limited offer. I guess if I declare bankruptcy, it is possible to stay here. The parental debt can wait and I would have enough scholarship money to be able to keep making payments on the secured debt. If I do declare, the sooner the better, I suppose.
+
+But I could also leave in May as planned, go back to work and pay my debts. I fell really conflicted about not paying my debts back, when there is a simple solution to be able to pay them back. I think it would take about 3 years. But, I have the opportunity of a lifetime here.
+
+My third ""option"" is somehow refinancing. I'm not sure if it's possible but I will start to make some phone calls about this soon. If anyone has gone this route I'd like to hear about it. Keep in mind I potentially won't have an income for 3.5 years. If I stay for a Master's degree here, it would be year-round, and I wouldn't have a summer break to make money. This is the best ""option"" but I don't see how it's possible. I can't just call the bank and say ""I can't pay anymore, talk to you in 4 years"".
+
+One more thing: After getting the degree, I wouldn't be going back to Canada, so I'm even more tempted to declare because I'd be ""starting over"" in a new country anyway. I have a bunch of stuff in storage in Vancouver that I could sell for maybe $1000. I still have one project car in storage. It's listed for sale for $3,000 but no one is biting. In other words, selling everything I own would get me about $4,000 max.
+
+**tl;dr**: I have $50,000 in Canadian debt. I'm Canadian, living in Japan right now. Half of the debt would disappear if I went bankrupt, and I could get a Master's degree in Japan in my dream field. Or I could give up on that dream and pay the debt in a few years.
+
+Looking for input on people who've been in this situation before.
+Is there an option besides giving up the dream or bankruptcy? What are people's experiences with calling the credit card company and asking for better rates and making agreements? I am SO nervous about doing this for some reason. I feel guilty about the whole thing.
+Also, can I declare bankruptcy from overseas? "
+eggzy,6,2010-12-05,"Destroying the ""Flight"" in Fight or Flight...",AntiBeta,seduction,https://www.reddit.com/r/seduction/comments/eggzy/destroying_the_flight_in_fight_or_flight/,"Hi Seddit,
+
+First off, a short intro on myself: 20 yr old college student who recently lost a bit of weight, gained some self esteem, and started looking for ways to continue to improve myself as a person. Long time lurker, first time poster. Came upon the seduction community a while back and been using the concepts in situations other than dealing with women (some inner/behavioral stuff for my aspiring career goals etc... helped me get the internship of my dreams next summer.. thanks!) and decided to take the next step and use the concepts for what they are ultimately intended for. I've been reading up a lot of what's posted here (yes including the sidebar + listening to videos) and want to put things into practice.
+
+Decided to take this implementation with a small step: being able to make comfortable eye contact with a woman and hold it confidently with a smile until she breaks. I can do the eye contact with people i'm not attracted to during convo or anything well... but with women I think are attractive it's a different story. Trying to get over that.
+
+Problem: When I seek the eye contact, I can pull this off and then roll on. When I do not and it HAPPENS SPONTANEOUSLY (woman and I happen to meet eyes by chance for a second) it always triggers the ""flight"" of the ""fight or flight"" in my brain that i've always been subconsciously (and consciously in the past) doing, and I look away never to look back. I've tried to purposely stop myself from doing this but it's proving difficult because i cannot tell when these spontaneous eye-locks will happen.
+
+It's annoying. Am i too focused on getting over this? Has anybody else had this habit too ingrained? How'd you get it out? Another approach?
+
+Thanks a lot "
+egsum,2,2010-12-05,Any Louisville Architects on Reddit?  Or know one?,AnUrbanite,Louisville,https://www.reddit.com/r/Louisville/comments/egsum/any_louisville_architects_on_reddit_or_know_one/,"I'm trying to find any internship, paid or unpaid, related to architecture, urban design, or urban planning.
+
+I'm a student over at IUS.  Finishing a degree in economics and mathematics.  But after changing majors a half dozen times, I have decided I want to go to grad school for architecture and urban design (urban planning is also a possibility).
+
+I do not have training in architecture, but I am a self educator and a fast learner.  With a bit of guidance I can go a long way.
+
+I am very skilled with computers.  I know programming (c, c++, java), I have also done webdesign and I am familiar with most adobe software, including Photoshop.
+
+Currently I am going through lynda.com tutorials on Revit Architecture(a few more sections to go) and 3ds Max (completed the essential training and moving on to materials and lighting with mental ray training).
+
+I'm trying to get my foot in the door; improve my chances of getting into a good graduate program.  Maybe even find a good firm in Louisville that I can return to once I finish my M.Arch.
+
+I still have a year and a half to finish at IUS, so I could work with someone for almost 2 years before I move on to grad school.
+
+Note: I'd prefer to do urban architecture, not residential homes."
+egvmb,11,2010-12-06,Small town French Canadian doing a summer internship in your city! (Crosspost from AskReddit),dividual,houston,https://www.reddit.com/r/houston/comments/egvmb/small_town_french_canadian_doing_a_summer/,"I'm taking CarlinT's suggestion and crossposting this here.
+
+I'm doing a 3 month internship in Houston this summer and being from a small Canadian town, I'm a little intimidated.
+
+What should I expect in terms of culture/nightlife/society? I'm a male in my early 20s; I'm a little introverted, but I hope to adapt quickly, meet some people and make friends.
+
+Also, what should I pack? I don't really know what the climate's like, except hot.
+
+Edit: I'll update this as I get more information. All I know so far is early June to mid/late August (no specific dates yet) and that I'll be provided car and housing (don't know where yet).
+
+Edit2: Thanks for the input, I'll be checking, replying, and updating this post regularly so keep an eye on it as well!
+
+Update1: Not much to update on unfortunately. I will be in touch in mid/later January so that's when I'll have news!"
+ehvj8,3,2010-12-07,Screen Print/Graphic Designer looking to move to SF,kissedbyfire,sanfrancisco,https://www.reddit.com/r/sanfrancisco/comments/ehvj8/screen_printgraphic_designer_looking_to_move_to_sf/,"I'm currently residing in LA but as expected the city is making me completely miserable.  I'm making so little I'm having issues paying my bills and the job market here is depressing as hell (it is everywhere).  It's mostly unpaid internships and what does pay, doesn't offer living wages.  I'd much prefer to move to San Francisco in 2011.  I got my degree in Fashion and Theatre Costume Design, fell into Graphic Design for the apparel industry.  I've been working as a graphic designer for the apparel industry for 4 years now doing primarily screen print design including color separation, textile design, illustration and technical design.  I have 10 years of experience in Photoshop (I started out working with digital photographers in high school), 4 years experience in InDesign and Illustrator and am going through a bunch of WordPress tutorials.  I'm currently working for a web development company as a designer/front desk girl.  I help develop wireframes and site maps, offer help desk support for our CMS, QA, basic IT, along with taking care of other office duties.  I'm well versed in both PC and Mac.
+
+I would love to branch out but due to the majority of my portfolio and resume being fashion related, I'm usually met with reluctance here.  Plus I've done mostly freelance work so my resume is a bit extensive.  I was wondering if anyone has any insight into the apparel manufacturing industry up there?  I'm finding more postings up north than down here but the pay and the benefits seem far too good to be true.
+
+tl;dr Computer savvy graphic designer with experience in the fashion industry looking to move up north before LA drives me completely mad.  Looking for insight and/or connections in the fashion industry up north.  Thanks so much! "
+ejpov,1,2010-12-10,IAmA Starving College Student turned Android Developer AMA,chunalt787,IAmA,https://www.reddit.com/r/IAmA/comments/ejpov/iama_starving_college_student_turned_android/,"I am the sole developer/CEO/HR manager/CFO/COO/Janitor for Groggy Software.  I have a few apps publish on the Android Marketplace.  While profits fluctuate, in the past 5 months I have made around 8 grand.
+
+A little background:
+This summer I had an internship with a major software firm doing low level programming at the OS layer.  While I loved the company, I wanted to be in the application layer.  I loved Android, saw my funds dwindling, and decided to give it a shot.  I stayed up for almost 48 hours in a weekend and pounded out the framework used for most of my apps.
+
+The first apps that I released weren't really the best that I could produce but with school I didn't have much time to make anything that I could really throw my love into.  I had slowly been working on the Math Dice app and released that a few days ago.  Yes before anyone asks, it does feel good to have an app that I really put all my love into on the Marketplace, even if it's not performing so well.
+
+I've tried out a few different payment/revenue models so if anyones looking into getting into Android development hit me up I might be able to help"
+ejszg,1,2010-12-10,"[6] thoughts, rants, journal entry, wtf am i writing",motivation_none,trees,https://www.reddit.com/r/trees/comments/ejszg/6_thoughts_rants_journal_entry_wtf_am_i_writing/,"i was def at least a [9] earlier and i was laying on my friends bed and out of nowhere i just felt disgusted with myself.
+
+This is finals weeks for me. I go to a prestigious college, consistently ranked in the top 5. I have a shit ton of work to do but i dont have any motivation to do it. I get good grades A- B+ ish. But i just dont feel like doing anything. 
+
+Laying on the bed, i just thought to myself, wow im a disgusting fat fuck. im not fat at all. i use to be a collegiate wrestler and recently quit this year. gained some weight and body fat but im sure im still healthier and more fit than 95% of the population. 
+
+i was thinking to myself wtf am i doing? wasting my friday, smoking, eating and chillin out. i should def be doing something productive. but then i thought to myself why do i feel like i have to be productive? why cant i just enjoy this time and get to work later? then i thought whats the point of all this shitty work? im not that interested in it. im not that interested in much really. i dont have any burning passions or  hobbies. sure i like to hang out, eat good food, play some video games, work out, go out on weekends, try to bang some bitches and normal shit like that but no real desires on what i want to do with my life. 
+
+im an econ psych double major. Im planning to work in the finance industry and am going about the typical path of many kids at my school. going to job recruiting meetings, kissing ass, networking, trying to secure a summer internship that will lead to a full time offer. 
+
+im following this path because i have no clue what i want to do and the jobs pay a shit ton of money, 6 figures for 1st year analysts. 
+
+but whats the point? why do i want to be a baller? stack chedda and slay some bitches? iunno mayun. 
+
+it just got me thinking i have no purpose. whats the point of it? am i suicidal&gt;? no. dont have the balls and never thought of it. but i just feel life is kinda empty. i love smoking weed but am thinking of quitting just cuz i feel so retarded when im high. 
+
+my rooms a mess, i have a shit ton to do. dont know where to start. i dont know how i got into this school but im here hanging and actually doing well. am i smart? far from it. i just know how to play the world. not cheating just knowing what to study whats important. efficiency. came from an urban city. not rich. but not poor. but def my parents cant help me post college. im on my own. have a lot of friends. and few very close ones. ive had gfs. i dont have one now. 
+
+i dont know why im writing this. i dont know if anyone will read it. i question u, if u made it this far. 
+
+whats the purpose of life? why live? why do we work and do the things we do? why do i try so hard in school? why do i care about econometric analysis and the stroop effect? i have to write a lab report on an experiement we did and i think its the most retarded lab and dont wanna do it. 
+
+damn i just wanna smoke, eat some good food, and get my dick sucked and go to sleep. 
+
+this is stupid. "
+ek4ml,19,2010-12-11,"I was shocked to see ""social networking"" as a bulleted ""skill"" on a resume.  Am I missing something, or is this a strange ploy to impress prospective tech-challenged employers that anything to do with computers is good?",[deleted],reddit.com,https://www.reddit.com/r/reddit.com/comments/ek4ml/i_was_shocked_to_see_social_networking_as_a/,"I've worked with a lot of older colleagues who are frankly scared of computers, but putting social networking on your resume is like saying ""yeah, I'm a 20/30 something"" and hoping that's a bolster to their credibility.  What I see is ""yeah, I'm a slacker and have the idiotic gall to put social networking on my resume because you're obviously stupid old people who think that's a good thing"".  Maybe I'm misinterpreting what ""social networking"" means though.
+
+Edit: I should explain.  This is an internship position for IT (unpaid).  We have a working relationship with ITT tech and they get prospective credit/future resume credentials for working with us.  I like the idea of vocational college overall, but was depressed when I saw the resumes because I feel they might be getting lied to about what constitutes a ""good"" resume.  A ""professional"" of Microsoft Word is not what should be at the top of the list.  Am I being too picky? "
+ek519,0,2010-12-11,Can I just say this. WTF is so great about democracy in the first place?,DrewChambersDC,politics,https://www.reddit.com/r/politics/comments/ek519/can_i_just_say_this_wtf_is_so_great_about/,"There have been a lot of posts lately about how someone is scared for the future of democracy and how we ""supposedly"" live in a democracy. But I just want to get something off my chest. We shouldn't be fighting to preserve democracy, democracy is an archaic system that will one day be looked at on the same level as monarchies in the ""I can't believe people used to do that"" systems of governance. What we should be doing is taking our anger at the current state of American politics and somehow channeling it into working towards creating a new system that will actually help our country. 
+
+Think about it, democracy allows for the oppression of the minority by the majority. What concepts become policy? Good ideas? Ideas with the best scientific backing? No. Popular ones. The ones the majority thinks are right. And not the majority of Americans, referendums aren't taken on most issues, it's the majority of a handful of people with the same majors in college that most of us have nothing in common with. It's amazing how flawed this system is.
+
+EXAMPLE: I used to intern for ChooseResponsibility (The primary advocate group for eliminating the 21 year old drinking age) and it's mind boggling just how terrible America's alcohol policy is. The National Minimum Drinking Age Act is one of the dumbest laws that we've ever passed. How did it get passed? It was voted on, and seen as bad politics to oppose. 
+
+A law was passed, taking rights away from American citizens, based on a GUESS that raising the drinking age to 21 would reduce the amount of alcohol related traffic fatalities. We now have overwhelming statistical evidence that this is NOT the case. The presumption that the law was based on has been found to be FALSE. A law that is completely hypocritical (you can be prosecuted as a legal adult for minor in possession of alcohol), completely detrimental (wastes so many resources) and universally ignored, is allowed to persist... HOW? Well if you take a poll of Americans, most of them support the 21 year old drinking age... HOW? Well because it doesn't effect them. Most of America's population is over the age of 21, more than half of them could drink at 18, the law has no visible effect on them so they are complacent in its existence. The only people who are effected are a small minority group (18-21 year old drinkers) who get completely dicked by a terrible law that is allowed to exist only because of democracy.
+
+EXAMPLE 2: The TSA full-body scanners. A moral panic can cause our elected representatives to vote that we need to implement these in every airport. That's democracy, peoples opinions can be swayed based on talking points ""we need to keep our country safe"" and that's all it takes to implement policy. Wouldn't it be better if we had a system where before a significant expenditure could ever be implemented its merits had to be proven?
+Ok that's great you want to spend $300 million on these body scanners. Now instead of showing me how it works and voting on it, go run a trial at seven different airports and prove to me that they're needed / a valid expenditure.
+
+What's that? After a five month trial person B who ran an experiment with just metal detectors had the exact same rate of terrorism prevention (100%), was more efficient in moving bodies through his airport, and did it cheaper. I'm sorry but the full body scanners cannot at this time be justified no matter how many people think they're necessary.
+
+This is just my opinion and hopefully will spurn some meaningful discussion, but I just have never understood why people care so much about preserving democracy. Democracy isn't the endgame of political systems of governance, clearly we all have anger at the way the US government works. I just think instead of trying to ""take back our country"" and ""save our democracy from the government"" we could think of how to create a new system where these grievances we have could never arise.
+
+tl;dr - Democracy is a flawed system that allows for the oppression of the minority opinion. Instead of fighting to preserve it we should work to create a system where ideas of the highest proven quality get implemented instead of popular ones."
+ek53k,4,2010-12-11,Girlfriend dumped me. Do I try to get her back?,dumped554,relationship_advice,https://www.reddit.com/r/relationship_advice/comments/ek53k/girlfriend_dumped_me_do_i_try_to_get_her_back/,"Background info: We dated for 10 months. The first time we kissed she was dating someone else. (I knew, yes I'm a jerk) We made out a couple times after that, then she dumped him and started dating me a couple days later. Her previous boyfriend was her first and they dated for about 4 years. They were long distance and she just didn’t like him anymore. We are both in college, I'm 21, she's 20.
+
+2 days ago she randomly told me she wanted to take a break. Our college semester is over next week and she didn't want to talk for a couple weeks during our college break/vacation. I tried finding out why she wanted a break but she only said we were fighting alot and a bunch of little things made her unhappy. She couldn’t mention a single specific thing. She said that we weren't getting along this semester and she wanted us to be like we were last year. She didn't want us to hookup with other people during our break but she told me she couldn't tell me what to do during the break.
+
+After arguing for a while I agreed to try a break starting next week. I tried to talk about what was wrong instead of taking a break but she wasn't interested. After agreeing to the break she asked me how she could cheer her up. I jokingly said anal and she actually gave it a try minutes later even though we never did it before. The day before she brought up the break she also let me cum in her mouth for the first time and let me film us having sex. Right after I finished taping, she told me to delete it because she didn’t want me to show it to friends if anything happened. (but she was fine with random people she didn’t know seeing it..go figure)
+
+I stayed up all night after the conversation working on a project for finals due the next morning. I couldn't sleep at all worrying about our relationship. Yesterday, I told her I wanted to talk. We argued about having the break and then I asked if she was still my girlfriend. Crying she told me no. I asked her if she wanted to make this a break, and she no, said it was a breakup.
+
+I'm really not sure what to do. Once, during thanksgiving vacation she told me that she was drinking with a couple of her girlfriends. I asked if her ex was coming and she told me no. (Her friend is good friends with her ex.) Late at night she sends me a text saying ""the guys are here"". I ask her to call, and she does. She cries on the phone and says she is staying upstairs and doesn't want to talk with her ex. I'm annoyed because it turns out that she found out the ex was coming when she arrived at her friend’s house. She claims they just talked in a group for a minute then she went upstairs to avoid them. I wake up the next morning and see that they are friends on facebook.  
+
+I’m just really upset about the whole thing. After finals I’m looking at my last semester of college. Pretty much all of our friends are in the same friend group. I’m worried I won’t be able to hang out with them if things don’t work out. I still want to be with her but I’m not sure what I should do. I’ve been thinking about texting her to talk sine we’ve broke up. I’m good friends with her suitemate (she’s dating one of my roommates) and she is going to talk to her today. 
+
+edit: She did say that our fights made her unhappy and that we fought too much. A mutual friend said our fights were pretty average and we always resolved them within an hour. Her other complaint, which she mentioned during our relationship was that I was snappy sometimes.
+
+In 2 weeks I'll be moving into my brothers apartment (He'll be away for 2 weeks but his housemates will be around) for my semester break to continue working at a F500 company I had an internship at last summer. Maybe I'll have fun going to West Hartford bars/clubs. I haven't been to bars too much because I've been dating her before I turned 21. I know everyone says to end it, but I feel like if I hook up with someone, that we will be done forever.
+
+Also I'm worrying about my friend group because the group is a few of my guy friends (my roommate is dating her friend) and girls she has known since freshman year. It's not as simple as just keeping the friends we had before the relationship because our group consists of both of our friends and I became friends with her girl friends before I even met her. "
+ekkrj,5,2010-12-12,Need some honest advice,throwaway-rand,relationship_advice,https://www.reddit.com/r/relationship_advice/comments/ekkrj/need_some_honest_advice/,"I am an almost college graduate and I have been involved with the same girl for almost five years.
+
+Over the last few months, we have fought a lot and have ""broken up"" a handful of times, despite my plea that labeling us with 'girlfriend' &amp; 'boyfriend' titles has done nothing but put unneeded pressure on our relationship.
+
+I don't want to come off as an cocky insidious prick, but a lot of our problems stem from our difference in intelligence. Simply, she struggled with (but had the determination to get through) a very easy college curriculum at an entry-level school. I have had a generally easy time with a very technical major that led me to internships in multiple ivy league research labs.
+
+I feel that her inability to approach things from a practical and reasonable point of view is the root of many of of our problems. But, this might be the engineer in me speaking.
+
+She is, also, my first real girlfriend. This is a classic 'high school sweetheart' kind of situation. 
+
+Yet, I love her a lot. But this relationship is becoming increasingly frustrating. Is it right for me to break up with her because of this?
+
+---
+
+I started writing this without anticipating how long it could become. So, I decided to stop here.
+
+I feel that I have generalized a little bit and that we are both very complicated multi-faceted individuals. Perhaps take this post with a grain of salt.
+
+---
+
+Also, any questions for me to help you help me are welcome. Even encouraged."
+elmjr,1,2010-12-14,"In one week, I can light up once more; How I experienced my break from smoking up.",Possimbable,trees,https://www.reddit.com/r/trees/comments/elmjr/in_one_week_i_can_light_up_once_more_how_i/,"Hey fellow Ents.
+
+I'm a Dutchie that smokes quite some when I'm back home, but I've been doing an internship in Munich the last 4 months. While living here, I smoked up once in 4 months. I'd like to share with my fellow Ents how I experienced it!
+
+
+I've been lurking around trees for about 4 months now, and in that time I've smoked one spliff (which was about 3 months ago). I've been sober for a few reasons, the first being that it's just too hard to get and expensive here. Since Munich apparently does not have that much criminality, the police can focus on small offenses such as people smoking them marijuana's. 
+
+Secondly, since I have to work from 9-18 every day, I've found that smoking weed just makes it a whole lot harder to get up and be focused all day. I have kind of proved to myself that I do not really need it, although I kind of miss it at times. Funniest thing is that I made a list of things that I have to do, watch or play when I am high, because sometimes people tell me about a movie, game or whatever and I just think it would be so much better when high so I just add it to the list of things to do when I get back to NL. Another thing, which surprised me, is that apart from the times I smoke alone, it feels a whole lot different smoking with the people here than it is to smoke with my friends at home. This is another reason I'm looking forward to smoking with my friends again rather than trying to get some shit to smoke here. 
+
+So in 7 days, I'll be heading home, and I can say I'm fucking eager to light a big spliff with my friends and eat and play videogames all night. I've also noticed that I started smoking (yeah, I'm starting to notice small things like this now I'm sober, haha!) as a substitute for spliffs, which I can hopefully stop doing aswell when I'm back. I have to hold on for 1 week more, but I have a whole period of eating, chilling, vacation, spliffs and skateboarding to look forward to.
+
+
+In this time, /r/trees has had 2 effects on me. one: I love weed more. The atmosphere here is so great that I'm starting to notice the difference between stoners and sober people more and more, in a positive way. But, all this stoner talk and all these times I've laughed and thought “Oh man, I do that all the time when high.“ has made it harder for me not to smoke. But, I made it, and I'm going to celebrate it next week. Because of this, I love you guys (,and I hate you guys a little for making it hard not to smoke... But mostly love)! I'm not sure anyone gives a damn about this (Edit: Or has the energy to read all this!), but I just felt like sharing my experience. :)
+
+TLDR;
+Dutchie lived in Munich for 4 months without smoking, happy he goes back home and can smoke again in 1 week!"
+en3zk,40,2010-12-16,[Request] Any HR or hiring managers around? I'd love a mock phone interview,sciencehair,Favors,https://www.reddit.com/r/Favors/comments/en3zk/request_any_hr_or_hiring_managers_around_id_love/,"I've got an interview in the morning and I haven't had one in 5 years. I really don't know what to expect so I'm requesting that someone who does this for a living call me and have a fake phone interview with me. I'd also love some tips at the end of said interview on things I could have done better in my interview. Any kind soul that can help me please leave a comment and I'll contact you through pm and send you my resume so you have something to work with. The interview is for a quality assurance engineer position so anyone working in a related field would be especially helpful. I can't afford to compensate you but if I do land the job, I'd be so happy to send some scratch your way for helping me out. Thanks!
+
+Edit: ozuri was extremely helpful. A big thank you to him.
+
+Edit2: Thank you to bingosherlock and UKDude20 for even offering but I didn't have a chance to speak with them. I wish I had thought of this idea sooner. The interview went very well! One of the managers spoke as if I already got the job but they haven't made an offer yet.
+
+Edit3: I sent a quick thank you email and now I'm just waiting for a call. Monday can't come soon enough. I'll be sure to update this as soon as I know.
+
+Edit4: It's Wednesday night and I haven't heard back so I'm assuming the worst. No relevant experience :(. I'm not discouraged, just gotta suck it up and do some internships for a while I suppose. Thanks everyone!"
+enwld,1,2010-12-18,IAmA new hire in the Actuarial Development Program at a large life insurance company. AMA.,actuarial_student,IAmA,https://www.reddit.com/r/IAmA/comments/enwld/iama_new_hire_in_the_actuarial_development/,"Been a pretty long journey to get to this point for me. I graduated with a math degree (and CS minor) and a 3.1 GPA from a well known and respected state university in Dec 2008. I had also passed Exam P in Sep 08.
+
+I tried looking for jobs before/after graduating and could not even get a phone call. It was one of the most frustrating and discouraging times in my life. It was pretty hard going from living on my own for 4 years to being unemployed and living with my parents again. I didn't give up, I really wanted to get into the profession so I was studying for the next exam and applied to graduate school for Actuarial Science. I got accepted, passed exam FM in May 09, and started school in Sep 09.
+
+I didn't try to take another exam during my first semester (which was a mistake) but they did bring in a few companies so I managed to get an internship for the Spring 10 semester (not the greatest company in the world, but it was something and they paid in the form of a scholarship for school). In the spring I was taking 2 classes, working 20 hours a week, and studying for another exam (MFE).
+
+I also interviewed for internship positions at other companies for the summer. I got an internship at the company I am currently at now (a large life insurance company), which paid me real money (as an intern I made more than most people with full time jobs). I started in May 10 and found out I passed MFE in July (and got a raise for it). In late July, they asked if I'd like to stay on part time as an intern while I finished up school. I agreed.
+
+This semester I took 4 classes, was working about 30 hours a week, and was studying for another exam (MLC). I took MLC in November and am waiting for the results now (though I'm not hopeful). I had a couple of interviews this semester and was offered jobs at both of them, as well as the company I am with now. I decided to stay with the company I am with now and am starting full time mid-January.
+
+I am almost done with finals and finished interning a couple of days ago. This semester I probably worked about 65-70 hours a week between work, school, and studying. Now I basically have a four week vacation and a decent amount of money to saved up to float me until I start working again.
+
+**TL;DR - After 2 years of working hard, studying a lot, and a lot of hopelessness, I have a very good paying job as an actuarial student. AMA about the exam process, my decisions, or anything else really.**"
+eom75,1,2010-12-20,Summer Internships (advice/tips needed),ethereal792,Seattle,https://www.reddit.com/r/Seattle/comments/eom75/summer_internships_advicetips_needed/,"I'm browsing through a variety of websites regarding summer internships, but I was curious if anyone in the Seattle reddit has an open position in the summer for an Information Science/Informatics undergrad at the University of Washington.  Any advice or tips for finding an internship in the area would be great as well.  Happy holidays, thanks!"
+eoxl2,14,2010-12-20,IAmA an IT recruiter in the San Francisco Bay Area.  AMA.,throwaway143,IAmA,https://www.reddit.com/r/IAmA/comments/eoxl2/iama_an_it_recruiter_in_the_san_francisco_bay/,"Hi Reddit,
+
+Brief summary on myself.  I graduated from UC Irvine in 2009 with honors in Biomedical Engineering.  I ended up in recruiting due to the shitty market and my general lack of interest in engineering after doing several projects and internships.  I've been a Redditor since high school (2004-ish) and I love the community.
+
+I like what I do and I do it pretty well.  I can code in several scripting languages (python, C/C++, Javascript, HTML, CSS) so my background is completely different than most of the other recruiters out there.
+
+I work for a large and well established firm and I sit in downtown San Francisco.  I know a lot of the community is in IT and here in the Bay Area so I wanted to give back.  I'll answer any questions to the best of my ability.
+
+AMA
+"
+epg8d,1,2010-12-21,Intern wanted for local Philly website/blog-heyphilly.com/aroundphilly.com ,caaptainmontereyjack,philadelphia,https://www.reddit.com/r/philadelphia/comments/epg8d/intern_wanted_for_local_philly/,"Hey folks,
+
+The company I work for, AYC Media, is seeking college interns to write and produce content for our website aroundphilly.com and heyphilly.com. We are looking for English and Communication majors, and verbally gifted artists, graphic designer. Below is the official intern listing. But feel free to private message me. Our website, aroundphilly.com, is about to be re-designed to a hipper, more youthful blog format, featuring music and art reviews so this is great chance to get in on the ground floor of a brand new website venture. 
+
+Some things you should be able to do:
+-Photoshop
+-Video Editing
+-Own a working laptop
+-Good people skills to interview
+-maintain a good grasp on trending events, stories, viral media
+-be a cool person
+-Ability to write quickly and be funny and interesting
+-Reliable
+-professional
+ 
+
+
+A local nightlife and city guide is looking for a stellar intern to join our team.
+
+This is a highly competitive promotions and editorial internship in a fun, fast-paced creative environment.
+
+Interns work along side our top editors and designers creating content, pitching ideas, taking videos, researching and interviewing on the streets of Philadelphia and streamlining information. We have a lot going on this semester and need a good deal of responsible and creative interns/street team members. This internship can be as big as you make it. This is a non-paying internship but students will get credit and recommendations... and maybe tickets to some of our local sports partners, if you really impress us.
+
+CREATING CONTENT
+We are looking for talented writers who don't take themselves too seriously. Someone who uses their knowledge of politics, media, gossip, local news, trends, pop-culture jokes and national headlines to craft reverent, witty and smart articles about the serious and superficial things people are interested in.
+
+MANAGING NEW MEDIA
+You're probably already using Facebook and Twitter, and maybe even FourSquare. But with thousands of new location-based marketing and networking applications out there, it's hard to keep track. We need staff members who can keep their ears to the ground on the latest and greatest in what people are using to access what we're doing - sweepstakes, mobile applications, deals/specials at various local venues and more.
+
+FILMING AND PHOTOGRAPHY
+We are taking steps in a new direction with our articles, given the recent decrease in newspaper/magazine readership. So while we still need journalists looking for newsy and reverential clips, we need to incorporate more videos. Our interns are out in Philadelphia interviewing bartenders, chefs and store owners on camera. These videos are included within your review/article.
+
+ATTENDING, PLANNING &amp; POSTING EVENTS
+As an editorial team member, we also ask you keep us in the loop of fun events (college, dance, film, music, underground-- anything). You will have to pitch and post events, as well as attend some events to take photos and mingle with the crowds who are probably daily readers of our website.
+
+Requirements include:
+Determination and drive
+Communications, English Marketing or PR major or minor
+Detail-orientated and perfectionism
+Creative thinking and passion to be involved in all processes
+
+Our audience averages 155,000 unique visitors, reaches 500,000 sessions and registers over 6.5 million hits per month. Powered by AYC Media, Heyphilly.com is the premier online nightlife and entertainment guide in the Delaware valley.
+
+Please submit your resume, a writing sample and the reasons why we should give you this internship spot to: chrisl@aycmedia.com
+
+
+Preferred majors: English, Comm, Marketing, PR"
+eq1lv,1,2010-12-22,Feeling down and lonely,DownAgain,self,https://www.reddit.com/r/self/comments/eq1lv/feeling_down_and_lonely/,"Hey, Reddit.  I guess this is my first actual post, despite the throwaway.  Not really sure why I'm writing this.  I realize a lot of this is gonna seem petty compared to a lot of the other stuff on here, and reading about how this community helps people out does make me feel better.
+But I guess I've just been really down lately.  I've never exactly had a large group of friends, but my girlfriend (of several years) broke up with me a few months ago (I still miss her, or maybe just miss being in a LTR), and turns out a lot of the ""friends"" I'd been hanging out with the last few years were really just hers.  I haven't heard from them since.  My job pays decent, but I'm not sure it's really what I even want to do, and despite working here for awhile and having a degree and a brain, I'm basically treated like an intern.
+
+I'm starting grad school just because I want to improve my situation some, but it's a pretty broad major with a lot of options for concentration and I really don't even know what I'd want to go into, if any area of it at all.  I don't feel like I have much of a passion for or am good at any one thing.
+
+On top of that, I'm almost 30 and still living at home.  I've been looking at apartments and can probably afford it, but to be honest I'm kind of scared of the idea of being completely alone in a new place when I basically have no one to talk to or visit or help out or anything.  Some nights when I'm down I just find myself looking through my facebook or AIM list for somebody to talk to and just can't find anyone I'd even feel comfortable talking to (mostly just some acquaintances I don't really see or even talk to anymore).
+
+I don't think I'm especially shy or hard to get along with or anything, it's just hard meeting new people or finding the motivation to Do anything when you don't have much of a foundation to begin with or people to go out with.  I don't really think I'm looking for advice or help or anything, I don't know.. but thanks for listening and letting me get it out there."
+eq2im,18,2010-12-22,"IAmA developer working for Microsoft, Part 2. AMA!",DrinkingKoolAid,IAmA,https://www.reddit.com/r/IAmA/comments/eq2im/iama_developer_working_for_microsoft_part_2_ama/,"The last AMA was lots of fun to do, and I've been meaning to do another for awhile. The last one was just over a year ago, and you can check it out here:
+
+http://www.reddit.com/r/IAmA/comments/9jo27/i_work_for_microsoft_as_a_developer_and_worked_on/
+
+I'm sure there's plenty more that people may want to ask me. Feel free to ask me anything you want. Keep in mind that I work on Windows, so I may not be as informed about other products at Microsoft. I'll answer questions as best I can without saying anything that could get me fired.
+
+Since I got a lot of comments and messages about jobs at microsoft, everyone should know that the best place to apply for full time or internship is here:
+
+http://careers.microsoft.com/
+
+Microsoft is always hiring, and if you're a college student, I highly recommend applying for an internship. Even if you don't want to work here full time, it was a great experience for me, and I learned more in a 3 month internship than I did in a year of school.
+
+As a side note, I just wanted to mention that I've been watching the various ""AMAs"" that Microsoft has been posting (like the one from the IE team), and I just want everyone to understand that the official AMA stuff you see have very few responses written by developers. Everything is posted or filtered by middle-management types, which is why they always seem ""fake"". One of the reasons I wanted to do another AMA is so that anyone who was annoyed by those AMAs could ask me anything they want and I'll be as honest and straightforward as possible.
+
+Ask away! "
+eq2s3,5,2010-12-22,Is it time to forget about this girl? [long distance Germany - Canada],dreamsofastronomy,relationships,https://www.reddit.com/r/relationships/comments/eq2s3/is_it_time_to_forget_about_this_girl_long/,"Okay, Ill begin with a little background.
+
+I´m 26, living in Germany and had been with a Canadian girl for close to 3 years until last September. She was an Au pair here and had 1.5 years together here in germany, and the rest was long distance. We´ve put up with a lot to make it work. In those last 1.5 years of our relationship we were able to make about 4 trips over the ocean seeing each other a few weeks. i always paid the tickets and did everything in my power to make it work...
+
+She is 21 now and very good looking. Probbaly a 9, while im more of a 7.
+
+So this summer she was able to stay here for an internship for 3 months...  things started out a little rough but we got back into our groove after about a month or so. But by the end of the trip everything was super lovy-dovy again, she said I wasn´t gonna be the one who got  away etc. we made plans for me to come over in october and pull on through until next September (2011, when we will both have our education finished, Im grad student, shes a social worker).
+
+Now as soon as she goes back and we are apart again, she will close up and its almost like talking to a concrete wall...  she says she does it to protect herself. But we actually make some decent heartfelt phone conversations before i go on a 2 week trip to france/spain.
+As soon as I come back shit hits the fan. I get an email telling me she cant do it anymore and wants a break. Its all too hard on her. A chain reaction ensues. I call her and get quite mad cos well duh..  what a change of policy. We both say pretty rough things. But especially hard stuff comes from her.
+she eventually says: ""I feel like I need your permission to break up with you"". I burst in fucking tears (hasnt happened in years). and im sitting there crying not comprehending wtf is happening. we hang up. And silence for 3 months. I tried really hard to keep the distance and let her figure out what mistake she has made.
+2 months in though, I was pretty sure this was all over and altough thinking about her constantly I decide its time to go out a lot and make new aquaintances. I go on a few dates with kisses but really I´m just trying to distract myself. 
+So come the three months apart she calls me in the middle of the night telling me how she had to think of me constantly and misses me so bad she wants to get back together and made a terrible mistake.
+I tell her I need to think about it and will call her next week.
+When I make the call she seems to have changed her mind again, telling me her phone call was a stupid idea and she doesn´t know what she wants. (I was and still am willing to get back together.
+Oh yea, she also asked me if I had been seing anyone. Being honest I said I had been on a few dates but nothing serious. And that I did so because I was sure of us being through.
+
+
+
+So last night after a bottle of wine I miss her once again and call her to see how things are. She seems to be real uninterested and tries to let me go after like 5 mins or so. she then does go on asking me about my mums and my neighbors address so she can send them christmas gifts, while mentioning I wont get anything because we are seperated and dnot have anything to say to each other.
+
+I am incredibly disappointed and angry. And if I didnt love the girl so much i wouldnt bother any further.
+However I know that everytime we are together (in the same place) its almost picture perfect. But as soon as we are apart being in our countries she closes down like concrete.
+
+Help me reddit. I need to make a decision for myself. should I avoid contact and just get her out of my head? Is it time to let go?
+She is in my thoughts constantly and I miss the times we had everyday. Any advice would be greatly appreciated.
+
+PS: Long time lurker, first post...   Hope I´m doing it right.
+
+edit: oh, did I mention we even considered marrying bout a year ago...   what a  rollercoaster ride it has been :-/"
+eqdbm,14,2010-12-23,Do people really move up in a corporate world or is it just a whole bunch of bullshit?,TheGraduate83,reddit.com,https://www.reddit.com/r/reddit.com/comments/eqdbm/do_people_really_move_up_in_a_corporate_world_or/,"Hello Reddit,
+
+I have been a lurker for two years but I never posted anything until today. This may be a long post, but I need your help here, reddit.
+
+There is a question that has been bothering me and I think that reddit is the only community that can answer it. This is what keeps me up at nights, so here it goes…
+
+I am going to graduate with a master's degree in engineering this coming spring and was wondering: 
+
+Do people really move up in a corporate world or is it just a whole bunch of bullshit fed to us in order to make us work harder? 
+
+I have been in the engineering world for 4.5 years, and from personal experience, I will have to say no. I have worked at different places, and there always seems to be a plateau that one can reach and then you cannot go any further! And that level that one can reach is actually shit work, with maybe 20% increase in pay over starting pay. For example, the furthest you can go is a ""team lead"", or ""project manager"" which is pretty much the responsibility of a boss, but with the authority of a grunt. 
+
+It seems to me that companies don't grow people nowadays. They hire ""experts"" with ""industry experience"" outside of the company that end up being our bosses. Let me tell you my personal story with the most recent bio-tech company that I worked for which grew tremendously over the past two years. The executive management did not promote people but hired directors and team leads outside of the company in order to bring ""expertise"" from the industry. These new bosses and directors were pretty much clueless about what we did, they did not even care; all they did was talk bullshit industrial lingo and argue with us. In the end, because of their incompetence, we missed two FDA deadlines, we missed two grants, and the executive management ended up laying-off 30% of its workforce while keeping most of the idiots that caused the failure in the first place on board. I hear about shit like that all the time. 
+
+So here is my final question to you:
+Have you or have you not moved up in your company in the past 5, 10, 20 years doing corporate office work engineering, accounting, business, etc? Have you gotten a better pay, better benefits, more responsibility, and more recognition? How much more pay to responsibility did you get(pay to responsibility, eg. Becoming a boss for 5% pay increase is not a good deal)? Has anyone of you ever made it into executive management by working hard, by working smart, by hitting deadlines, by developing the company, by being nice and getting along with coworkers? Has anyone ever become a big executive pimp raking in at least $300k with options after 10 to 20 years of hard work? How long have you worked in the industry and what has your percentage pay increase been over your starting pay?
+
+I will be fine with either answer. It would be really nice to talk to me about your corporate experiences because that way I can know and I can concentrate my energies towards things that matter. I would like to become financially independent, as anyone on here. But if I cannot do it through the corporate world, then I'd like to explore my options.
+
+Thank you.
+
+-------------------------
+edit1: I was literally amazed by how many replies this post has gotten in such a short time. Based on what I have gotten so far, the best way succeed in the corporate world is to:
+
+
+1. Kiss ass and suck **** as much as you can in order to be considered for the next promotion.
+2. Be fair and play nice with the right people.
+3. Change companies for a better pay and position. Or come back for even more pay.
+4. Love your job, over-deliver and hope that the opportunity will present itself. It sometimes does.
+5. Pimp Pay with corner office not likely in 5 to 10 years, maybe after 15 to 20+ years of hard and smart work
+
+This post turned out better than expected. I wasn't expecting many positive comments about the corporate world, but it turns out I was wrong. Tell me more guys, I need more personal experiences and examples!
+
+------------------------------
+edit2: There seems to be a confusion on here about my own carrier path. I worked for the same company in 3 different departments and buildings over the course of 4.5 years. I went from intern, to technician, to engineer with every promotion adding $10k to my pay. But I could have just gotten that same pay as an engineer right out of school anyways. I just worked at that company before I even graduated with my BS degree."
+equwq,25,2010-12-24,Math major with no programming experience - Which language should I learn?,cloud7,math,https://www.reddit.com/r/math/comments/equwq/math_major_with_no_programming_experience_which/,"I have brief experience with MatLab, but otherwise no coding experience. I've never been really introduced to a language, but I understand there are quite a few. Does it matter what language you learn - for example, is it easier to do things in one language, or better to use one language for certain types of problems, etc.?
+My uni's intro CSE courses teach basic Java, but I've heard Sage and Ruby are pretty easy, I have friends who love Python, others who like C++, the lab I used to work at used solely Mathematica... gaaaah, where do I begin?
+
+Thanks!
+Just for background info - I probably won't use programming as a math major, but some of the research I'm looking into doing for summer internships recommends knowing *something*. But it's not required, and I fulfill other optional requirements, so I'm not worried that it'll hinder me completely. I just want to learn something because it'll be useful/practical/fun. 
+
+Thanks again!"
+esseu,0,2010-12-28,Is it right to pursue an ex that broke up with you?,CantShake,TwoXChromosomes,https://www.reddit.com/r/TwoXChromosomes/comments/esseu/is_it_right_to_pursue_an_ex_that_broke_up_with_you/,"My ex-gf of ~2.5 years broke up with me about 3 weeks ago. She wants to remain friends and is sincere about that (she is friends will all of her ex's) I, on the other hand, realize only now what a complete idiot I was for not realizing what a gem I once had.  I want her back so badly, but she clearly wouldn't have broken up with me if she wanted to be with me. I don't really know what I am trying to ask, I'm just in a haze right now and wish she was still with me.
+
+Why she ended it: During the fall semester she had an internship in another city, we would chat all the time on IM and call each other and she would always vent to me, and she had a lot to vent about being in a new city with no one she knew. This started to bother me a bit because I was talking the heaviest/hardest course load of my life and I was stressed out as it was and so I wasn't as sympathetic as I should have been. So needless to say the ldr was wearing on us. We broke up during the semester but we both hinted at getting back together when she came home, I figured she partly wanted to be able to mingle with the men in manhatten and not feel guilty about it and I was cool with that but I always assumed she would eventually come back to me. When she came home she said she wanted to make our breakup permanent.
+some things she mentioned about me that influenced her decision: I am currently on SSRI's and it destroys my sex drive, this obviously was a source of stress for us both. We also both like to drink quite a bit but she thinks I drink too much, but over the past semester i drank roughly 10 times in total. She also says she wants someone who is more affectionate and likes to cuddle and stuff more (i grew up with two parents who were in the military and basically conditioned the guys to express very little emotion) umm, i think that about sums it up.
+
+I've offered to go to counseling to work through my bullshit and also relationship counseling but this was during our breakup discussion and she said she didnt want to.
+
+
+edit: Welp, a drunken phonecall last night revealed to me that she had been sleeping with my best friend since before she even went to nyc. Life is pretty lame sometimes."
+et5bl,23,2010-12-29,"constipated_HELP, reddditor of the day, December 29, 2010",redditoroftheday,redditoroftheday,https://www.reddit.com/r/redditoroftheday/comments/et5bl/constipated_help_reddditor_of_the_day_december_29/,"##[constipated\_HELP](http://www.reddit.com/user/constipated_HELP)
+
+
+
+##Stats
+
+
+
+&gt;Sex?
+
+
+
+&gt;&gt;Male
+
+
+
+&gt;Age?
+
+
+
+&gt;&gt;20
+
+
+
+&gt;Relationship Status?
+
+
+
+&gt;&gt;Single-ish/it's complicated
+
+
+
+##Favorites:
+
+
+
+&gt;Cats or Dogs?
+
+
+
+&gt;&gt;Cats
+
+
+
+&gt;Favorite beverage?
+
+
+
+&gt;&gt;Soda with cane sugar instead of HFCS. Especially root beer or cream soda.
+
+
+
+&gt;Food?
+
+
+
+&gt;&gt;Reuben
+
+
+
+&gt;Movie/tv show?
+
+
+
+&gt;&gt;Dr. Strangelove/Dexter
+
+
+
+&gt;Music?
+
+
+
+&gt;&gt;I don't listen to much music
+
+
+&gt;Book?
+
+
+&gt;&gt;Harry Potter. Maybe the Deathly Hallows, but it's hard to choose one.
+
+
+&gt;Game?
+
+
+&gt;&gt;Battlefield 1942
+
+
+
+##Miscellanea:
+
+
+
+&gt;What makes you laugh?
+
+
+
+&gt;&gt;People doing stupid stunts. Often involving fireworks.
+
+
+&gt;What is your biggest pet peeve?
+
+
+&gt;&gt;People who justify killing hundreds of thousands of citizens with politics (Hiroshima/Nagasaki, Vietnam, Palestine, Iraq/Afghanistan).
+
+
+
+&gt;What general area of your country you live in?
+
+
+&gt;&gt;Upstate New York.
+
+
+&gt;Do you love it?
+
+
+&gt;&gt;I love snow, but it's kind of barren. It can be depressing.
+
+
+&gt;What was the best thing about the last year?
+
+
+&gt;&gt;I decided I was going to be a photojournalist, fuck making lots of money.
+
+
+&gt;What are you looking forward to in the year ahead?
+
+
+&gt;&gt;Several newspaper internships (hopefully), and my last year of J-school.
+
+
+&gt;If You Were Granted One Do-over, What Would It Be?
+
+
+&gt;&gt;Buy my name as a url ten years ago before it was taken.
+
+
+&gt;A butterfly flaps its wings... what small thing have you done or said that lead to something disproportionately larger?
+
+
+&gt;&gt;I like to think that I've made a bit of change by exposing the stories I have done so far. Hopefully they have made a little bit of a difference.
+
+
+&gt;All things considered what is the most important thing in the world to you?
+
+
+&gt;&gt;People die of injustices all the time without anyone caring. It bothers me almost as much as people I know dying. I want to spread this pain. Maybe people will do more to help, but at the very least the forgotten deserve to have someone cry for them. Especially someone from a country that tends to be responsible for their deaths...
+
+
+##Concerning reddit:
+
+
+&gt;What is the origin or meaning of your user name?
+
+
+&gt;&gt;When I was around 8 or 9, my cousin introduced me to AIM. It was rapidly becoming a ""thing"" in her school - everyone knew each other's screennames and talked for hours after school got out.
+She made a fake account called ""Constipated_HELP,"" and trolled her classmates. Hers was the one username people couldn't attach to a person, but they knew it was someone at the school. She wreaked havoc and caused AIM to get banned from her school. Kids weren't even allowed to talk about it because of the amount of drama.
+
+
+&gt;Total number of reddit identities you’ve had?
+
+
+&gt;&gt;7
+
+
+&gt;What is your favorite part of reddit?
+
+
+&gt;&gt;/r/bestof
+
+
+&gt;What do you do when you’re not on reddit?
+
+
+&gt;&gt;Photojournalism, and a little bit of downhill skateboarding.
+
+
+&gt;Do you think reddit has changed in the last year or so?
+
+
+&gt;&gt;Yes. I think I joined at the end of the days that it was dominated by almost-socialist left-wing programming genius 35-year-olds.
+
+
+&gt;&gt;I remember the days that the front page was sometimes dominated by links I couldn't even read because I've never gone beyond CSS, HTML, and flash.
+
+
+&gt;If so, do you think it’s been for the better?
+
+
+&gt;&gt;Nope. One can always move further into the subreddits, but we're constantly shifting to a larger representation of the ""normal"" population.
+
+
+&gt;&gt;I strongly believe that ultra smart, über sensitive, conspiracy theorist geeks are far better than ordinary people.
+
+
+##Final Question: 
+
+
+&gt;Is there anything you'd like to plug/promote/advocate?
+
+
+&gt;&gt;At first thought, I'd like to promote my own blog. But I still use this account somewhat anonymously, so I'll avoid the temptation.
+
+
+&gt;&gt;My motivation to get better as a photojournalist is my intense need to do something about what my taxes pay for overseas. So here's my plug:
+
+
+&gt;&gt;The US has killed well over 1,000,000 people overseas since 2001 (mostly undocumented). Around 200,000 of these (documented) were considered ""non-combatants.""
+
+
+&gt;&gt;Those that are considered combatants are condemned by pretty much everyone in the US. But the problem is this: if we were invaded in a similar way, I can guarantee that seeing family members die would be enough for most of us to pick up some fertilizer and fight back.
+
+
+&gt;&gt;We call them ""terrorists,"" they call them the resistance.
+
+
+&gt;&gt;Enough soapboxing. Thank you, redditor of the day."
+ettv1,38,2010-12-30,IAmA web designer from the '90s (and still today!),jenzo,IAmA,https://www.reddit.com/r/IAmA/comments/ettv1/iama_web_designer_from_the_90s_and_still_today/,"I am a web designer from the '90s. After having an internship at Wired Magazine in 1994, I became extremely interested in the web. There were no schools or classes to teach web design or html, so I taught myself. My senior project at the University of Cincinnati involved making an interactive campus map. Even though it was live for several years, I got a B because my professors did not know how to use the internet. 
+After graduation, I got my first job for Time Warner's Pathfinder. (talk about an oldie). Not long after, I was given the great opportunity to work for Don Buckley at Warner Bros., the visionary responsible for bringing these kinds of movie sites to the web. We had a great team and created several awesome, though now old-school, sites. 
+Today, I continue to work on the web. And I still love what I do. Any questions? http://www.jenzo.com"
+euceg,0,2010-12-31,please give me a job,pleasefindmeajob,vancouver,https://www.reddit.com/r/vancouver/comments/euceg/please_give_me_a_job/,"I came online today to start applying for jobs again. After clicking a couple links I went to update my resume and scrolling through the various resumes I've made over the past year almost gave me a breakdown. I have at least 75 different versions. I simply cannot do this anymore.
+
+
+For any potential employers - I have not been unemployed all year. I have been taking courses through a certificate program, working an unpaid internship at a publishing company several days a week, and working a near-minimum wage job in the hospitality industry to pay the bills. I cannot work that job anymore as I fear for my sanity if I stay there much longer.
+
+
+All I need is a part-time job that pays at least $12/hr (but preferably much more). I have a lot of work experience, a good work ethic and excellent references. I hold a University Degree and graduated with a B+ average. I have worked in supervisory/management roles in retail, customer service and hospitality, taught English both in Canada and Abroad and worked in office environments. I am excellent with computers - I have an average typing speed of 65 words per minute, an advanced knowledge of word, excel, access, power point etc. I am also great with kids and animals.
+
+
+If you have a job, here is a sample of the things I can/would be willing to do:
+
+
+***Editor (I can help you with copy editing, proofreading or substantive editing. I have helped many people with their novels, children's stories and non-fiction books. If you have a book you are writing I can definitely help you with the process)
+
+Anything in the non-profit sector
+
+Receptionist/Office Administrator
+
+Office Temp
+
+Support Worker
+
+Childcare
+
+Dog Walker
+
+Personal Assistant
+
+ESL Teacher/Tutor
+
+Elementary or High School Tutor (I have also worked as a math tutor for grade 9 - 1st year calculus)
+
+Bartender (not in a club, bars or pubs are okay)
+
+Inbound Call Center Representative
+
+Travel Agent
+
+Library Clerk
+
+Store Clerk (in a non-big-box store - feels less degrading in some way)
+
+Production Assistant
+
+
+This list is not inclusive, as I'm sure there are many other things I would be willing to do. If you do have any of the above jobs to offer, or anything else that you could hire me for, please do not hesitate to contact me, as I am desperate.
+
+Thank you.
+
+"
