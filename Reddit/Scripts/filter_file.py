@@ -8,10 +8,10 @@ from datetime import datetime
 import logging.handlers
 
 # put the path to the input file, or a folder of files to process all of
-input_file = r"/Users/popoolso/Downloads/reddit/submissions"
+input_file = r"/User"
 # put the name or path to the output file. The file extension from below will be added automatically. If the input file is a folder, the output will be treated as a folder as well
-#output_file = r"\\MYCLOUDPR4100\Public\askreddit_comments_hero"
-output_file = r"/Users/popoolso/Downloads/reddit/csv"
+#output_file = r"\"
+output_file = r"/Users/"
 # the format to output in, pick from the following options
 #   zst: same as the input, a zstandard compressed ndjson file. Can be read by the other scripts in the repo
 #   txt: an ndjson file, which is a text file with a separate json object on each line. Can be opened by any text editor
